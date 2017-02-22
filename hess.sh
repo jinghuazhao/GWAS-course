@@ -12,8 +12,6 @@ do
     awk 'NR>1' $rt/tests/${trait}-${chr}.txt | \
     awk '{$2=sprintf("%00000000015d",$2);print}' | sort -k2 > 2
     join -13 -22 1 2 | awk -f $rt/hess.awk > $rt/tests/${trait}-${chr}.dat
-  done
-  rm 1 2
   # Step 1 - compute eigenvalues and projections
     python hess.py \
     --chrom $chr \
@@ -24,6 +22,6 @@ do
     --out $rt/tests/$trait-s1-chr$chr
   # Step 2 - compute local SNP heritability
     python hess.py --prefix $rt/tests/$trait-s1-chr$chr --k 20 --out tests/$trait-s2-chr$chr.txt
-    rm 1 2
   done
+  rm 1 2
 done
