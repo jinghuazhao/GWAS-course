@@ -3,8 +3,9 @@
 
 chr=$1
 trait=$2
+rt=$3
+rt2=$4
 
-rt=/genetics/bin/hess
 awk=/bin/awk
 join=/usr/bin/join
 python=/genetics/data/software/bin/python
@@ -12,20 +13,20 @@ python=/genetics/data/software/bin/python
 # Step 0 - GWAS summary statistics
 
 echo $trait-$chr
-$awk 'NR>1' $rt/tests/${trait}-${chr}.txt | \
+$awk 'NR>1' $rt2/${trait}-${chr}.txt | \
 $awk '{$2=sprintf("%00000000015d",$2);print}' | sort -k2 > $trait-$chr
-$join -13 -22 $chr $trait-$chr | $awk -f $rt/hess.awk > $rt/tests/${trait}-${chr}.dat
+$join -13 -22 $chr $trait-$chr | $awk -f $rt/hess.awk > $rt2/${trait}-${chr}.dat
 
 # Step 1 - compute eigenvalues and projections
 
 $python hess.py \
   --chrom $chr \
-  --h2g $rt/tests/$trait-$chr.dat \
+  --h2g $rt2/$trait-$chr.dat \
   --reference-panel $rt/refpanel/1kg_phase3_chr${chr}_eur_5pct_gen.txt.gz \
   --legend-file $rt/refpanel/1kg_phase3_chr${chr}_eur_5pct_legend.txt.gz \
   --partition-file nygcresearch-ldetect-data-ac125e47bf7f/EUR/fourier_ls-chr${chr}.bed \
-  --out $rt/tests/$trait-s1-chr$chr
+  --out $rt2/$trait-s1-chr$chr
 
 # Step 2 - compute local SNP heritability
 
-$python hess.py --prefix $rt/tests/$trait-s1-chr$chr --k 20 --out tests/$trait-s2-chr$chr.txt
+$python hess.py --prefix $rt2/$trait-s1-chr$chr --k 20 --out $rt2/$trait-s2-chr$chr.txt
