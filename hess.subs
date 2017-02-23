@@ -1,3 +1,4 @@
+#!/bin/bash
 # 23-2-2017 MRC-Epid JHZ
 
 chr=$1
@@ -12,8 +13,8 @@ python=/genetics/data/software/bin/python
 
 echo $trait-$chr
 $awk 'NR>1' $rt/tests/${trait}-${chr}.txt | \
-$awk '{$2=sprintf("%00000000015d",$2);print}' | sort -k2 > 2
-$join -13 -22 1 2 | $awk -f $rt/hess.awk > $rt/tests/${trait}-${chr}.dat
+$awk '{$2=sprintf("%00000000015d",$2);print}' | sort -k2 > $trait-$chr
+$join -13 -22 $chr $trait-$chr | $awk -f $rt/hess.awk > $rt/tests/${trait}-${chr}.dat
 
 # Step 1 - compute eigenvalues and projections
 
