@@ -23,7 +23,7 @@ $join -12 -21 legend${chr}.txt $trait.txt | $awk -f $HESS/QUS.awk > ${trait}-${c
 
 $python $HESS/hess.py \
   --chrom $chr \
-  --h2g $rt2/$trait-$chr.dat \
+  --h2g $trait-$chr.dat \
   --reference-panel $HESS/refpanel/1kg_phase3_chr${chr}_eur_5pct_gen.txt.gz \
   --legend-file $HESS/refpanel/1kg_phase3_chr${chr}_eur_5pct_legend.txt.gz \
   --partition-file $HESS/nygcresearch-ldetect-data-ac125e47bf7f/EUR/fourier_ls-chr${chr}.bed \
