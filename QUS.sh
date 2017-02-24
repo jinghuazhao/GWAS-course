@@ -16,4 +16,4 @@ for chr in $(seq 22); do
     awk -vOFS="\t" '{print NR,$1,0,$2,$3,$4}' > legend${chr}.txt
 done
 
-parallel -j10 -C' ' '/bin/bash /genetics/bin/hess/QUS.subs {1} {2} /genetics/bin/hess /genetics/bin/hess/QUS' ::: $(seq 22) ::: BUA VOS
+parallel -j10 -C' ' '/bin/bash /genetics/bin/hess/hess.subs {1} {2} /genetics/bin/hess /genetics/bin/hess/QUS' ::: $(seq 22) ::: BUA VOS
