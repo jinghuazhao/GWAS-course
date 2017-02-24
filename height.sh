@@ -20,3 +20,7 @@ for chr in $(seq 22); do
 done
 
 seq 22 | parallel -j10 -C' ' '/bin/bash /genetics/bin/hess/hess.subs {} height /genetics/bin/hess /genetics/bin/hess/height'
+
+# Step 2 - compute local SNP heritability
+  
+python $HESS/hess.py --prefix height --k 50 --out height.h2g
