@@ -1,7 +1,0 @@
-Command started at: Fri, 24 Feb 2017 20:50:49
-Command issued: /genetics/bin/hess/hess.py --prefix height --k 50 --out height.h2g
-Number of loci from step 1: 1703
-Total number of SNPs: 12068
-Using lambda gc: 1.00
-Estimated total h2g: 0.005 (0.0006)
-Command finished at: Fri, 24 Feb 2017 20:51:15
