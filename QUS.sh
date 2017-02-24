@@ -8,7 +8,7 @@ for trait in BUA VOS; do
     sort -k1,1 > ${trait}
 done
 
-bash /genetics/bin/hess/hess.sh BUA
-bash /genetics/bin/hess/hess.sh QUS
+/genetics/bin/hess/hess.sh BUA
+/genetics/bin/hess/hess.sh QUS
 
 rm BUA QUS
