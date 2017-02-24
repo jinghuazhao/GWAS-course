@@ -28,5 +28,5 @@ else if ( a1 == flip1 && a2 == flip2 ) z = $10;
 else if ( a1 == flip2 && a2 == flip1 ) z = -1*$10;
 }
 
-if ( z != 0 ) print $3,sprintf("%d",$1),a1,a2,z,$11
+if ( z != 0 ) print $1,$4,a1,a2,z,$11
 }
