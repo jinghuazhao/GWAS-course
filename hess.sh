@@ -13,7 +13,7 @@ for chr in $(seq 22); do
     awk -vOFS="\t" '{print NR,$1,0,$2,$3,$4}' > legend${chr}.txt
 done
 
-parallel -j10 {1} {2} {3} {4} ::: $(seq 22) ::: $trait ::: $HESS ::: $wd
+parallel -j10 $HESS/hess.subs {1} {2} {3} {4} ::: $(seq 22) ::: $trait ::: $HESS ::: $wd
 
 # Step 2 - compute local SNP heritability
   
