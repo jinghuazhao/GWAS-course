@@ -17,3 +17,8 @@ for chr in $(seq 22); do
 done
 
 parallel -j10 -C' ' '/bin/bash /genetics/bin/hess/hess.subs {1} {2} /genetics/bin/hess /genetics/bin/hess/QUS' ::: $(seq 22) ::: BUA VOS
+
+# Step 2 - compute local SNP heritability
+
+python $HESS/hess.py --prefix BUA-s1 --k 50 --out BUA-s2.txt
+python $HESS/hess.py --prefix VOS-s1 --k 50 --out VOS-s2.txt
