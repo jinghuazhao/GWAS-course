@@ -17,7 +17,7 @@ sort=/bin/sort
 cd $wd
 # Step 0 - GWAS summary statistics
 
-$join -12 -21 legend${chr}.txt $trait.txt | $awk -f $HESS/hess.awk | sort -n -k2,2 > ${trait}-${chr}.dat
+$join -12 -21 legend${chr}.txt $trait | $awk -f $HESS/hess.awk | sort -n -k2,2 > ${trait}-${chr}.dat
 
 # Step 1 - compute eigenvalues and projections
 

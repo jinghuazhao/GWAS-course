@@ -2,8 +2,8 @@
 # 24-2-2017 MRC-Epid JHZ
 
 trait=$1
-HESS=$2
-wd=$3
+HESS=/genetics/bin/hess
+wd=$trait
 
 cd $wd
 
