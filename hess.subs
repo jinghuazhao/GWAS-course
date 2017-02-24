@@ -27,8 +27,4 @@ $python $HESS/hess.py \
   --reference-panel $HESS/refpanel/1kg_phase3_chr${chr}_eur_5pct_gen.txt.gz \
   --legend-file $HESS/refpanel/1kg_phase3_chr${chr}_eur_5pct_legend.txt.gz \
   --partition-file $HESS/nygcresearch-ldetect-data-ac125e47bf7f/EUR/fourier_ls-chr${chr}.bed \
-  --out $trait-s1-chr$chr
-
-# Step 2 - compute local SNP heritability
-
-$python $HESS/hess.py --prefix $trait-s1-chr$chr --k 50 --out $trait-s2-chr$chr.txt
+  --out $trait
