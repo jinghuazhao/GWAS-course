@@ -1,24 +1,14 @@
 #!/bin/bash
 # 24-2-2017 MRC-Epid JHZ
 
-HESS=/genetics/bin/hess
-wd=/genetics/bin/hess/QUS
-
-cd $wd
+cd /genetics/bin/QUS
 for trait in BUA VOS; do
     gunzip -c ${trait}.ALL.GWAMA.out.gz | \
     awk -vOFS="\t" '(NR>1){print $1,NR,$2,$3,$9,$16}' | \
-    sort -k1,1 > ${trait}.txt
-done
-for chr in $(seq 22); do 
-    gunzip -c $HESS/refpanel/1kg_phase3_chr${chr}_eur_5pct_legend.txt.gz | \
-    sort -k1,1 | \
-    awk -vOFS="\t" '{print NR,$1,0,$2,$3,$4}' > legend${chr}.txt
+    sort -k1,1 > ${trait}
 done
 
-parallel -j10 -C' ' '/bin/bash /genetics/bin/hess/hess.subs {1} {2} /genetics/bin/hess /genetics/bin/hess/QUS' ::: $(seq 22) ::: BUA VOS
+bash /genetics/bin/hess/hess.sh BUA
+bash /genetics/bin/hess/hess.sh QUS
 
-# Step 2 - compute local SNP heritability
-
-python $HESS/hess.py --prefix BUA --k 50 --out BUA.h2g
-python $HESS/hess.py --prefix VOS --k 50 --out VOS.h2g
+rm BUA QUS
