@@ -11,6 +11,6 @@ awk '{
 }' /genetics/data/twas/14-10-16/GIANT/GIANT_HEIGHT_Wood_et_al_2014_publicrelease_HapMapCeuFreq.txt \
    | sort -k1,1 > height
 
-bash /genetics/bin/hess.sh height
+/genetics/bin/hess.sh height
 
 rm height
