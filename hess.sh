@@ -3,7 +3,7 @@
 
 trait=$1
 HESS=/genetics/bin/hess
-wd=$trait
+wd=/genetics/bin/hess/$trait
 
 cd $wd
 
