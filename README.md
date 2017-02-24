@@ -10,8 +10,8 @@ To set it up, modify file locations in hess.sh as appropriate for your system.
 
 The syntax is as follows,
 
-hess.sh <GWAS summary statistics>
+hess.sh GWAS-summary-statistics
 
-where <GWAS summary statistics> has these columns: rsID, pos, A1, A2, Z, N.
+where GWAS-summary-statistics has these columns: rsID, pos, A1, A2, Z, N.
 
 NOTE finally that HESS describes bed file as with UCSC (https://genome.ucsc.edu/).
