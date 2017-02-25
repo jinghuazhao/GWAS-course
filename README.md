@@ -1,4 +1,4 @@
-# This seeds a collection of utilities for GWAS
+# A collection of utilities for GWAS
 
 ## hess
 
