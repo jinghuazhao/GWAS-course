@@ -20,4 +20,4 @@ NOTE finally that HESS describes bed file as with UCSC (https://genome.ucsc.edu/
 
 ## utilities
 
-`invnorm.txt` describes how to do inverse Normal transformation.
+`invnorm.txt` describes how to do Inverse Normal transformation.
