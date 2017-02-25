@@ -1,0 +1,13 @@
+# 24-2-2017 MRC-Epid JHZ
+
+trait <- "height"
+f <- paste0(trait,"/",trait,".h2g")
+d <- read.table(f,sep="\t",header=TRUE)
+require(gap)
+opar <- par()
+par(cex=0.4)
+ops <- mht.control(colors=rep(c("lightgray","lightblue"),11),srt=0,yline=2.5,xline=2,logscale=FALSE)
+mhtplot2(data.frame(d[,c("chr","start","local_h2g")],gene=NA,color=NA),ops,xlab="",ylab="",srt=0)
+axis(2,at=1:16)
+par(opar)
+
