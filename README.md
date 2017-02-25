@@ -1,5 +1,7 @@
 # This seeds a collection of utilities for GWAS
 
+## hess
+
 The scripts here are developed to facilitate HESS as available from https://github.com/huwenboshi/hess.
 
 The scripts were initially tested using EPIC-Norfolk GWAS, for which I created test.sh, test.subs and test.awk; they work on /genetics/bin/hess/tests directory.
@@ -15,3 +17,5 @@ hess.sh GWAS-summary-statistics
 where GWAS-summary-statistics has these columns: rsID, pos, A1, A2, Z, N.
 
 NOTE finally that HESS describes bed file as with UCSC (https://genome.ucsc.edu/).
+
+##
