@@ -1,11 +1,13 @@
 # Inverse Normal transformation as in GIANT
 
-in SAS: 	proc rank data=mydata out=inv normal=blom;var &trait; run;
+in SAS: 	proc rank data=mydata out=myout normal=blom;var &trait; run;
 		/* & indicates macrovariable, e.g. %let trait=height; */
 
 in R: 		y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x))) 
  		# it works even if you have missing data 
 
-in STATA: 	pctile pvariable = variable, nquantiles(N+1) genp(percent_variable) 
-     		gen inv_normal_variable=invnormal(percent_variable/100) 
+in STATA: 	local N1=`N+1'
+		pctile pvariable = variable, nq(`N1') genp(percent_variable) 
+     		gen inv_normal_variable=invnormal(percent_variable/100)
+		// nq() is nquantiles() which does not accept expression such as N+1
 		// N is number of observations, _N, r(N) or e(N) as appropriate
