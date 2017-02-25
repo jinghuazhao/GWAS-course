@@ -1,10 +1,13 @@
 #!/bin/bash
-# 24-2-2017 MRC-Epid JHZ
+# 25-2-2017 MRC-Epid JHZ
 
 trait=$1
 HESS=/genetics/bin/hess
 wd=/genetics/bin/hess/$trait
 
+if [ ! -d $dir/$pop ]; then
+   mkdir -p $wd
+fi
 cd $wd
 
 for chr in $(seq 22); do 
