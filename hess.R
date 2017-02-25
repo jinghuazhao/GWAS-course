@@ -2,7 +2,7 @@
 
 trait <- "height"
 f <- paste0(trait,".h2g")
-d <-(read.table(f,sep="\t",header=TRUE)
+d <-read.table(f,sep="\t",header=TRUE)
 d <- within(d,pos=(start+end)/2)
 require(gap)
 pdf("height.pdf")
