@@ -5,7 +5,7 @@ trait=$1
 HESS=/genetics/bin/hess
 wd=/genetics/bin/hess/$trait
 
-if [ ! -d $dir/$pop ]; then
+if [ ! -d $wd ]; then
    mkdir -p $wd
 fi
 cd $wd
