@@ -10,6 +10,8 @@ if [ ! -d $wd ]; then
 fi
 cd $wd
 
+# Step 0/1 - setup/eigenvalues and projections
+
 parallel -j11 $HESS/hess.subs {1} {2} {3} {4} ::: $(seq 22) ::: $trait ::: $HESS ::: $wd
 
 # Step 2 - compute local SNP heritability
