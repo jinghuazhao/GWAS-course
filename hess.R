@@ -1,7 +1,7 @@
 # 25-2-2017 MRC-Epid JHZ
 
 trait <- "height"
-f <- paste0(trait,"/",trait,".h2g")
+f <- paste0(trait,".h2g")
 d <- read.table(f,sep="\t",header=TRUE)
 require(gap)
 opar <- par()
