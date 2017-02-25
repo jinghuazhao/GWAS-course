@@ -3,7 +3,7 @@
 
 trait=$1
 HESS=/genetics/bin/hess
-wd=/genetics/bin/hess/$trait
+wd=$(pwd)/$trait
 
 if [ ! -d $wd ]; then
    mkdir -p $wd
