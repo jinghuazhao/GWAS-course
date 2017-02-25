@@ -1,7 +1,6 @@
 #!/bin/bash
-# 24-2-2017 MRC-Epid JHZ
+# 25-2-2017 MRC-Epid JHZ
 
-cd /genetics/bin/hess/QUS
 for trait in BUA VOS; do
     gunzip -c ${trait}.ALL.GWAMA.out.gz | \
     awk -vOFS="\t" '(NR>1){print $1,NR,$2,$3,$9,$16}' | \
