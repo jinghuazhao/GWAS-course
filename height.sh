@@ -1,7 +1,6 @@
 #!/bin/bash
-# 24-2-2017 MRC-Epid JHZ
+# 25-2-2017 MRC-Epid JHZ
 
-cd /genetics/bin/hess/height
 awk '{
   FS=OFS="\t";
   t=NR
