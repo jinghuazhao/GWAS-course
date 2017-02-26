@@ -18,4 +18,4 @@ parallel -j11 $HESS/hess.subs {1} {2} {3} {4} ::: $(seq 22) ::: $trait ::: $HESS
   
 python $HESS/hess.py --prefix $trait --k 50 --out $trait.h2g
 
-rm $wd/legend*.txt $wd/${trait}.chr*.dat
+rm $wd/legend*.txt $wd/${trait}.*.dat
