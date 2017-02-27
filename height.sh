@@ -1,5 +1,5 @@
 #!/bin/bash
-# 25-2-2017 MRC-Epid JHZ
+# 27-2-2017 MRC-Epid JHZ
 
 awk '{
   FS=OFS="\t";
@@ -10,6 +10,6 @@ awk '{
 }' /genetics/data/twas/14-10-16/GIANT/GIANT_HEIGHT_Wood_et_al_2014_publicrelease_HapMapCeuFreq.txt \
    | sort -k1,1 > height
 
-/genetics/bin/hess.sh height
+/genetics/bin/hess/hess.sh height
 
 rm height
