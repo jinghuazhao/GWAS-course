@@ -1,7 +1,0 @@
-Command started at: Tue, 28 Feb 2017 13:54:44
-Command issued: /genetics/bin/hess/hess.py --prefix BUA --k 12 --tot-h2g 0.540130 0.033133 --out BUA.h2g
-Number of loci from step 1: 1703
-Total number of SNPs: 4465487
-Using lambda gc: 1.38
-Estimated total h2g: 0.528 (0.0911)
-Command finished at: Tue, 28 Feb 2017 13:54:49
