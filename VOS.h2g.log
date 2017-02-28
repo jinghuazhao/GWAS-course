@@ -1,0 +1,7 @@
+Command started at: Tue, 28 Feb 2017 13:54:54
+Command issued: /genetics/bin/hess/hess.py --prefix VOS --k 12 --tot-h2g 0.459667 0.03377 --out VOS.h2g
+Number of loci from step 1: 1703
+Total number of SNPs: 4465485
+Using lambda gc: 1.39
+Estimated total h2g: 0.469 (0.0915)
+Command finished at: Tue, 28 Feb 2017 13:54:56
