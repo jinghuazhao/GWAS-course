@@ -4,8 +4,10 @@ R: 	# it works even if you have missing data
  	y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x)))
 
 SAS:	/*31-3-2017 MRC-Epid JHZ*/
-
-	/* It illustrates residuals from multiple linear regression */
+	/* 
+	  It illustrates residuals from multiple linear regression
+	  and compare well with that from Stata (&trait._INV) below.
+	*/
 
 	%let by=sex;
 	%let trait=logTG;
