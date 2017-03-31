@@ -1,24 +1,37 @@
 # Inverse Normal transformation as in GIANT/GLCC
 
-R: 	y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x)))
- 	# it works even if you have missing data
+R: 	# it works even if you have missing data
+ 	y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x)))
 
-SAS:	%let trait=height;
-	proc sort data=mydata;
-	     by sex;
-	run;
-	proc reg data=mydata;
-	     model &trait=age agesq PC1-PC10;
-	     output out=r r=r&trait;
-	run;
- 	proc rank data=r out=data normal=blom;
-	     by sex;
-	     var r&trait;
-	     ranks &trait._inv;
-	run;
+SAS:	/*31-3-2017 MRC-Epid JHZ*/
+
 	/* It illustrates residuals from multiple linear regression */
 
-Stata: 	local N1=`N+1'
+	%let by=sex;
+	%let trait=logTG;
+	%let rhs=age agesq PC1-PC4;
+	proc import datafile='check.dta' dbms=dta out=check;
+	run;
+	proc sort data=check;
+	     by &by;
+	run;
+	proc reg data=check;
+	     model &trait=&rhs;
+	     output out=r r=r&trait;
+	     by &by;
+	run;
+	proc rank data=r out=data normal=blom;
+	     var r&trait;
+	     ranks inv_&trait;
+	     by &by;
+	run;
+	proc print data=data (obs=1000);
+	     var r&trait inv_&trait &trait._INV;
+	run;
+
+Stata:	// The skeleton is the following lines:
+
+ 	local N1=`N+1'
 	pctile pvariable = variable, nq(`N1') genp(percent_variable) 
      	gen inv_normal_variable=invnormal(percent_variable/100)
 
