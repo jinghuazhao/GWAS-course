@@ -1,13 +1,56 @@
-# Inverse Normal transformation as in GIANT
+# Inverse Normal transformation as in GIANT/GLCC
 
-in SAS: 	proc rank data=mydata out=myout normal=blom;var &trait; run;
-		/* & indicates macrovariable, e.g. %let trait=height; */
+R: 	y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x)))
+ 	# it works even if you have missing data
 
-in R: 		y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x))) 
- 		# it works even if you have missing data 
+SAS:	%let trait=height;
+	proc sort data=mydata;
+	     by sex;
+	run;
+	proc reg data=mydata;
+	     model &trait=age agesq PC1-PC10;
+	     output out=r r=r&trait;
+	run;
+ 	proc rank data=r out=data normal=blom;
+	     by sex;
+	     var r&trait;
+	     ranks &trait._inv;
+	run;
+	/* It illustrates residuals from multiple linear regression */
 
-in STATA: 	local N1=`N+1'
-		pctile pvariable = variable, nq(`N1') genp(percent_variable) 
-     		gen inv_normal_variable=invnormal(percent_variable/100)
-		// nq() is nquantiles() which does not accept expression such as N+1
-		// N is number of observations, _N, r(N) or e(N) as appropriate
+Stata: 	local N1=`N+1'
+	pctile pvariable = variable, nq(`N1') genp(percent_variable) 
+     	gen inv_normal_variable=invnormal(percent_variable/100)
+
+	// nq() is nquantiles() which does not accept expression such as N+1
+	// N is number of observations, _N, r(N) or e(N) as appropriate
+
+	// Warning: by in Stata gives misleading results as predict only
+	//          keeps results for the last group of the by variable
+
+	// A brute-force fix is given here.
+
+	program invnorm
+	gen `1'_INV=.
+	save tmp, replace
+	forval s=1/2 {
+	  use tmp if sex==`s'
+	  regress `1' `2'
+	  local N1=e(N)+1
+	  predict tt, resid
+	  pctile p`1'=tt, nq(`N1') genp(p_`1')
+	  replace `1'_INV=invnormal(p_`1'/100)
+	  drop tt p`1' p_`1'
+	  save tmp`s', replace
+	}
+	use tmp1
+	append using tmp2
+	end
+
+	// GLGC - TC, HDL, LDL, logTG
+	use data
+	foreach v in TC HDL LDL logTG {
+	   invnorm `v' "age agesq PC1-PC4"
+	   regress `v' age agesq sex PC1-PC4
+	   predict `v'_RAW, resid
+	}
