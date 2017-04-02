@@ -83,8 +83,8 @@ glm
 metafor
 
 gap, haplo.stats
-
-## Module III. GWAS
+ 
+## Module III. GWAS
 
 ### Aspects of GWAS
 
