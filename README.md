@@ -14,7 +14,7 @@ File    | Description
 
 # Lecture notes for GWAS
 
-## Module 1. Overview
+## Module I. Overview
 
 ### Overview
 
@@ -62,7 +62,7 @@ Basic operations
 
 Package development
  
-## Module 2. Elements of genetic association
+## Module II. Elements of genetic association
 
 ### Elements
 
@@ -98,7 +98,7 @@ metafor
 
 gap, haplo.stats
 
-## Module 3. GWAS
+## Module III. GWAS
 
 ### Aspects of GWAS
 
@@ -128,7 +128,7 @@ R and Bioconductor packages
 
 GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools
  
-## Module 4. Advanced topics 
+## Module IV. Advanced topics 
 
 ### Topics
 
@@ -154,7 +154,7 @@ R package development
 
 Embedding C/C++ into R, Stata and SAS
  
-## Module 5. Additional topics
+## Module V. Additional topics
 
 ### Summary statistics
 
