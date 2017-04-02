@@ -1,4 +1,4 @@
-# A collection of utilities for GWAS
+# Utilities for GWAS
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
@@ -6,19 +6,17 @@
 
 There have been calls for adding dosage (DS) field in vcf from `IMPUTE2` to furnish analysis via `rvtests`.
 
-
 File    | Description 
 --------|------------
 `DS.in` | first few lines from .bgen to .vcf via qctool 1.5
 `DS.sh` | code to add DS field in the .vcf
 `DS.out`| the new .vcf
 
-
-# Outlines for GWAS
+# Lecture notes for GWAS
 
 ## Module 1. Overview
 
-I Overview
+### Overview
 
 1. The roadmap to GWAS
 
@@ -36,7 +34,7 @@ A rich variety of open-source software is available for system administration, d
 
 A combination of data management, statistical analysis, graphics, programming in a unified environment, it enjoys ever-growing user-base and facilities.
 
-II Computer lab
+### Computer lab
 
 1. Linux
 
@@ -66,7 +64,7 @@ Package development
  
 ## Module 2. Elements of genetic association
 
-I Elements
+### Elements
 
 Chromosomes, DNA, QC, alleles, genotypes, HWE, mode of inheritance, haplotypes and linkage disequilibrium, GxG and GxE interactions
 
@@ -82,7 +80,7 @@ Study designs: case-control, case-cohort, family
 
 Population stratification and genomic controls
 
-II Computer lab
+### Computer lab
 
 Modern data manipulation with dplyr, tidyr, tidyverse
 
@@ -102,7 +100,7 @@ gap, haplo.stats
 
 ## Module 3. GWAS
 
-I Aspects of GWAS
+### Aspects of GWAS
 
 QC-HWE, call rates, MAF
 
@@ -116,7 +114,7 @@ Report of results and GSEA
 
 Prediction
 
-II Computer lab
+### Computer lab
 
 Linux
 
@@ -132,7 +130,7 @@ GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools
  
 ## Module 4. Advanced topics 
 
-I Topics
+### Topics
 
 Rare variants
 
@@ -144,7 +142,7 @@ Bayesian methods
 
 Marchine learning
 
-II Computer lab
+### Computer lab
 
 BOLT/GEMMA/GCTA/JAGS/Stan
 
@@ -158,7 +156,7 @@ Embedding C/C++ into R, Stata and SAS
  
 ## Module 5. Additional topics
 
-I Summary statistics
+### Summary statistics
 
 Conditional/joint analysis
 
@@ -166,7 +164,7 @@ Microarray, methylation, TWAS, summary statistics
 
 Mendelian randomization
 
-II Resources
+### Resources
 
 dbGaP, EGA, GAW
 
@@ -183,4 +181,3 @@ Other software and languages
 Books
 
 SAS, Stata, C/C++, Fortran, Python
-
