@@ -4,25 +4,25 @@
 
 ### Overview
 
-1. The roadmap to GWAS
+#### The roadmap to GWAS
 
 Background, study designs, catalogue
 
-2. Examples of GWAS
+#### Examples of GWAS
 
 GIANT, CHARGE
 
-3. Linux
+#### Linux
 
 A rich variety of open-source software is available for system administration, database management, Internet facility and development environment including system-level commands and utilities to enable powerful high-level programming languages such as C/C++/Fortran/Python are readily available. R is built on these.
 
-4. R for reproducible research
+##### R for reproducible research
 
 A combination of data management, statistical analysis, graphics, programming in a unified environment, it enjoys ever-growing user-base and facilities.
 
 ### Computer lab
 
-1. Linux
+#### Linux
 
 Types of systems: Ubunto, Fedora, VirtualBox 
 
@@ -38,9 +38,9 @@ Mixing environments, e.g., <<<
 
 Makefile
 
-2. C/C++/Fortran/Python
+#### C/C++/Fortran/Python
 
-3. R
+#### R
 
 Setup – apt-get/dnf, installing packages, RStudio, LaTeX
 
