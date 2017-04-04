@@ -1,4 +1,4 @@
-## Course notes is with `GWAS.md`.
+## Course notes are with `GWAS.md`.
 
 ## Utilities for the latest GIANT/GLGC contribution.
 
