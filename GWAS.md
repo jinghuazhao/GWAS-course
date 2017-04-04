@@ -174,6 +174,7 @@ SAS, Stata, C/C++, Fortran, Python
 Software | URL
 ---------|-------------------------------------------------------
   BEAGLE | https://faculty.washington.edu/browning/beagle/b3.html
+EIGENSOFT| https://data.broadinstitute.org/alkesgroup/EIGENSOFT/
  GenABEL | http://www.genabel.org/
     MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
   PLINK2 | https://www.cog-genomics.org/plink2
