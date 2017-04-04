@@ -168,7 +168,6 @@ Books
 
 SAS, Stata, C/C++, Fortran, Python
 
-
 [Baylor course software list](https://statgen.research.bcm.edu/index.php/Genassoc2016)
 
 Software | URL
