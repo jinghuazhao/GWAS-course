@@ -176,7 +176,7 @@ Various reviews and Nature (Genetics) papers
 
 Consortium analysis plans
 
-#### Other software systems
+#### Other generic software systems
 
 [JAGS](https://sourceforge.net/projects/mcmc-jags/)
 
