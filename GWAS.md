@@ -166,6 +166,24 @@ Other software and languages
 
 Books
 
+[A Statistical Approach to Genetic Epidemiology](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527323899.html)
+
+[Computational Methods for Next Generation Sequencing Data Analysis]()http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169484.html
+
+[Design, Analysis, and Interpretation of Genome-Wide Association Scans](http://www.springer.com/gp/book/9781461494423)
+
+[Genome-Wide Association Studies and Genomic Prediction](http://www.springer.com/gb/book/9781627034463)
+
+[Mathematical and Statistical Methods for Genetic Analysis](http://www.springer.com/gb/book/9780387953892)
+
+[Next-Generation Sequencing Data Analysis](https://www.crcpress.com/Next-Generation-Sequencing-Data-Analysis/Wang/p/book/9781482217889)
+
+[Statistical Human Genetics](http://www.springer.com/gb/book/9781617795541)
+
+[Statistical Methods in Genetic Epidemiology](https://global.oup.com/academic/product/statistical-methods-in-genetic-epidemiology-9780195159394?cc=gb&lang=en&)
+
+[Statistical Analysis of Next Generation Sequencing Data](http://www.springer.com/cn/book/9783319072111)
+
 SAS, Stata, C/C++, Fortran, Python
 
 #### [Baylor course software list](https://statgen.research.bcm.edu/index.php/Genassoc2016)
