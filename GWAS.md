@@ -170,13 +170,13 @@ Mendelian randomization
 
 [CHARGE consortium](http://www.chargeconsortium.com/). The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.
 
-Suggested reading
+#### Research papers and reviews
 
 Various reviews and Nature (Genetics) papers
 
 Consortium analysis plans
 
-Other software systems
+#### Other software systems
 
 [JAGS](https://sourceforge.net/projects/mcmc-jags/)
 
