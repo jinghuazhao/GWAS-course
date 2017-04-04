@@ -1,6 +1,6 @@
 ## Course notes is with `GWAS.md`.
 
-## Utilities for the latest GIAnT/GLGC contribution.�
+## Utilities for the latest GIAnT/GLGC contribution.
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
