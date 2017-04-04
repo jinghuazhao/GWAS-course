@@ -158,24 +158,6 @@ Mendelian randomization
 
 ### Resources
 
-[dbGaP](https://www.ncbi.nlm.nih.gov/gap)
-
-[EGA](https://www.ebi.ac.uk/ega/home)
-
-[GAW](https://www.gaworkshop.org/)
-
-#### Consortium summary statistics
-
-[GIANT consortium](http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium). The Genetic Investigation of ANthropometric Traits (GIANT) consortium is an international collaboration that seeks to identify genetic loci that modulate human body size and shape, including height and measures of obesity. The GIANT consortium is a collaboration between investigators from many different groups, institutions, countries, and studies, and the results represent their combined efforts. The primary approach has been meta-analysis of genome-wide association data and other large-scale genetic data sets. Anthropometric traits that have been studied by GIANT include body mass index (BMI), height, and traits related to waist circumference (such as waist-hip ratio adjusted for BMI, or WHRadjBMI). Thus far, the GIANT consortium has identified common genetic variants at hundreds of loci that are associated with anthropometric traits.
-
-[CHARGE consortium](http://www.chargeconsortium.com/). The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.
-
-#### Research papers and reviews
-
-Various reviews and Nature (Genetics) papers
-
-Consortium analysis plans
-
 #### Other generic software systems
 
 [JAGS](https://sourceforge.net/projects/mcmc-jags/)
@@ -186,6 +168,25 @@ Consortium analysis plans
 
 [Stata](http://www.stata.com)
 
+### Individual level data
+
+[dbGaP](https://www.ncbi.nlm.nih.gov/gap)
+
+[EGA](https://www.ebi.ac.uk/ega/home)
+
+[GAW](https://www.gaworkshop.org/)
+
+#### Consortium
+
+[GIANT consortium](http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium). The Genetic Investigation of ANthropometric Traits (GIANT) consortium is an international collaboration that seeks to identify genetic loci that modulate human body size and shape, including height and measures of obesity. The GIANT consortium is a collaboration between investigators from many different groups, institutions, countries, and studies, and the results represent their combined efforts. The primary approach has been meta-analysis of genome-wide association data and other large-scale genetic data sets. Anthropometric traits that have been studied by GIANT include body mass index (BMI), height, and traits related to waist circumference (such as waist-hip ratio adjusted for BMI, or WHRadjBMI). Thus far, the GIANT consortium has identified common genetic variants at hundreds of loci that are associated with anthropometric traits.
+
+[CHARGE consortium](http://www.chargeconsortium.com/). The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.
+
+#### Research papers and reviews
+
+Various reviews and Nature (Genetics) papers
+
+Consortium analysis plans
 
 #### Books and their publisher websites
 
