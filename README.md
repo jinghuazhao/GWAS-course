@@ -4,7 +4,7 @@
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
-There have been calls for adding dosage (DS) field in vcf from `IMPUTE2` to furnish analysis via `rvtests`.
+As with other calls, it requires  dosage (DS) field to be added in vcf from `IMPUTE2` to furnish analysis via `rvtests`.
 
 File    | Description 
 --------|------------
