@@ -168,7 +168,7 @@ Books
 
 [A Statistical Approach to Genetic Epidemiology](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527323899.html)
 
-[Computational Methods for Next Generation Sequencing Data Analysis]()http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169484.html
+[Computational Methods for Next Generation Sequencing Data Analysis](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169484.html)
 
 [Design, Analysis, and Interpretation of Genome-Wide Association Scans](http://www.springer.com/gp/book/9781461494423)
 
