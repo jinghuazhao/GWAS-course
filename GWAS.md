@@ -51,7 +51,9 @@ Package development
 Browse the following websites,
 
 [R](http://www.r-project.org)
+
 [RStudio](https://www.rstudio.com/)
+
 [Bioconductor](https://www.bioconductor.org/)
  
 ## Module II. Elements of genetic association
