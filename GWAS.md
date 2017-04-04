@@ -10,8 +10,6 @@ Background, study designs,
 
 [GWAS catalogue](http://www.ebi.ac.uk/gwas/)
 
-#### Examples of GWAS
-
 #### Linux
 
 A rich variety of open-source software is available for system administration, database management, Internet facility and development environment including system-level commands and utilities to enable powerful high-level programming languages such as C/C++/Fortran/Python are readily available. R is built on these.
