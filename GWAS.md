@@ -186,7 +186,6 @@ Other software and languages
 
 [Stata](http://www.stata.com)
 
-C/C++, Fortran, Python
 
 #### Books and their publisher websites
 
