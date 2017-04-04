@@ -6,7 +6,9 @@
 
 #### The roadmap to GWAS
 
-Background, study designs, catalogue
+Background, study designs, 
+
+[GWAS catalogue](http://www.ebi.ac.uk/gwas/)
 
 #### Examples of GWAS
 
