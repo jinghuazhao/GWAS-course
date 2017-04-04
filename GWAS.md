@@ -1,4 +1,4 @@
-# Course notes for GWAS
+# GWAS course notes
 
 ## Module I. Overview
 
