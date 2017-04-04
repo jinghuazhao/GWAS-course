@@ -176,6 +176,8 @@ SAS, Stata, C/C++, Fortran, Python
 
 [Genome-Wide Association Studies and Genomic Prediction](http://www.springer.com/gb/book/9781627034463)
 
+[Likelihood, Bayesian, and MCMC Methods in Quantitative Genetics](http://www.springer.com/gb/book/9780387954400)
+
 [Mathematical and Statistical Methods for Genetic Analysis](http://www.springer.com/gb/book/9780387953892)
 
 [Next-Generation Sequencing Data Analysis](https://www.crcpress.com/Next-Generation-Sequencing-Data-Analysis/Wang/p/book/9781482217889)
