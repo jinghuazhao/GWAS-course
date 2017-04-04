@@ -172,13 +172,13 @@ SAS, Stata, C/C++, Fortran, Python
 
 Software | URL
 ---------|-------------------------------------------------------
-  BEAGLE | https://faculty.washington.edu/browning/beagle/b3.html
+BEAGLE | https://faculty.washington.edu/browning/beagle/b3.html
 EIGENSOFT| https://data.broadinstitute.org/alkesgroup/EIGENSOFT/
- GenABEL | http://www.genabel.org/
-    MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
-  PLINK2 | https://www.cog-genomics.org/plink2
+GenABEL | http://www.genabel.org/
+MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
+PLINK2 | https://www.cog-genomics.org/plink2
 PLINKSEQ | https://atgu.mgh.harvard.edu/plinkseq/
-  RV-TDT | http://bioinformatics.org/rv-tdt/
+RV-TDT | http://bioinformatics.org/rv-tdt/
 SEQPower | http://www.bioinformatics.org/spower/start
 UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
-     VAT | http://varianttools.sourceforge.net/Association/HomePage
+VAT | http://varianttools.sourceforge.net/Association/HomePage
