@@ -167,3 +167,18 @@ Other software and languages
 Books
 
 SAS, Stata, C/C++, Fortran, Python
+
+
+[Baylor course software list](https://statgen.research.bcm.edu/index.php/Genassoc2016)
+
+Software | URL
+---------|-------------------------------------------------------
+  BEAGLE | https://faculty.washington.edu/browning/beagle/b3.html
+ GenABEL | http://www.genabel.org/
+    MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
+  PLINK2 | https://www.cog-genomics.org/plink2
+PLINKSEQ | https://atgu.mgh.harvard.edu/plinkseq/
+  RV-TDT | http://bioinformatics.org/rv-tdt/
+SEQPower | http://www.bioinformatics.org/spower/start
+UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
+     VAT | http://varianttools.sourceforge.net/Association/HomePage
