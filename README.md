@@ -1,14 +1,10 @@
-# Course notes for GWAS
+## [Course notes](https://github.com/jinghuazhao/GWAS/blob/master/GWAS.md)
 
-See `GWAS.md`.
-
-# Utilities for GWAS
+## Utilities for the latest GIANT/GLGC contribution
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
-`in.awk` is an `awk` implementation of `in`.
-
-There have been calls for adding dosage (DS) field in vcf from `IMPUTE2` to furnish analysis via `rvtests`.
+As with other calls, it requires  dosage (DS) field to be added in vcf when converted from `(b)gen`  to furnish analysis via `rvtests`.
 
 File    | Description 
 --------|------------
