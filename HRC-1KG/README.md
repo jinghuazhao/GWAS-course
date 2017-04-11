@@ -7,7 +7,7 @@ HRC_st.sh | convert bgen to vcf
 HRC_main.sh | perform major file operations
 HRC_kin.sh | Prepare data for kinship calculation
 
-File `st.subs` is called by `HRC_st.sh` and its variaion `HRC_st.v4.2` is appropriate for `qctool2` which generates VCF 4.2 format file.
+File `st.subs` is called by `HRC_st.sh` and also appropriate for 1KG data (now shown here); its variaion `HRC_st.v4.2` is appropriate for `qctool2` which generates VCF 4.2 format file.
 
 A few remarks are worthwhile.
 
