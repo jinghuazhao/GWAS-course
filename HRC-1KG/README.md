@@ -11,4 +11,4 @@ File `st.subs` is called by `HRC_st.sh` and its variaion `HRC_st.v4.2` is approp
 
 A few remarks are worthwhile.
 
-First, our study already has the HRC imputed data before the call for contribution but in bgen formats. A consequence of this work was that the VCF files as generated from `qctool` does not contain the dosage field as required by `rvtests`. We therefore hard-edited the VCF files by an `awk` script when the developers did not provide an answer for us. Besides, within `HRC_kin.sh` the command `bcftools view` has flag `-O v` rather than `-O u` which cannot generate appropriate input the `vcf2kinship`.
+First, our study already has the HRC imputed data before the call for contribution but in bgen formats. A consequence of this work was that the VCF files as generated from `qctool` does not contain the dosage field as required by `rvtests`. We therefore hard-edited the VCF files by an `awk` script after the developers did not provide an answer for us. Besides, within `HRC_kin.sh` the command `bcftools view` has flag `-O v` rather than `-O u` which cannot generate appropriate input the `vcf2kinship`.
