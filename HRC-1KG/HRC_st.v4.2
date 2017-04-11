@@ -1,0 +1,19 @@
+# 28-3-2017 MRC-Epid JHZ
+
+rt=/scratch/tempjhz22/23-1-17/HRC/log
+gunzip -c $rt/EPIC-Norfolk.chr$1.vcf.gz|\
+awk -vFS="\t" -vOFS="\t" '
+ {
+   if(NR==2) print "##FORMAT=<ID=DS,Number=1,Type=Float,Description=\"Genotype dosage\">"
+   if(NR>3){
+     $9="DS:GP"
+     for(j=10;j<=NF;j++)
+     {
+       i=j
+       split($j,g,",")
+       dosage=g[2]+g[3]*2
+       $i=sprintf("%f:%s",dosage,$j)
+      }
+   }
+   print
+}' | /genetics/data/gwas/23-1-17/bin/bgzip -c > $rt/$1.vcf.gz
