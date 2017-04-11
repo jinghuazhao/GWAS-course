@@ -1,6 +1,6 @@
 This directory contains code for the GLGC/GIANT HRC analysis, which has a flavour of `GWAS in action`.
 
-program  | Description
+Program  | Description
 ----------|--------------------------------------
 HRC_id.sh | list individual IDs from vcf
 HRC_st.sh | convert bgen to vcf
