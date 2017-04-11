@@ -1,4 +1,4 @@
-This directory contains code for the GLGC/GIANT HRC analysis, which has a flavour of `doing the real thing`.
+This directory contains code for the GLGC/GIANT HRC analysis, which has a flavour of `GWAS in action`.
 
 program  | Description
 ----------|--------------------------------------
