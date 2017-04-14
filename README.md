@@ -1,4 +1,9 @@
-## [Course notes](https://github.com/jinghuazhao/GWAS/blob/master/GWAS.md)
+## Notes for GWAS workshop
+
+FIle | Description
+-----|------------
+`GWAS.md`| workshop notes including resources
+`outlines.docx` | Outlines for workshop
 
 ## Utilities for the latest GLGC/GIANT contribution
 
