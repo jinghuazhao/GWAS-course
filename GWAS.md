@@ -188,7 +188,7 @@ See also my GitHub repositories for `hess-pipeline` and `TWAS-pipeline`.
 
 [dbGaP](https://www.ncbi.nlm.nih.gov/gap). The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the data and results from studies that have investigated the interaction of genotype and phenotype in Humans. 
 
-[EGA](https://www.ebi.ac.uk/ega/home)
+[EGA](https://www.ebi.ac.uk/ega/home). The European Genome-phenome Archive (EGA) allows you to explore datasets from genomic studies, provided by a range of data providers. Access to datasets must be approved by the specified Data Access Committee (DAC).
 
 [GAW](https://www.gaworkshop.org/)
 
