@@ -1,6 +1,6 @@
 ## [Course notes](https://github.com/jinghuazhao/GWAS/blob/master/GWAS.md)
 
-## Utilities for the latest GIANT/GLGC contribution
+## Utilities for the latest GLGC/GIANT contribution
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
