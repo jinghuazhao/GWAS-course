@@ -1,4 +1,4 @@
-# GWAS course notes
+# Notes for GWAS workshop
 
 ## Module I. Overview
 
@@ -6,7 +6,7 @@
 
 #### The roadmap to GWAS
 
-Background, study designs, 
+Background, study designs, implementations
 
 [GWAS catalogue](http://www.ebi.ac.uk/gwas/)
 
