@@ -166,13 +166,13 @@ Mendelian randomization
 
 #### Integration of expression and methylation data
 
-[FUSION](https://github.com/gusevlab/fusion_twas)
+[FUSION](https://github.com/gusevlab/fusion_twas). `methods for functional summary-based imputation.`
 
-[frea-pipeline](https://github.com/aksarkar/frea-pipeline)
+[frea-pipeline](https://github.com/aksarkar/frea-pipeline). `Functional Region Enrichment Analysis.`
 
-[GenoSkyline-Plus](http://genocanyon.med.yale.edu/GenoSkyline)
+[GenoSkyline-Plus](http://genocanyon.med.yale.edu/GenoSkyline). `GenoSkyline is a principled framework to predict tissue-specific functional regions through integrating high-throughput epigenomic annotations. Integrative analysis of GenoSkyline annotations with GWAS summary statistics could systematically identify biologically relevant tissue types and provide novel insights into the genetic basis of human complex traits.`
 
-See also my GitHub repositories for `hess-pipeline` and `TWAS-pipeline`.
+See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazhao/hess-pipeline) and [TWAS-pipeline](https://github.com/jinghuazhao/TWAS-pipeline).
 
 ### Resources
 
