@@ -158,7 +158,7 @@ Mendelian randomization
 
 #### Use of GWAS summary data
 
-[HESS](https://github.com/huwenboshi/hess)
+[HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
 [JAM](https://github.com/pjnewcombe/R2BGLiMS), R wrapper for a Java Bayesian GLM variable selection package including `JAM`.
 
@@ -169,6 +169,8 @@ Mendelian randomization
 [frea-pipeline](https://github.com/aksarkar/frea-pipeline)
 
 [GenoSkyline-Plus](http://genocanyon.med.yale.edu/GenoSkyline)
+
+See also my GitHub repositories for `hess-pipeline` and `TWAS-pipeline`.
 
 ### Resources
 
