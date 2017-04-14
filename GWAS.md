@@ -2,7 +2,7 @@
 
 ## Module I. Overview
 
-### Overview
+### Lecture
 
 #### The roadmap to GWAS
 
@@ -18,7 +18,7 @@ A rich variety of open-source software is available for system administration, d
 
 A combination of data management, statistical analysis, graphics, programming in a unified environment, it enjoys ever-growing user-base and facilities.
 
-### Computer lab
+### Computer session
 
 #### Linux
 
@@ -56,7 +56,7 @@ Browse the following websites,
  
 ## Module II. Elements of genetic association
 
-### Elements
+### Lecture
 
 Chromosomes, DNA, QC, alleles, genotypes, HWE, mode of inheritance, haplotypes and linkage disequilibrium, GxG and GxE interactions
 
@@ -72,7 +72,7 @@ Study designs: case-control, case-cohort, family
 
 Population stratification and genomic controls
 
-### Computer lab
+### Computer session
 
 Modern data manipulation with dplyr, tidyr, tidyverse
 
@@ -92,7 +92,7 @@ gap, haplo.stats
  
 ## Module III. GWAS
 
-### Aspects of GWAS
+### Lecture
 
 QC-HWE, call rates, MAF
 
@@ -106,7 +106,7 @@ Report of results and GSEA
 
 Prediction
 
-### Computer lab
+### Computer session
 
 Linux
 
@@ -122,7 +122,7 @@ GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools
  
 ## Module IV. Advanced topics 
 
-### Topics
+### Lecture
 
 Rare variants
 
@@ -134,7 +134,7 @@ Bayesian methods
 
 Marchine learning
 
-### Computer lab
+### Computer session
 
 BOLT/GEMMA/GCTA/JAGS/Stan
 
