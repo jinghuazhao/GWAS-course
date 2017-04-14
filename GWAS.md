@@ -156,6 +156,20 @@ Microarray, methylation, TWAS, summary statistics
 
 Mendelian randomization
 
+#### Use of GWAS summary data
+
+[HESS](https://github.com/huwenboshi/hess)
+
+[JAM](https://github.com/pjnewcombe/R2BGLiMS), R wrapper for a Java Bayesian GLM variable selection package including `JAM`.
+
+#### Integration of expression and methylation data
+
+[FUSION](https://github.com/gusevlab/fusion_twas)
+
+[frea-pipeline](https://github.com/aksarkar/frea-pipeline)
+
+[GenoSkyline-Plus](http://genocanyon.med.yale.edu/GenoSkyline)
+
 ### Resources
 
 #### Other generic software systems
