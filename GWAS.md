@@ -160,7 +160,7 @@ Mendelian randomization
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
-[JAM](https://github.com/pjnewcombe/R2BGLiMS), R wrapper for a Java Bayesian GLM variable selection package including `JAM`.
+[R2BGLiMS](https://github.com/pjnewcombe/R2BGLiMS), R wrapper for a Java Bayesian GLM variable selection package including `JAM`.
 
 #### Integration of expression and methylation data
 
