@@ -1,4 +1,6 @@
-## Notes for GWAS workshop
+This repository contains lecture notes for a GWAS workshop and some utilities.
+
+## Notes for GWAS 
 
 FIle | Description
 -----|------------
