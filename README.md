@@ -1,13 +1,13 @@
-This repository contains lecture notes for a GWAS workshop and some utilities.
+This repository contains lecture notes for GWAS and some utilities.
 
-## Notes for GWAS 
+## Notes
 
 FIle | Description
 -----|------------
-`GWAS.md`| workshop notes including resources
-`outlines.docx` | Outlines for workshop
+`GWAS.md`| Notes including resources
+`outlines.docx` | Outlines for a workshop
 
-## Utilities for the latest GLGC/GIANT contribution
+## Utilities from the latest GLGC/GIANT contribution
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
