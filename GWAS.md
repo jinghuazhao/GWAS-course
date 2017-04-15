@@ -217,27 +217,27 @@ See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazh
 
 #### Books and related websites
 
-[Ziegler A, Konig IR, Pahlke F (2010). A Statistical Approach to Genetic Epidemiology: Concepts and Applications, with an e-Learning Platform, 2e, Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527323899.html)
+[Ziegler A, Konig IR, Pahlke F (2010). A Statistical Approach to Genetic Epidemiology: Concepts and Applications, with an e-Learning Platform, 2e, Wiley.](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527323899.html)
 
-[Mandoiu I, Zelikovsky A (2016). Computational Methods for Next Generation Sequencing Data Analysis, Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169484.html)
+[Mandoiu I, Zelikovsky A (2016). Computational Methods for Next Generation Sequencing Data Analysis, Wiley.](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169484.html)
 
-[Stram OD (2014). Design, Analysis, and Interpretation of Genome-Wide Association Scans, Springer](http://www.springer.com/gp/book/9781461494423)
+[Stram OD (2014). Design, Analysis, and Interpretation of Genome-Wide Association Scans, Springer.](http://www.springer.com/gp/book/9781461494423)
 
-[Khoury MJ, Cohen BH, Beaty TH (1993). Fundamentals of Genetic Epidemiology, OUP](https://www.amazon.co.uk/Fundamentals-Genetic-Epidemiology-Monographs-Biostatistics/dp/0195052889)
+[Khoury MJ, Cohen BH, Beaty TH (1993). Fundamentals of Genetic Epidemiology, OUP.](https://www.amazon.co.uk/Fundamentals-Genetic-Epidemiology-Monographs-Biostatistics/dp/0195052889)
 
-[Gondro C, van der Werf J, Hayes B (2013). Genome-Wide Association Studies and Genomic Prediction, Humana](http://www.springer.com/gb/book/9781627034463)
+[Gondro C, van der Werf J, Hayes B (2013). Genome-Wide Association Studies and Genomic Prediction, Humana.](http://www.springer.com/gb/book/9781627034463)
 
-[Sorensen D, Gianola D (2002). Likelihood, Bayesian, and MCMC Methods in Quantitative Genetics, Springer](http://www.springer.com/gb/book/9780387954400)
+[Sorensen D, Gianola D (2002). Likelihood, Bayesian, and MCMC Methods in Quantitative Genetics, Springer.](http://www.springer.com/gb/book/9780387954400)
 
-[Lange K (2002). Mathematical and Statistical Methods for Genetic Analysis, 2e, Springer](http://www.springer.com/gb/book/9780387953892)
+[Lange K (2002). Mathematical and Statistical Methods for Genetic Analysis, 2e, Springer.](http://www.springer.com/gb/book/9780387953892)
 
-[Wang X (2016). Next-Generation Sequencing Data Analysis, CRC](https://www.crcpress.com/Next-Generation-Sequencing-Data-Analysis/Wang/p/book/9781482217889)
+[Wang X (2016). Next-Generation Sequencing Data Analysis, CRC.](https://www.crcpress.com/Next-Generation-Sequencing-Data-Analysis/Wang/p/book/9781482217889)
 
-[ Elston RC., Satagopan JM, Sun S (2012). Statistical Human Genetics-Methods and Protocols, Humana](http://www.springer.com/gb/book/9781617795541)
+[ Elston RC., Satagopan JM, Sun S (2012). Statistical Human Genetics-Methods and Protocols, Humana.](http://www.springer.com/gb/book/9781617795541)
 
-[Thomas DC (2004). Statistical Methods in Genetic Epidemiology, OUP](https://global.oup.com/academic/product/statistical-methods-in-genetic-epidemiology-9780195159394?cc=gb&lang=en&)
+[Thomas DC (2004). Statistical Methods in Genetic Epidemiology, OUP.](https://global.oup.com/academic/product/statistical-methods-in-genetic-epidemiology-9780195159394?cc=gb&lang=en&)
 
-[ Datta S, Nettleton D (2014). Statistical Analysis of Next Generation Sequencing Data, Springer](http://www.springer.com/cn/book/9783319072111)
+[ Datta S, Nettleton D (2014). Statistical Analysis of Next Generation Sequencing Data, Springer.](http://www.springer.com/cn/book/9783319072111)
 
 
 #### Boftware list
