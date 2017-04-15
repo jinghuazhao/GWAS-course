@@ -1,4 +1,4 @@
-# Practical GWAS Using Linux and R
+# Outlines for Practical GWAS Using Linux and R
 
 ## Module I. Overview
 
