@@ -200,11 +200,21 @@ See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazh
 
 [CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
-#### Research papers and reviews
+#### Papers and reviews
 
-Various reviews and Nature (Genetics) papers
+Balding DJ (October 2006). A tutorial on statistical methods for population association studies. Nature Reviews Genetics 7:781-791. [URL](http://www.nature.com/nrg/journal/v7/n10/abs/nrg1916.html).
 
-Consortium analysis plans
+ES Lander, NJ Schork (30 Sep 1994). Genetic dissection of complex traits. Science 265(5181):2037-2048, DOI: 10.1126/science.8091226, [URL](http://science.sciencemag.org/content/265/5181/2037.long).
+
+Risch N, Merikangas K. (13 Sep 1996). The Future of Genetic Studies of Complex Human Diseases. Science 273(5281):1516-1517,
+DOI: 10.1126/science.273.5281.1516, [URL](http://science.sciencemag.org/content/273/5281/1516.long).
+
+Sasieni PD (Dec., 1997). From Genotypes to Genes: Doubling the Sample Size. Biometrics 53(4): 1253-1261, [URL](https://www.jstor.org/stable/2533494?seq=1#page_scan_tab_contents).
+
+The WTCCC (7 June 2007). Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. Nature 447:661-678, doi:10.1038/nature05911, [URL](http://www.nature.com/nature/journal/v447/n7145/full/nature05911.html).
+
+
+#### Consortium analysis plans
 
 #### Books and their publisher websites
 
@@ -213,6 +223,8 @@ Consortium analysis plans
 [Computational Methods for Next Generation Sequencing Data Analysis](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169484.html)
 
 [Design, Analysis, and Interpretation of Genome-Wide Association Scans](http://www.springer.com/gp/book/9781461494423)
+
+[Fundamentals of Genetic Epidemiology](https://www.amazon.co.uk/Fundamentals-Genetic-Epidemiology-Monographs-Biostatistics/dp/0195052889)
 
 [Genome-Wide Association Studies and Genomic Prediction](http://www.springer.com/gb/book/9781627034463)
 
