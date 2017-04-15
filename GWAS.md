@@ -1,4 +1,4 @@
-# Notes for GWAS workshop
+# Practial GWAS Using Linux and R
 
 ## Module I. Overview
 
@@ -202,21 +202,20 @@ See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazh
 
 #### Papers and reviews
 
-Balding DJ (October 2006). A tutorial on statistical methods for population association studies. Nature Reviews Genetics 7:781-791. [URL](http://www.nature.com/nrg/journal/v7/n10/abs/nrg1916.html).
+[Balding DJ (October 2006). A tutorial on statistical methods for population association studies. Nature Reviews Genetics 7:781-791.](http://www.nature.com/nrg/journal/v7/n10/abs/nrg1916.html).
 
-ES Lander, NJ Schork (30 Sep 1994). Genetic dissection of complex traits. Science 265(5181):2037-2048, DOI: 10.1126/science.8091226, [URL](http://science.sciencemag.org/content/265/5181/2037.long).
+[Lander ES, Schork NJ (30 Sep 1994). Genetic dissection of complex traits. Science 265(5181):2037-2048, DOI: 10.1126/science.8091226.](http://science.sciencemag.org/content/265/5181/2037.long).
 
-Risch N, Merikangas K. (13 Sep 1996). The Future of Genetic Studies of Complex Human Diseases. Science 273(5281):1516-1517,
-DOI: 10.1126/science.273.5281.1516, [URL](http://science.sciencemag.org/content/273/5281/1516.long).
+[Risch N, Merikangas K. (13 Sep 1996). The Future of Genetic Studies of Complex Human Diseases. Science 273(5281):1516-1517, DOI:10.1126/science.273.5281.1516.](http://science.sciencemag.org/content/273/5281/1516.long).
 
-Sasieni PD (Dec., 1997). From Genotypes to Genes: Doubling the Sample Size. Biometrics 53(4): 1253-1261, [URL](https://www.jstor.org/stable/2533494?seq=1#page_scan_tab_contents).
+[Sasieni PD (Dec., 1997). From Genotypes to Genes: Doubling the Sample Size. Biometrics 53(4): 1253-1261.](https://www.jstor.org/stable/2533494?seq=1#page_scan_tab_contents).
 
-The WTCCC (7 June 2007). Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. Nature 447:661-678, doi:10.1038/nature05911, [URL](http://www.nature.com/nature/journal/v447/n7145/full/nature05911.html).
+[The WTCCC (7 June 2007). Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. Nature 447:661-678, doi:10.1038/nature05911,](http://www.nature.com/nature/journal/v447/n7145/full/nature05911.html).
 
 
 #### Consortium analysis plans
 
-#### Books and their publisher websites
+#### Books and related websites
 
 [A Statistical Approach to Genetic Epidemiology](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527323899.html)
 
