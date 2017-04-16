@@ -1,4 +1,4 @@
-This repository contains lecture notes for GWAS and some utilities.
+This repository contains lecture notes and some utilities for GWAS.
 
 ## Notes
 
@@ -18,3 +18,5 @@ File    | Description
 `DS.in` | first few lines from .bgen to .vcf via qctool 1.5
 `DS.sh` | code to add DS field in the .vcf
 `DS.out`| the new .vcf
+
+The example use is in HRC-1KG directory, which also contains other relevant information.
