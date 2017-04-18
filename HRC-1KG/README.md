@@ -6,6 +6,7 @@ HRC_id.sh | list individual IDs from vcf
 HRC_st.sh | convert bgen to vcf
 HRC_main.sh | perform major file operations
 HRC_kin.sh | data preparation and kinship calculation
+rvtest.sh | obtain lists of jobs for 12 traits
 HRC_rvtest.qsub | rare variant analysis
 HRC_rvtest.subs | rare variant analysis
 
