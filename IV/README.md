@@ -18,6 +18,8 @@ Marchine learning
 
 Makefile
 
+LaTex
+
 BOLT/GEMMA/GCTA/JAGS/Stan
 
 git, github, RStudio, markdown
