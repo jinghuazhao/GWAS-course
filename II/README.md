@@ -18,6 +18,8 @@ Population stratification and genomic controls
 
 ### Computer session
 
+#### Linux
+
 Modern data manipulation with dplyr, tidyr, tidyverse
 
 Grammar of graphics with ggplot2
@@ -26,7 +28,7 @@ HaploView
 
 Gene annotation using UCSC: genes, strand, builds and liftover, regions
 
-R packages
+#### R packages
 
 glm
 
@@ -34,3 +36,6 @@ metafor
 
 gap, haplo.stats
  
+#### Exercises
+
+Experiment with basic association testing, haplotype analysis and pedigree operations
