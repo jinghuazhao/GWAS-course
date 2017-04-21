@@ -1,6 +1,8 @@
-<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=571x10000:format=png/path/sc907c1c4cc8c1f1e/image/i71ccc2b41a89bd06/version/1470133774/image.png">
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=571x10000:format=png/path/sc907c1c4cc8c1f1e/image/i71ccc2b41a89bd06/version/1470133774/image.png" width="800" align="right">
 
 # Outlines for Practical GWAS Using Linux and R
+
+<imag src="https://image.jimcdn.com/app/cms/image/transf/none/path/sc907c1c4cc8c1f1e/image/i501c0825ca0ccc93/version/1488797144/image.jpg" width="800" align="center">
 
 ## Module I. Overview
 
