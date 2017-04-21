@@ -36,18 +36,22 @@ Pipe and redirection
 
 #### R
 
-Setup – apt-get/dnf, installing packages, RStudio, LaTeX
+Setup – apt-get/dnf, installing and loading packages
 
 Basic operations
 
-Package development
+RStudio
+
+Modes of execution
 
 #### Exercises
 
 Browse the following websites,
 
-[R](http://www.r-project.org)
+[TLDP](http://www.tldp.org/). The Linux Documentation Project (LDP) is working towards developing free, high quality documentation for the Linux operating system.
 
-[RStudio](https://www.rstudio.com/)
+[R](http://www.r-project.org). The official R website.
 
-[Bioconductor](https://www.bioconductor.org/)
+[RStudio](https://www.rstudio.com/). The RStudio website.
+
+[Bioconductor](https://www.bioconductor.org/). The BioConductor project.
