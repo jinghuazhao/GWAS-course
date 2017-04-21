@@ -1,3 +1,5 @@
+<img src="https://www.physalia-courses.org/">
+
 # Outlines for Practical GWAS Using Linux and R
 
 ## Module I. Overview
