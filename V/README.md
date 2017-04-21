@@ -93,6 +93,8 @@ This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index
 
 [JAGS](https://sourceforge.net/projects/mcmc-jags/). `JAGS is Just Another Gibbs Sampler. It is a program for the statistical analysis of Bayesian hierarchical models by Markov Chain Monte Carlo.`
 
+[R](https://www.r-project.org/). `R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS`.
+
 [SAS](http://www.sas.com). `SAS (pronounced "sass") once stood for "statistical analysis system." It began at North Carolina State University as a project to analyze agricultural research. Demand for such software capabilities began to grow, and SAS was founded in 1976 to help customers in all sorts of industries – from pharmaceutical companies and banks to academic and governmental entities. SAS – both the software and the company – thrived throughout the next few decades. Development of the software attained new heights in the industry because it could run across all platforms, using the multivendor architecture for which it is known today. While the scope of the company has spread across the globe, the encouraging and innovative corporate culture has remained the same.`
 
 [Stan](http://mc-stan.org/). `Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.`
