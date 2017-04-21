@@ -6,7 +6,7 @@
 
 Background, study designs, implementations
 
-[GWAS catalogue](http://www.ebi.ac.uk/gwas/)
+[GWAS catalog](http://www.ebi.ac.uk/gwas/)
 
 #### Linux
 
