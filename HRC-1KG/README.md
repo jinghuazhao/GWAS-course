@@ -1,4 +1,16 @@
-This directory contains the actual code for the GLGC/GIANT HRC analysis. For this reason, the paths and Sun grid engine (`sge`)  are specific to our Linux clusters.
+## Utilities from the latest GLGC/GIANT contribution
+
+`invnorm.txt` describes how to do Inverse Normal transformation.
+
+For association testing, VCF file with a dosage (DS) field is needed for `rvtests` and this is furnished by the following example to VCF file converted from `(b)gen`  via `qctool`.
+
+File    | Description 
+--------|------------
+`DS.in` | first few lines from .bgen to .vcf via qctool 1.5
+`DS.sh` | code to add DS field in the .vcf
+`DS.out`| the new .vcf
+
+This files below are the actual code for analysis of HRC-imputed data, so, the paths and Sun grid engine (`sge`)  are specific to our Linux clusters.
 
 Program  | Description
 ----------|--------------------------------------
@@ -10,7 +22,7 @@ rvtest.sh | obtain lists of jobs for 12 traits
 HRC_rvtest.qsub | rare variant analysis
 HRC_rvtest.subs | rare variant analysis
 
-File `st.subs` is called by `HRC_st.sh` and also used for 1KG data (not shown here) both according to `qctool` v1.5; its variaion `HRC_st.v4.2` is appropriate for `qctool` v2 which generates VCF 4.2 format file.
+The example use of the `DS.sh` files above is as follows: File `st.subs` is called by `HRC_st.sh` and also used for 1KG data (not shown here) both according to `qctool` v1.5; its variaion `HRC_st.v4.2` is appropriate for `qctool` v2 which generates VCF 4.2 format file.
 
 A few remarks are worthwhile.
 
