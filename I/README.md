@@ -24,15 +24,13 @@ Types of systems: Ubunto, Fedora, VirtualBox
 
 shell, .bashrc, export, env, PATH, LD_LIBRARY_PATH, source
 
-Basic operations, ls –a/-F/-l/-t/-rt, mkdir/cd/pwd/echo/wc/grep/sed/bc, cp, cut/paste, cat, history, more, diff, sdiff, chmod
+Basic operations, ls –a/-F/-l/-t/-rt, mkdir/cd/pwd/echo/wc/grep/bc, 
 
-seq, sort/join, sftp, ssh
+cp, cat, history, more, diff, sdiff, chmod
+
+Editing with pico/nano
 
 Pipe and redirection
-
-Mixing environments, e.g., <<<
-
-Makefile
 
 #### C/C++/Fortran/Python
 
@@ -44,6 +42,8 @@ Basic operations
 
 Package development
 
+#### Exercises
+
 Browse the following websites,
 
 [R](http://www.r-project.org)
@@ -51,4 +51,3 @@ Browse the following websites,
 [RStudio](https://www.rstudio.com/)
 
 [Bioconductor](https://www.bioconductor.org/)
- 
