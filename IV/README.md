@@ -1,4 +1,4 @@
-## Module IV. Advanced topics 
+## Module IV. Advanced topics
 
 ### Lecture
 
@@ -14,13 +14,22 @@ Marchine learning
 
 ### Computer session
 
-BOLT/GEMMA/GCTA/JAGS/Stan
+#### Linux
 
-lme4, MCMCglmm, SKAT
+Makefile
+
+BOLT/GEMMA/GCTA/JAGS/Stan
 
 git, github, RStudio, markdown
 
-R package development
+#### R package development and related software systems
+
+lme4, MCMCglmm, SKAT
 
 Embedding C/C++ into R, Stata and SAS
  
+knitr
+
+#### Exercises
+
+Experiment with the data provided: rare variant analysis, logintudinal analysis, polygeneic modeling
