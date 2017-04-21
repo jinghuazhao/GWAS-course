@@ -4,7 +4,7 @@ This repository contains lecture notes and some utilities for GWAS.
 
 FIle | Description
 -----|------------
-`GWAS.md`| Notes including resources
+`outlines.md`| Outlines for a workshop
 `outlines.docx` | Outlines for a workshop
 
 ## Utilities from the latest GLGC/GIANT contribution
