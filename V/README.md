@@ -24,11 +24,19 @@ Notably,
 
 #### Integration of expression and methylation data
 
+[ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) for a total of 127 consolidated epigenomes.
+
+[GTEx portal](https://gtexportal.org/home/).
+
+[1000 Genomes project](http://www.internationalgenome.org/).
+
 [FUSION](https://github.com/gusevlab/fusion_twas). `methods for functional summary-based imputation.`
 
 [frea-pipeline](https://github.com/aksarkar/frea-pipeline). `Functional Region Enrichment Analysis.`
 
 [GenoSkyline-Plus](http://genocanyon.med.yale.edu/GenoSkyline). `GenoSkyline is a principled framework to predict tissue-specific functional regions through integrating high-throughput epigenomic annotations. Integrative analysis of GenoSkyline annotations with GWAS summary statistics could systematically identify biologically relevant tissue types and provide novel insights into the genetic basis of human complex traits.`
+
+[UES](https://github.com/JamesHayes/uesEnrichment) `Uncovering Enrichment through Simulation) Algorithm Developmenty`.
 
 See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazhao/hess-pipeline) and [TWAS-pipeline](https://github.com/jinghuazhao/TWAS-pipeline).
 
