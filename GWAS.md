@@ -1,4 +1,4 @@
-<img src="https://www.physalia-courses.org/">
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=571x10000:format=png/path/sc907c1c4cc8c1f1e/image/i71ccc2b41a89bd06/version/1470133774/image.png">
 
 # Outlines for Practical GWAS Using Linux and R
 
