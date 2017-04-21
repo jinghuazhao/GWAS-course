@@ -105,6 +105,8 @@ Balding DJ (October 2006). [A tutorial on statistical methods for population ass
 
 Lander ES, Schork NJ (30 Sep 1994). [Genetic dissection of complex traits](http://science.sciencemag.org/content/265/5181/2037.long). Science 265(5181):2037-2048, DOI: 10.1126/science.8091226.
 
+Manolio TA, Brooks LD, Collins FS (2008). [A HapMap harvest of insights into the genetics of common disease](http://www.jci.org/articles/view/34772). 118(5):1590-1605.
+
 Risch N, Merikangas K. (13 Sep 1996). [The Future of Genetic Studies of Complex Human Diseases](http://science.sciencemag.org/content/273/5281/1516.long), Science 273(5281):1516-1517, DOI:10.1126/science.273.5281.1516.
 
 Sasieni PD (Dec., 1997). [From Genotypes to Genes: Doubling the Sample Size](https://www.jstor.org/stable/2533494?seq=1#page_scan_tab_contents). Biometrics 53(4): 1253-1261.
