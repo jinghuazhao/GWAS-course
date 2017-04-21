@@ -75,6 +75,10 @@ The WTCCC (7 June 2007). [Genome-wide association study of 14,000 cases of seven
 
 #### Consortium analysis plans
 
+Educational Attainment Analysis
+
+Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
+
 #### Books and related websites
 
 Ziegler A, Konig IR, Pahlke F (2010). [A Statistical Approach to Genetic Epidemiology: Concepts and Applications, with an e-Learning Platform, 2e](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-3527323899.html), Wiley.
