@@ -8,7 +8,7 @@ Microarray, methylation, TWAS, summary statistics
 
 Mendelian randomization
 
-#### [GWAS catalog](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
+#### [NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
 
 #### Use of GWAS summary data
 
