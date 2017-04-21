@@ -75,6 +75,8 @@ The WTCCC (7 June 2007). [Genome-wide association study of 14,000 cases of seven
 
 #### Consortium analysis plans
 
+Gene-Lifestyle Interactions (CHARGE)
+
 Educational Attainment Analysis
 
 Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
