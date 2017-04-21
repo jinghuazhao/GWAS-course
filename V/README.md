@@ -24,11 +24,11 @@ Notably,
 
 #### Integration of expression and methylation data
 
+[1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
+
 [ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) for a total of 127 consolidated epigenomes.
 
 [GTEx portal](https://gtexportal.org/home/).
-
-[1000 Genomes project](http://www.internationalgenome.org/).
 
 [FUSION](https://github.com/gusevlab/fusion_twas). `methods for functional summary-based imputation.`
 
