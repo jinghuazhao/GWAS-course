@@ -10,6 +10,12 @@ Mendelian randomization
 
 #### [NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
 
+Notably,
+
+[GIANT consortium](http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium). `The Genetic Investigation of ANthropometric Traits (GIANT) consortium is an international collaboration that seeks to identify genetic loci that modulate human body size and shape, including height and measures of obesity. The GIANT consortium is a collaboration between investigators from many different groups, institutions, countries, and studies, and the results represent their combined efforts. The primary approach has been meta-analysis of genome-wide association data and other large-scale genetic data sets. Anthropometric traits that have been studied by GIANT include body mass index (BMI), height, and traits related to waist circumference (such as waist-hip ratio adjusted for BMI, or WHRadjBMI). Thus far, the GIANT consortium has identified common genetic variants at hundreds of loci that are associated with anthropometric traits.`
+
+[CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
+
 #### Use of GWAS summary data
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
@@ -45,12 +51,6 @@ See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazh
 [EGA](https://www.ebi.ac.uk/ega/home). `The European Genome-phenome Archive (EGA) allows you to explore datasets from genomic studies, provided by a range of data providers. Access to datasets must be approved by the specified Data Access Committee (DAC).`
 
 [GAW](https://www.gaworkshop.org/). `The Genetic Analysis Workshops (GAWs) are a collaborative effort among genetic epidemiologists to evaluate and compare statistical genetic methods. For each GAW, topics are chosen that are relevant to current analytical problems in genetic epidemiology, and sets of real or computer-simulated data are distributed to investigators worldwide.  Results of analyses are discussed and compared at meetings held in even-numbered years.`
-
-#### Consortium summary statistics
-
-[GIANT consortium](http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium). `The Genetic Investigation of ANthropometric Traits (GIANT) consortium is an international collaboration that seeks to identify genetic loci that modulate human body size and shape, including height and measures of obesity. The GIANT consortium is a collaboration between investigators from many different groups, institutions, countries, and studies, and the results represent their combined efforts. The primary approach has been meta-analysis of genome-wide association data and other large-scale genetic data sets. Anthropometric traits that have been studied by GIANT include body mass index (BMI), height, and traits related to waist circumference (such as waist-hip ratio adjusted for BMI, or WHRadjBMI). Thus far, the GIANT consortium has identified common genetic variants at hundreds of loci that are associated with anthropometric traits.`
-
-[CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
 #### Papers and reviews
 
