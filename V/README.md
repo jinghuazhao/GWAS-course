@@ -26,7 +26,7 @@ Notably,
 
 [1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
 
-[ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) for a total of 127 consolidated epigenomes.
+[ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
 
 [GTEx portal](https://gtexportal.org/home/).
 
