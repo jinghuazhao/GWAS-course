@@ -8,6 +8,8 @@ Microarray, methylation, TWAS, summary statistics
 
 Mendelian randomization
 
+#### [GWAS catalogue](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
+
 #### Use of GWAS summary data
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
