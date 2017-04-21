@@ -101,7 +101,9 @@ BOLT-LMM | https://data.broadinstitute.org/alkesgroup/BOLT-LMM/
 EIGENSOFT| https://data.broadinstitute.org/alkesgroup/EIGENSOFT/
 GCTA | http://cnsgenomics.com/software/gcta/
 GenABEL | http://www.genabel.org/
+GRAIL | http://software.broadinstitute.org/mpg/grail/
 IMPUTE2 | http://mathgen.stats.ox.ac.uk/impute/impute_v2.html
+LocusZoom | http://locuszoom.sph.umich.edu/
 MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
 PLINK2 | https://www.cog-genomics.org/plink2
 PLINKSEQ | https://atgu.mgh.harvard.edu/plinkseq/
@@ -113,5 +115,6 @@ SEQPower | http://www.bioinformatics.org/spower/start
 SNPTEST | https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html
 UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
 VAT | http://varianttools.sourceforge.net/Association/HomePage
+VIZ-GRAIL | http://software.broadinstitute.org/mpg/grail/vizgrail.html
 
 This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016).
