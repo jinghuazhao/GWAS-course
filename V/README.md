@@ -1,6 +1,6 @@
 ## Module V. Additional topics
 
-### Consortium collaborations
+### Consortium collaboration
 
 For instance,
 
