@@ -2,11 +2,7 @@
 
 ### Lecture
 
-#### gene chips
-
-#### HapMap project
-
-#### 1000 genomes project
+gene chips, HapMap, 1000 genomes project
 
 #### Practical aspects of GWAS
 
