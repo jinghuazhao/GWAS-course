@@ -1,8 +1,24 @@
 ## Module V. Additional topics
 
-### Consortium collaboration
+### Lectures
 
-For instance,
+consortium collaboration
+
+summary statistics
+
+Conditional/joint analysis
+
+Microarray, methylation, TWAS, summary statistics
+
+Mendelian randomization
+
+### Exercises
+
+Suggested reading
+
+Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
+
+### Consortium collaboration
 
 [CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
@@ -18,27 +34,9 @@ Educational Attainment Analysis
 
 Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 
-### Individual level data
-
-[dbGaP](https://www.ncbi.nlm.nih.gov/gap). `The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the data and results from studies that have investigated the interaction of genotype and phenotype in Humans.`
-
-[EGA](https://www.ebi.ac.uk/ega/home). `The European Genome-phenome Archive (EGA) allows you to explore datasets from genomic studies, provided by a range of data providers. Access to datasets must be approved by the specified Data Access Committee (DAC).`
-
-[GAW](https://www.gaworkshop.org/). `The Genetic Analysis Workshops (GAWs) are a collaborative effort among genetic epidemiologists to evaluate and compare statistical genetic methods. For each GAW, topics are chosen that are relevant to current analytical problems in genetic epidemiology, and sets of real or computer-simulated data are distributed to investigators worldwide.  Results of analyses are discussed and compared at meetings held in even-numbered years.`
-
-[1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
-
 ### Summary statistics
 
-Conditional/joint analysis
-
-Microarray, methylation, TWAS, summary statistics
-
-Mendelian randomization
-
-#### [NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
-
-#### Use of GWAS summary data
+[NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
@@ -59,6 +57,16 @@ Mendelian randomization
 [UES](https://github.com/JamesHayes/uesEnrichment) `Uncovering Enrichment through Simulation) Algorithm Developmenty`.
 
 See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazhao/hess-pipeline) and [TWAS-pipeline](https://github.com/jinghuazhao/TWAS-pipeline).
+
+### Individual level data
+
+[dbGaP](https://www.ncbi.nlm.nih.gov/gap). `The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the data and results from studies that have investigated the interaction of genotype and phenotype in Humans.`
+
+[EGA](https://www.ebi.ac.uk/ega/home). `The European Genome-phenome Archive (EGA) allows you to explore datasets from genomic studies, provided by a range of data providers. Access to datasets must be approved by the specified Data Access Committee (DAC).`
+
+[GAW](https://www.gaworkshop.org/). `The Genetic Analysis Workshops (GAWs) are a collaborative effort among genetic epidemiologists to evaluate and compare statistical genetic methods. For each GAW, topics are chosen that are relevant to current analytical problems in genetic epidemiology, and sets of real or computer-simulated data are distributed to investigators worldwide.  Results of analyses are discussed and compared at meetings held in even-numbered years.`
+
+[1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
 
 ### Resources
 
@@ -108,6 +116,8 @@ Balding DJ (October 2006). [A tutorial on statistical methods for population ass
 Lander ES, Schork NJ (30 Sep 1994). [Genetic dissection of complex traits](http://science.sciencemag.org/content/265/5181/2037.long). Science 265(5181):2037-2048, DOI: 10.1126/science.8091226.
 
 Manolio TA, Brooks LD, Collins FS (2008). [A HapMap harvest of insights into the genetics of common disease](http://www.jci.org/articles/view/34772). The Journal of Clinical Ivestigation. 118(5):1590-1605.
+
+Mancuso N, et al. (2017). Integrating gene expression with summary association statistics to identify susceptibility genes for 30 complex traits. American Journal of Human Genetics, 2017, 100, 473-487, http://www.cell.com/ajhg/fulltext/S0002-9297(17)30032-0, http://biorxiv.org/content/early/2016/09/01/072967 or http://dx.doi.org/10.1101/072967.
 
 Risch N, Merikangas K. (13 Sep 1996). [The Future of Genetic Studies of Complex Human Diseases](http://science.sciencemag.org/content/273/5281/1516.long), Science 273(5281):1516-1517, DOI:10.1126/science.273.5281.1516.
 
