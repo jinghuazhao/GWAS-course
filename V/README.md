@@ -2,17 +2,7 @@
 
 ### Lectures
 
-consortium collaboration
-
-summary statistics
-
-Conditional/joint analysis
-
-Microarray, methylation, TWAS, summary statistics
-
-Mendelian randomization
-
-### Consortium analysis
+Consortium collaboration
 
 Gene-Lifestyle Interactions (CHARGE)
 
@@ -25,6 +15,14 @@ Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 [GIANT consortium](http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium). `The Genetic Investigation of ANthropometric Traits (GIANT) consortium is an international collaboration that seeks to identify genetic loci that modulate human body size and shape, including height and measures of obesity. The GIANT consortium is a collaboration between investigators from many different groups, institutions, countries, and studies, and the results represent their combined efforts. The primary approach has been meta-analysis of genome-wide association data and other large-scale genetic data sets. Anthropometric traits that have been studied by GIANT include body mass index (BMI), height, and traits related to waist circumference (such as waist-hip ratio adjusted for BMI, or WHRadjBMI). Thus far, the GIANT consortium has identified common genetic variants at hundreds of loci that are associated with anthropometric traits.`
 
 [SSGAC](https://www.thessgac.org/). `The SSGAC is a cooperative enterprise among medical researchers and social scientists that coordinates genetic association studies for social science outcomes and provides a platform for interdisciplinary collaboration and cross-fertilization of ideas. The SSGAC also tries to promote the collection of harmonized and well-measured phenotypes.`.
+
+summary statistics
+
+Conditional/joint analysis
+
+Microarray, methylation, TWAS, summary statistics
+
+Mendelian randomization
 
 ### Exercises
 
