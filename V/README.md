@@ -2,13 +2,7 @@
 
 ### Lectures
 
-Consortium collaboration
-
-Gene-Lifestyle Interactions (CHARGE)
-
-Educational Attainment Analysis
-
-Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
+Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Attainment Analysis (SSGAC), Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 
 [CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
@@ -16,13 +10,13 @@ Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 
 [SSGAC](https://www.thessgac.org/). `The SSGAC is a cooperative enterprise among medical researchers and social scientists that coordinates genetic association studies for social science outcomes and provides a platform for interdisciplinary collaboration and cross-fertilization of ideas. The SSGAC also tries to promote the collection of harmonized and well-measured phenotypes.`.
 
-summary statistics
+Summary statistics
 
 Conditional/joint analysis
 
-Microarray, methylation, TWAS, summary statistics
-
 Mendelian randomization
+
+Microarray, methylation, TWAS
 
 ### Exercises
 
