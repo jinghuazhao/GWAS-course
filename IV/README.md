@@ -2,36 +2,34 @@
 
 ### Lecture
 
-Rare variants
+1. Rare variants
 
-Longitudinal data
+2. Longitudinal data
 
-Polygenic modelling
+3. Polygenic modelling
 
-Bayesian methods
+4. Bayesian methods
 
-Marchine learning
+5. Marchine learning
 
 ### Computer session
 
 #### Linux
 
-Makefile
-
-LaTex
-
 BOLT/GEMMA/GCTA/JAGS/Stan
-
-git, github, RStudio, markdown
 
 #### R package development and related software systems
 
 lme4, MCMCglmm, SKAT
 
+Makefile
+
+LaTex
+
+git, github, RStudio, markdown, knitr
+
 Embedding C/C++ into R, Stata and SAS
  
-knitr
-
 #### Exercises
 
 Experiment with the data provided: rare variant analysis, logintudinal analysis, polygeneic modeling
