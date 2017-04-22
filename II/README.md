@@ -34,7 +34,7 @@ glm
 
 metafor
 
-gap, haplo.stats, kinship2, pedigreemm
+NCBI2R, gap, haplo.stats, kinship2, pedigreemm
  
 ### Exercises
 
