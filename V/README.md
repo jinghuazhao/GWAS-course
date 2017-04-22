@@ -20,13 +20,11 @@ Microarray, methylation, TWAS
 
 ### Exercises
 
-Suggested reading
+** Suggested reading **
 
 Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-### Resources
-
-#### Summary statistics
+** Summary statistics **
 
 [NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
 
@@ -34,7 +32,7 @@ Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et a
 
 [R2BGLiMS](https://github.com/pjnewcombe/R2BGLiMS), R wrapper for a Java Bayesian GLM variable selection package including `JAM`.
 
-#### Integration of expression and methylation data
+** Integration of expression and methylation data **
 
 [ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
 
@@ -49,6 +47,8 @@ Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et a
 [UES](https://github.com/JamesHayes/uesEnrichment) `Uncovering Enrichment through Simulation) Algorithm Developmenty`.
 
 See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazhao/hess-pipeline) and [TWAS-pipeline](https://github.com/jinghuazhao/TWAS-pipeline).
+
+### Resources
 
 #### Individual level data
 
