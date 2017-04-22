@@ -48,7 +48,7 @@ Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 #### Exercises
 
-Read through the papers in Module V
+Read the Lander & Schork (1994) in Module V.
 
 Browse the following websites,
 
