@@ -48,6 +48,8 @@ Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 #### Exercises
 
+Read through the papers in Module V
+
 Browse the following websites,
 
 [TLDP](http://www.tldp.org/). The Linux Documentation Project (LDP) is working towards developing free, high quality documentation for the Linux operating system.
