@@ -27,3 +27,5 @@ The example use of the `DS.sh` files above is as follows: File `st.subs` is call
 A few remarks are worthwhile.
 
 First, our study already has the HRC imputed data before the call for contribution but in bgen formats. A consequence of this work was that the VCF files as generated from `qctool` does not contain the dosage field (DS) as required by `rvtests --dosage DS`. We therefore hard-edited the VCF files by an `awk` script after the developers did not provide an answer for us. Besides, within `HRC_kin.sh` the command `bcftools view` has flag `-O v` rather than `-O u` which cannot generate appropriate input the `vcf2kinship`.
+
+The execution time for `vcf2kinship` is prohibitively long, therefore `plink2.sh` is written to compromise.
