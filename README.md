@@ -27,15 +27,15 @@ Freie Universität Berlin, Institute of Biology, Königin-Luise-Str. 1-3, 14195 
 
 # Curriculum
 
-## Module I. [Overview](I/README.md)
+## Module I. [Overview](https://github.com/jinghuazhao/GWAS/I/README.md)
 
-## Module II. [Elements of genetic association](II/README.md)
+## Module II. [Elements of genetic association](https://github.com/jinghuazhao/GWAS/II/README.md)
 
-## Module III. [GWAS](III/README.md)
+## Module III. [GWAS](https://github.com/jinghuazhao/GWAS/III/README.md)
 
-## Module IV. [Advanced topics](IV/README.md)
+## Module IV. [Advanced topics](https://github.com/jinghuazhao/GWAS/IV/README.md)
 
-## Module V. [Additional topics](V/README.md)
+## Module V. [Additional topics](https://github.com/jinghuazhao/GWAS/V/README.md)
 
 # INSTRUCTOR
 
