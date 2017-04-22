@@ -2,9 +2,17 @@
 
 ### Lecture
 
+#### gene chips
+
+#### HapMap project
+
+#### 1000 genomes project
+
+#### Practical aspects of GWAS
+
 QC-HWE, call rates, MAF
 
-Imputation, imputation quality
+Genotype imputation, imputation quality
 
 Multiple testing, FDR, q-value
 
