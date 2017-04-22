@@ -2,11 +2,15 @@
 
 ### Lecture
 
+#### Introduction - background, purpose
+
 #### The roadmap to GWAS
 
 Background, study designs, implementations
 
 [GWAS catalog](http://www.ebi.ac.uk/gwas/)
+
+Workshop outlines
 
 #### Linux
 
@@ -24,9 +28,9 @@ Types of systems: Ubunto, Fedora, VirtualBox
 
 shell, .bashrc, export, env, PATH, LD_LIBRARY_PATH, source
 
-Basic operations, ls –a/-F/-l/-t/-rt, mkdir/cd/pwd/echo/wc/grep/bc, 
+Basic operations, ls –a/-F/-l/-t/-rt, mkdir/cd/pwd/echo
 
-cp, cat, history, more, diff, sdiff, chmod
+bc, cp, cat, grep, history, more, diff, sdiff, chmod, wc
 
 Editing with pico/nano
 
@@ -40,9 +44,7 @@ Setup – apt-get/dnf, installing and loading packages
 
 Basic operations
 
-RStudio
-
-Modes of execution
+Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 #### Exercises
 
