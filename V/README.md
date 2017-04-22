@@ -117,7 +117,7 @@ Lander ES, Schork NJ (30 Sep 1994). [Genetic dissection of complex traits](http:
 
 Manolio TA, Brooks LD, Collins FS (2008). [A HapMap harvest of insights into the genetics of common disease](http://www.jci.org/articles/view/34772). The Journal of Clinical Ivestigation. 118(5):1590-1605.
 
-Mancuso N, et al. (2017). Integrating gene expression with summary association statistics to identify susceptibility genes for 30 complex traits. American Journal of Human Genetics, 2017, 100, 473-487, http://www.cell.com/ajhg/fulltext/S0002-9297(17)30032-0, http://biorxiv.org/content/early/2016/09/01/072967 or http://dx.doi.org/10.1101/072967.
+Mancuso N, et al. (2017). [Integrating gene expression with summary association statistics to identify susceptibility genes for 30 complex traits](http://www.cell.com/ajhg/fulltext/S0002-9297(17)30032-0). American Journal of Human Genetics, 2017, 100, 473-487,  http://biorxiv.org/content/early/2016/09/01/072967 or http://dx.doi.org/10.1101/072967.
 
 Risch N, Merikangas K. (13 Sep 1996). [The Future of Genetic Studies of Complex Human Diseases](http://science.sciencemag.org/content/273/5281/1516.long), Science 273(5281):1516-1517, DOI:10.1126/science.273.5281.1516.
 
