@@ -40,7 +40,7 @@ Pipe and redirection
 
 #### R
 
-Setup – apt-get/dnf, installing and loading packages
+Setup – apt-get/dnf, installing and loading packages, devtools
 
 Basic operations
 
