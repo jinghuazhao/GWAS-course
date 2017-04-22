@@ -46,13 +46,13 @@ Basic operations
 
 Modes of execution: interactive/noninteractive/script, batch, RStudio
 
-#### Exercises
+### Exercises
 
-Suggested reading
+**Suggested reading**
 
 Khoury et al. (1993), Lange (2002), Lander & Schork (1994), Thomas (2004), Ziegler et al. (2010) in Module V.
 
-Websites
+**Website visits**
 
 [TLDP](http://www.tldp.org/). The Linux Documentation Project (LDP) is working towards developing free, high quality documentation for the Linux operating system.
 
