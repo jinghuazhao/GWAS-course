@@ -20,11 +20,11 @@ Microarray, methylation, TWAS
 
 ### Exercises
 
-** Suggested reading **
+**Suggested reading**
 
 Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-** Summary statistics **
+**Summary statistics**
 
 [NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
 
