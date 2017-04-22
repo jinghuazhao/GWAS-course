@@ -27,15 +27,15 @@ Freie Universität Berlin, Institute of Biology, Königin-Luise-Str. 1-3, 14195 
 
 # Curriculum
 
-## Module I. Overview
+## Module I. [Overview](I/README.md)
 
-## Module II. Elements of genetic association
+## Module II. [Elements of genetic association](II/README.md)
 
-## Module III. GWAS
+## Module III. [GWAS](III/README.md)
 
-## Module IV. Advanced topics 
+## Module IV. [Advanced topics](IV/README.md)
 
-## Module V. Additional topics
+## Module V. [Additional topics](V/README.md)
 
 # INSTRUCTOR
 
