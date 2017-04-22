@@ -9,7 +9,7 @@
 
 # Workshop Overview
 
-The past decade has witnessed an astonishing development and the universal use of genome wide association studies (GWAS) in identification and characterisation of genetic variants underlying disorders and other variations in human and other species, which has an immense impact in biomedical research. This is owing to the ability to generate and process large quantity of genetic polymorphisms as well as to integrate with other sources such as gene expression and methylation. To tackle challenges in GWAS, a lot of methods and techniques have been established but many others are still evolving. The workshop therefore provides a grand picture as well as practical aspects of GWAS.
+The past decade has witnessed an astonishing development and the universal use of genome wide association studies (GWAS) in identification and characterisation of genetic variants underlying disorders and other variations in human and other species, which has an immense impact in biomedical research. This is owing to the ability to generate and process large quantity of genetic polymorphisms as well as to integrate with other sources such as gene expression and methylation. To tackle challenges in GWAS, a lot of methods and techniques have been established but many others are still evolving. The workshop therefore intend to give a grand picture as well as practical aspects of GWAS.
 
 # Targeted audience and assumed background
 
