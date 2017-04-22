@@ -24,7 +24,7 @@ lme4, MCMCglmm, SKAT
 
 Makefile
 
-LaTex
+LaTeX
 
 git, github, RStudio, markdown, knitr
 
