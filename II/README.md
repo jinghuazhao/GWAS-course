@@ -20,15 +20,15 @@ Population stratification and genomic controls
 
 #### Linux
 
-Modern data manipulation with dplyr, tidyr, tidyverse
-
-Grammar of graphics with ggplot2
-
 HaploView
 
 Gene annotation using UCSC: genes, strand, builds and liftover, regions
 
 #### R packages
+
+Modern data manipulation with dplyr, tidyr, tidyverse
+
+Grammar of graphics with ggplot2
 
 glm
 
