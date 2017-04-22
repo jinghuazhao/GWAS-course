@@ -4,13 +4,11 @@
 
 Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Attainment Analysis (SSGAC), Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 
-Summary statistics
+1. Conditional/joint analysis
 
-Conditional/joint analysis
+2. Mendelian randomization
 
-Mendelian randomization
-
-Microarray, methylation, TWAS
+3. Microarray, methylation, TWAS
 
 [CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
