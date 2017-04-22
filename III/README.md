@@ -62,6 +62,8 @@ GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools, multtest
 
 #### Exercises
 
-Read Manolio (2008), WTCCC (2007) in Module V.
+Suggested reading
+
+Manolio (2008), WTCCC (2007), Stram (2014) in Module V.
 
 Experiment with the GWAS data provided.
