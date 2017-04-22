@@ -32,4 +32,8 @@ Embedding C/C++ into R, Stata and SAS
  
 #### Exercises
 
+Suggested reading
+
+Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
+
 Experiment with the data provided: rare variant analysis, logintudinal analysis, polygeneic modeling
