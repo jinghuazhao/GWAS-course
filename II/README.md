@@ -6,13 +6,13 @@ Chromosomes, DNA, QC, alleles, genotypes, HWE, mode of inheritance, haplotypes a
 
 Phenotype: QC, transformation
 
+Study designs: case-control, case-cohort, family
+
 Association models: linear, logistic, Cox regression models; R^2, AUC, Cstat
 
 Meta-analysis: fixed and random effects models
 
-Missing data models:
-
-Study designs: case-control, case-cohort, family
+Missing data models
 
 Population stratification and genomic controls
 
@@ -34,7 +34,7 @@ glm
 
 metafor
 
-gap, haplo.stats
+gap, haplo.stats, kinship2, pedigreemm
  
 #### Exercises
 
