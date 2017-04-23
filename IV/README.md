@@ -34,10 +34,8 @@ Embedding C/C++ into R, Stata and SAS
 
 **TASKS**
 
+rare variant analysis, logintudinal analysis, polygeneic modeling
+
 **Suggested reading**
 
 Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
-
-**Experiment**
-
-rare variant analysis, logintudinal analysis, polygeneic modeling
