@@ -23,7 +23,7 @@ UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
 VAT | http://varianttools.sourceforge.net/Association/HomePage
 VIZ-GRAIL | http://software.broadinstitute.org/mpg/grail/vizgrail.html
 
-This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016). The old [Rochefeller site](https://github.com/gaow/genetic-analysis-software) may still contain useful links.
+This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016). The old [Columbia/Rockefeller site](https://github.com/gaow/genetic-analysis-software) may still contain useful links.
 
 ## Generic software systems
 
