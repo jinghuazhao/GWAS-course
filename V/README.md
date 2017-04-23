@@ -18,6 +18,8 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 ### Exercises
 
+**TASKS**
+
 **Suggested reading**
 
 Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
