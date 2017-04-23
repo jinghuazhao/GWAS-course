@@ -32,6 +32,8 @@ Embedding C/C++ into R, Stata and SAS
  
 ### Exercises
 
+**TASKS**
+
 **Suggested reading**
 
 Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
