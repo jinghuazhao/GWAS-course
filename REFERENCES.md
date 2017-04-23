@@ -1,4 +1,4 @@
-## Papers and reviews
+## Research and review papers
 
 Balding DJ (October 2006). [A tutorial on statistical methods for population association studies](http://www.nature.com/nrg/journal/v7/n10/abs/nrg1916.html), Nature Reviews Genetics 7:781-791.
 
