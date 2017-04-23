@@ -38,9 +38,11 @@ NCBI2R, gap, haplo.stats, kinship2, pedigreemm
  
 ### Exercises
 
+**TASKS**
+
 **Suggested reading**
 
-Sasieni (1994), Risch & Merikangas (1996) and Balding (2006) in Module V.
+Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
 
 **Experiment**
 
