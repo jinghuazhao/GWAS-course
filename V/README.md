@@ -24,17 +24,11 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-**Summary statistics**
+**Related information**
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
 [R2BGLiMS](https://github.com/pjnewcombe/R2BGLiMS), R wrapper for a Java Bayesian GLM variable selection package including `JAM`.
-
-**Integration of expression and methylation data**
-
-[ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
-
-[GTEx portal](https://gtexportal.org/home/).
 
 [FUSION](https://github.com/gusevlab/fusion_twas). `methods for functional summary-based imputation.`
 
