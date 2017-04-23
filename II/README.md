@@ -40,10 +40,8 @@ NCBI2R, gap, haplo.stats, kinship2, pedigreemm
 
 **TASKS**
 
+basic association testing, haplotype analysis and pedigree operations.
+
 **Suggested reading**
 
 Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
-
-**Experiment**
-
-basic association testing, haplotype analysis and pedigree operations.
