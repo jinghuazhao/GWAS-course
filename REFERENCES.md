@@ -37,3 +37,7 @@ Elston RC., Satagopan JM, Sun S (2012). [Statistical Human Genetics-Methods and 
 Thomas DC (2004). [Statistical Methods in Genetic Epidemiology](https://global.oup.com/academic/product/statistical-methods-in-genetic-epidemiology-9780195159394?cc=gb&lang=en&), OUP.
 
 Datta S, Nettleton D (2014). [Statistical Analysis of Next Generation Sequencing Data](http://www.springer.com/cn/book/9783319072111), Springer. 
+
+## General references
+
+Hastie T, Tibshirani R, Friedman J (2009). [The Elements of Statistical LearningData Mining, Inference, and Prediction](http://www.springer.com/gb/book/9780387848570), 2e, Springer. [book website](https://statweb.stanford.edu/~tibs/ElemStatLearn/).
