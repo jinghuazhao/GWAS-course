@@ -20,6 +20,10 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 **TASKS**
 
+**Suggested reading**
+
+Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
+
 **Related information**
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
@@ -35,7 +39,3 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 [UES](https://github.com/JamesHayes/uesEnrichment) `Uncovering Enrichment through Simulation) Algorithm Developmenty`.
 
 See also my GitHub repositories for [hess-pipeline](https://github.com/jinghuazhao/hess-pipeline) and [TWAS-pipeline](https://github.com/jinghuazhao/TWAS-pipeline).
-
-**Suggested reading**
-
-Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
