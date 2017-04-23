@@ -11,3 +11,11 @@
 [GAW](https://www.gaworkshop.org/). `The Genetic Analysis Workshops (GAWs) are a collaborative effort among genetic epidemiologists to evaluate and compare statistical genetic methods. For each GAW, topics are chosen that are relevant to current analytical problems in genetic epidemiology, and sets of real or computer-simulated data are distributed to investigators worldwide.  Results of analyses are discussed and compared at meetings held in even-numbered years.`
 
 [1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
+
+## Integration of expression and methylation data
+
+[ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
+
+[GTEx portal](https://gtexportal.org/home/).
+
+
