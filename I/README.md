@@ -48,9 +48,11 @@ Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 ### Exercises
 
+**TASKS**
+
 **Suggested reading**
 
-Khoury et al. (1993), Lange (2002), Lander & Schork (1994), Thomas (2004), Ziegler et al. (2010) in Module V.
+Khoury et al. (1993), Lange (2002), Lander & Schork (1994), Thomas (2004), Ziegler et al. (2010).
 
 **Website visits**
 
