@@ -40,4 +40,4 @@ Datta S, Nettleton D (2014). [Statistical Analysis of Next Generation Sequencing
 
 ## General references
 
-Hastie T, Tibshirani R, Friedman J (2009). [The Elements of Statistical LearningData Mining, Inference, and Prediction](http://www.springer.com/gb/book/9780387848570), 2e, Springer. [book website](https://statweb.stanford.edu/~tibs/ElemStatLearn/).
+Hastie T, Tibshirani R, Friedman J (2009). [The Elements of Statistical Learning-Data Mining, Inference, and Prediction](http://www.springer.com/gb/book/9780387848570), 2e, Springer. [book website](https://statweb.stanford.edu/~tibs/ElemStatLearn/).
