@@ -1,6 +1,12 @@
 ## Module V. Additional topics
 
-### Lectures
+9:30am -- 17:30pm
+
+The module will look further into several other areas of research in GWAS.
+
+### Lecture
+
+9:30am -- 12:30pm
 
 Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Attainment Analysis (SSGAC), Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 
@@ -17,6 +23,8 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 [SSGAC](https://www.thessgac.org/). `The SSGAC is a cooperative enterprise among medical researchers and social scientists that coordinates genetic association studies for social science outcomes and provides a platform for interdisciplinary collaboration and cross-fertilization of ideas. The SSGAC also tries to promote the collection of harmonized and well-measured phenotypes.`.
 
 ### Exercises
+
+13:30pm -- 17:30pm
 
 **TASKS**
 
