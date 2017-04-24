@@ -1,6 +1,12 @@
 ## Module II. Elements of genetic association
 
+9:30am -- 17:30pm
+
+The purpose of this module is to get into the basic considerations of the genetic association studies. At end of the module, you will be able to conduct the relevant analyses.
+
 ### Lecture
+
+9:30am -- 12:30pm
 
 Chromosomes, DNA, QC, alleles, genotypes, HWE, mode of inheritance, haplotypes and linkage disequilibrium, GxG and GxE interactions
 
@@ -17,6 +23,8 @@ Missing data models
 Population stratification and genomic controls
 
 ### Computer session
+
+13:30pm -- 17:30pm
 
 #### Linux
 
