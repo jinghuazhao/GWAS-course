@@ -28,7 +28,7 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 **TASKS**
 
-In a SPiroMeta call for HRC imputation data contribution, [imputation checker](http://www.well.ox.ac.uk/~wrayner/tools/Post-Imputation.html), is required, which in turn requires GD::Graph module from `Perl`.
+In a SpiroMeta call for HRC imputation data contribution, [imputation checker](http://www.well.ox.ac.uk/~wrayner/tools/Post-Imputation.html), is required, which in turn requires GD::Graph module from `Perl`.
 ```
 # one can use ```pip install GD::Graph``` or preferably
 perl -MCPAN -e shell
