@@ -12,7 +12,7 @@
 
 [1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
 
-[The Haplotype Reference Consortium](http://www.haplotype-reference-consortium.org/) creats a large reference panel of human haplotypes by combining together sequencing data from multiple cohorts.
+[The Haplotype Reference Consortium](http://www.haplotype-reference-consortium.org/) creates a large reference panel of human haplotypes by combining together sequencing data from multiple cohorts.
 
 ## Integration of expression and methylation data
 
