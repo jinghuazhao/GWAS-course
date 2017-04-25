@@ -1,20 +1,20 @@
 <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=571x10000:format=png/path/sc907c1c4cc8c1f1e/image/i71ccc2b41a89bd06/version/1470133774/image.png" height="150" width="310" align="right">
 
-# Practical GWAS Using Linux and R
+# PRACTICAL GWAS USING LINUX AND R
 
 ## Dates 
 
 23-27 October 2017 
 
-# Workshop Overview
+# WORKSHOP OVERVIEW
 
 The past decade has witnessed an astonishing development and the universal use of genome wide association studies (GWAS) in identification and characterisation of genetic variants underlying disorders and other variations in human and other species, which has an immense impact in biomedical research. This is owing to the ability to generate and process large quantity of genetic polymorphisms as well as to integrate with other sources such as gene expression and methylation. To tackle challenges in GWAS, a lot of methods and techniques have been established but many others are still evolving. The workshop therefore intends to give a grand picture as well as practical aspects of GWAS.
 
-# Targeted audience and assumed background
+# TARGETED AUDIENCE AND ASSUMED BACKGROUND
 
 The purpose of this workshop is to render both a broad picture and computational details of GWAS to biomedical researchers and related fields. It sets to explore the biological, statistical, and computational concepts, methodologies and practices involving a variety of software based on Linux and R. Examples of consortium contributions will also be given. These will be particularly beneficial to those who come with their own problems and wish to implement the analysis.
 
-# Workshop structure
+# WORKSHOP STRUCTURE
 
 The workshop contains both lecture and computer sessions, designed to help participants to understand the background, methodology and implementation. The computer session is designed to facilitate data analysis and interpretation.
 
@@ -24,7 +24,7 @@ Freie Universität Berlin, Institute of Biology, Königin-Luise-Str. 1-3, 14195 
 
 ![map](https://image.jimcdn.com/app/cms/image/transf/none/path/sc907c1c4cc8c1f1e/image/i501c0825ca0ccc93/version/1488797144/image.jpg)
 
-# Curriculum
+# CURRICULUM
 
 ## Module I. [Overview](https://github.com/jinghuazhao/GWAS/tree/master/I/README.md)
 
