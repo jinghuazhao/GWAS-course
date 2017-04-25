@@ -2,7 +2,7 @@
 
 9:30am -- 17:30pm
 
-The module will look further into several other areas of research in GWAS.
+The module will look further into several other areas of research in GWAS, to be followed by some case studies.
 
 ### Lecture
 
@@ -27,6 +27,19 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 13:30pm -- 17:30pm
 
 **TASKS**
+
+In a SPiroMeta call for HRC imputation data contribution, [imputation checker](http://www.well.ox.ac.uk/~wrayner/tools/Post-Imputation.html), is required, which in turn requires GD::Graph module from `Perl`.
+```
+# one can use ```pip install GD::Graph``` or preferably
+perl -MCPAN -e shell
+install GD::Graph
+# to remove the ^M signature for Windows
+dos2unix ic.pl
+# to make it executable
+chmod +x ic.pl
+```
+
+Further examples are available from the HRC-1KG directory in this repository.
 
 **Suggested reading**
 
