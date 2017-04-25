@@ -42,7 +42,7 @@ dos2unix ic.pl
 chmod +x ic.pl
 ```
 
-Further examples are available from the [HRC-1KG directory](../HRC-1KG) in this repository.
+An example for rare variant analysis are available from the [HRC-1KG directory](../HRC-1KG)
 
 **Suggested reading**
 
