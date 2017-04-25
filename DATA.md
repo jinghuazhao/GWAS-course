@@ -12,6 +12,8 @@
 
 [1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
 
+[The Haplotype Reference Consortium](http://www.haplotype-reference-consortium.org/) creats a large reference panel of human haplotypes by combining together sequencing data from multiple cohorts.
+
 ## Integration of expression and methylation data
 
 [ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
