@@ -39,7 +39,7 @@ dos2unix ic.pl
 chmod +x ic.pl
 ```
 
-Further examples are available from the HRC-1KG directory in this repository.
+Further examples are available from the [HRC-1KG directory](../HRC-1KG) in this repository.
 
 **Suggested reading**
 
