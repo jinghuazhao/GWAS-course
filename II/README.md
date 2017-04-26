@@ -53,3 +53,7 @@ basic association testing, haplotype analysis and pedigree operations.
 **Suggested reading**
 
 Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
+
+**Website visits**
+
+Wikipedia: [Linkage disequilibrium](https://en.wikipedia.org/wiki/Linkage_disequilibrium).
