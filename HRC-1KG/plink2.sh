@@ -10,6 +10,6 @@ t=/scratch/tempjhz22/23-1-17
 
 gzip $t/rel.rel
 
-# add header
+# add column and row names
 awk '{if(NR==1) printf "FID\tIID\t"; printf $2 "\t"}' $t/rel.rel.id | sed 's/[\t]$/\n/g'> $t/EPIC-Norfolk.rel
 gunzip -c $t/rel.rel.gz | paste $t/rel.rel.id - | awk -vFS="\t" -vOFS="\t" '{$1=NR;print}' >> $t/EPIC-Norfolk.rel
