@@ -26,6 +26,8 @@ This module covers several areas of GWAS in more details.
 
 BOLT/GEMMA/GCTA/JAGS/Stan
 
+.grm.bin formats
+
 #### R package development and related software systems
 
 lme4, MCMCglmm, SKAT
