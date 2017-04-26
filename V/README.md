@@ -46,9 +46,11 @@ An example for rare variant analysis are available from the [HRC-1KG directory](
 
 **Suggested reading**
 
+**Papers/books**
+
 Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-**Related information**
+**Websites**
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
