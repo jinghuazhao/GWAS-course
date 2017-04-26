@@ -1,4 +1,4 @@
-# 22-4-2017 MRC-Epid JHZ
+# 26-4-2017 MRC-Epid JHZ
 
 s=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014
 t=/scratch/tempjhz22/23-1-17
@@ -12,5 +12,4 @@ gzip $t/rel.rel
 
 # add header
 awk '{if(NR==1) printf "FID\tIID\t"; printf $2 "\t"}' $t/rel.rel.id | sed 's/[\t]$/\n/g'> $t/EPIC-Norfolk.rel
-gunzip -c $t/rel.rel.gz | paste $t/rel.rel.id - | awk -vFS="\t" '{$1=NR;print}' >> $t/EPIC-Norfolk.rel
-
+gunzip -c $t/rel.rel.gz | paste $t/rel.rel.id - | awk -vFS="\t" -vOFS="\t" '{$1=NR;print}' >> $t/EPIC-Norfolk.rel
