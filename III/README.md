@@ -30,7 +30,7 @@ Prediction
 
 #### Linux
 
-Multithread and parallel computing; (.)bash(rc), tar, gzip
+Multithread and parallel computing; (.)bash(rc), tar, gzip -d -c, zcat
 
 awk/sed
 
@@ -52,7 +52,9 @@ parallel
 
 sge
 
-Data formats
+File formats: .gz, .tar.gz, .bz2
+
+Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
 
 Specific software
 
