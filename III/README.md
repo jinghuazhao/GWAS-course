@@ -30,6 +30,8 @@ Prediction
 
 #### Linux
 
+Bash programming
+
 Multithread and parallel computing; (.)bash(rc), tar, gzip -d -c, zcat
 
 awk/sed
