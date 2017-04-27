@@ -60,7 +60,7 @@ Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
 
 Specific software
 
-qctool, bcftool, vcftool, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
+qctool, bcftools, vcftools, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
 
 #### R and Bioconductor packages
 
