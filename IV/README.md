@@ -28,11 +28,7 @@ BOLT/GEMMA/GCTA/JAGS/Stan
 
 .grm.bin formats
 
-#### R package development and related software systems
-
-lme4, MCMCglmm, SKAT
-
-Makefile
+Software instalation: make/cmake/ccmake, Makefile
 
 LaTeX
 
@@ -40,6 +36,10 @@ git, github, RStudio, markdown, knitr
 
 Embedding C/C++ into R, Stata and SAS
  
+#### R package development and related software systems
+
+lme4, MCMCglmm, SKAT
+
 ### Exercises
 
 **TASKS**

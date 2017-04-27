@@ -30,7 +30,7 @@ Prediction
 
 #### Linux
 
-Bash programming
+Bash programming, looping and seq, branching, function
 
 Multithread and parallel computing; (.)bash(rc), tar, gzip -d -c, zcat
 
@@ -44,15 +44,13 @@ sort
 
 join
 
-looping and seq
-
 Mixing programming, e.g., <<<
-
-sftp/ssh
 
 parallel
 
 sge
+
+sftp/ssh, wget
 
 File formats: .gz, .tar.gz, .bz2
 
@@ -60,7 +58,7 @@ Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
 
 Specific software
 
-qctool, bcftool, vcftool, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
+qctool, bcftools, vcftools, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
 
 #### R and Bioconductor packages
 
