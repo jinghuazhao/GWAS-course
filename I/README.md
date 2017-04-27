@@ -38,13 +38,17 @@ shell, .bashrc, export, env, PATH, LD_LIBRARY_PATH, source
 
 Basic operations, ls –a/-F/-l/-t/-rt, cp -d -p -r, mkdir -p/cd/pwd/echo
 
-bc, cat, grep, history, more, diff, sdiff, chmod, wc
+bc, cat, cp, grep, history, more, rm, mv, diff, sdiff, chmod, wc
 
 Editing with pico/nano
 
 alias
 
 Pipe and redirection
+
+ps, kill
+
+*, ?
 
 #### C/C++/Fortran/Python
 
