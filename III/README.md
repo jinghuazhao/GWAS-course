@@ -30,7 +30,7 @@ Prediction
 
 #### Linux
 
-Bash programming
+Bash programming, looping and seq, branching, function
 
 Multithread and parallel computing; (.)bash(rc), tar, gzip -d -c, zcat
 
@@ -43,8 +43,6 @@ find
 sort
 
 join
-
-looping and seq
 
 Mixing programming, e.g., <<<
 
