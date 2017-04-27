@@ -38,9 +38,9 @@ tar, gzip -d -c, zcat
 
 awk/sed
 
-cut/paste
+head/tail/find
 
-find
+cut/paste
 
 sort
 
