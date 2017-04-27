@@ -50,7 +50,7 @@ parallel
 
 sge
 
-sftp/ssh
+sftp/ssh, wget
 
 File formats: .gz, .tar.gz, .bz2
 
