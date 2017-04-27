@@ -46,11 +46,11 @@ join
 
 Mixing programming, e.g., <<<
 
-sftp/ssh
-
 parallel
 
 sge
+
+sftp/ssh
 
 File formats: .gz, .tar.gz, .bz2
 
