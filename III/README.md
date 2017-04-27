@@ -36,8 +36,6 @@ Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
 
 tar, gzip -d -c, zcat
 
-Bash programming, looping and seq, branching, function
-
 awk/sed
 
 cut/paste
@@ -48,13 +46,9 @@ sort
 
 join
 
-Mixing programming, e.g., <<<
+Bash programming, looping and seq, branching, function, Mixing programming, e.g., <<<
 
-Multithread and parallel computing
-
-parallel
-
-sge
+Multithread and parallel computing: parallel, sge
 
 sftp/ssh, wget
 
