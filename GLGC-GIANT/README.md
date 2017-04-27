@@ -1,4 +1,4 @@
-## Utilities from the latest GLGC/GIANT contribution
+# Utilities from the latest GLGC/GIANT contribution
 
 `invnorm.txt` describes how to do Inverse Normal transformation.
 
