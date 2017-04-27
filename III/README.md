@@ -30,9 +30,13 @@ Prediction
 
 #### Linux
 
-Bash programming, looping and seq, branching, function
+File formats: .gz, .tar.gz, .bz2
 
-Multithread and parallel computing; (.)bash(rc), tar, gzip -d -c, zcat
+Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
+
+tar, gzip -d -c, zcat
+
+Bash programming, looping and seq, branching, function
 
 awk/sed
 
@@ -46,15 +50,13 @@ join
 
 Mixing programming, e.g., <<<
 
+Multithread and parallel computing
+
 parallel
 
 sge
 
 sftp/ssh, wget
-
-File formats: .gz, .tar.gz, .bz2
-
-Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
 
 Specific software
 
