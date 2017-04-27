@@ -1,4 +1,4 @@
-# 26-4-2017 MRC-Epid JHZ
+# 27-4-2017 MRC-Epid JHZ
 
 parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/bolt \
     --fam=/genetics/data/gwas/27-2-17/Axiom_UKB_EPICN_release_04Dec2014.fam\
@@ -21,5 +21,4 @@ parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/b
 # awk '{$1=NR;gsub(/ /,"\t",$0);print}' $EPIC_omics.fam > $(basename $EPIC_omics).fam
 # touch impute.list
 # for i in $(seq 22);do echo -e $i\\t /scratch/tempjhz22/23-1-17/HRC/EPIC-Norfolk.chr$i.vcf.gz >> impute.list;done
-# bcftools query -l /scratch/tempjhz22/23-1-17/HRC/EPIC-Norfolk.chr1.vcf.gz|sort > impute.id
 
