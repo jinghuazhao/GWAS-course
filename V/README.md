@@ -28,41 +28,11 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 **TASKS**
 
-In a SpiroMeta call for HRC imputation data contribution, [imputation checker](http://www.well.ox.ac.uk/~wrayner/tools/Post-Imputation.html), is required, which in turn requires GD::Graph module from `Perl`.
-```
-# install Perl modules
-cpan App::cpanminus
-cpanm GD::Graph
-# or ```pip install GD::Graph``` or preferably
-perl -MCPAN -e shell
-install GD::Graph
-# to remove the ^M signature for Windows
-dos2unix ic.pl
-# to make it executable
-chmod +x ic.pl
-```
-The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do this is as follows,
-```
-parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/bolt \
-    --fam=/genetics/data/gwas/27-2-17/Axiom_UKB_EPICN_release_04Dec2014.fam\
-    --bim=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bim \
-    --bed=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bed \
-    --phenoFile=results/ \
-    --phenoCol={1}_{2} \
-    --lmm \
-    --impute2FileList=/genetics/data/gwas/27-2-17/impute.list \
-    --impute2FidIidFile=/genetics/data/gwas/27-2-17/impute.id \
-    --statsFileImpute2Snps=/scratch/tempjhz22/27-2-17/EPIC{1}_{2}.stats \
-    --LDscoresUseChip \
-    --noMapCheck \
-    --numLeaveOutChunks 2 \
-    --statsFile=/scratch/tempjhz22/27-2-17/{1}_{2}.stats \
-    --numThreads=12 \
-    2>&1 | tee /scratch/tempjhz22/27-2-17/{1}_{2}.log\"" ::: fev fvc fevfvc ::: never_smoker ever_smoker men women
-```
-Note that `impute.list` and `impute.id` contain list of chromosome-specific imputed genotypes and list of individuals, respectively.
+A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](../SpiroMeta) directory.
 
-An example for rare variant analysis are available from the [HRC-1KG directory](../HRC-1KG)
+The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do is shown in [bolt.sh](../SpiroMeta/bolt.sh),
+
+An example for rare variant analysis are available from the [GLGC-GIANT directory](../GLGC-GIANT)
 
 **Suggested reading**
 
