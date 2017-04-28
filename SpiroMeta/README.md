@@ -8,7 +8,7 @@ vcfparse.pl -d /scratch/tempjhz22/23-1-17/HRC/SpiroMeta -o /scratch/tempjhz22/23
 ```
 where -d indicates input directory, -o output directory, and -g gzipped format. Now `ic.pl` is called to produce QC-plots.
 ```
-ic.pl -d ic -r HRC.r1.GRCh37.autosomes.mac5.sites.tab.gz -h
+ic.pl -d vcfparse -r HRC.r1.GRCh37.autosomes.mac5.sites.tab.gz -h
 ```
 where -r indicates reference: and -h indicates HRC:
 
