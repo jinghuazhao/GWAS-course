@@ -1,7 +1,7 @@
 # 28-4-2017 MRC-Epid JHZ
 
 parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/bolt \
-    --fam=/genetics/data/gwas/27-2-17/Axiom_UKB_EPICN_release_04Dec2014.fam\
+    --fam=/genetics/data/gwas/27-2-17/Axiom_UKB_EPICN_release_04Dec2014.fam \
     --bim=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bim \
     --bed=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bed \
     --phenoFile=/genetics/data/gwas/27-2-17/{2}.dat \
