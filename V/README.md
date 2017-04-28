@@ -22,15 +22,17 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 [SSGAC](https://www.thessgac.org/). `The SSGAC is a cooperative enterprise among medical researchers and social scientists that coordinates genetic association studies for social science outcomes and provides a platform for interdisciplinary collaboration and cross-fertilization of ideas. The SSGAC also tries to promote the collection of harmonized and well-measured phenotypes.`.
 
+**Case studies**
+
+A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](../SpiroMeta) directory.
+
+An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC-GIANT) directory.
+
 ### Exercises
 
 13:30pm -- 17:30pm
 
 **TASKS**
-
-A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](../SpiroMeta) directory.
-
-An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC-GIANT) directory.
 
 **Suggested reading**
 
