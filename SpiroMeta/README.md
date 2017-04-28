@@ -2,7 +2,19 @@
 
 A SpiroMeta call for HRC imputation data contribution requires [imputation checker](http://www.well.ox.ac.uk/~wrayner/tools/Post-Imputation.html), which in turn requires GD::Graph module from `Perl`.
 
+The toolset first extracts the first eight columns of VCF files, including chromosome, position, ID, QUAL, FILTER, INFO.
+```
+vcfparse.pl -d /scratch/tempjhz22/23-1-17/HRC/SpiroMeta -o /scratch/tempjhz22/23-1-17/HRC/SpiroMeta/vcfparse -g
+```
+where -d indicates input directory, -o output directory, and -g gzipped format. Now `ic.pl` is called to produce QC-plots.
+```
+ic.pl -d ic -r HRC.r1.GRCh37.autosomes.mac5.sites.tab.gz -h ic
+```
+where -r indicates reference: and -h indicates HRC:
+
 `st.sh` shows how to install GD::Graph module.
 
-Note that `impute.list` and `impute.id` as in `bolt.sh` contain list of chromosome-specific imputed genotypes and list of individuals, respectively.
+Summary statistics are additionally generated via `qctool`.
+
+Note that `impute.list` and `impute.id` as in [bolt.sh](bolt.sh) contain list of chromosome-specific imputed genotypes and list of individuals, respectively.
 
