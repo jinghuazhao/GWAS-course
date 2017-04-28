@@ -14,7 +14,7 @@ where -r indicates reference: and -h indicates HRC:
 
 `st.sh` shows how to install GD::Graph module.
 
-Summary statistics are additionally generated via `qctool`.
+Summary statistics are additionally generated via `qctool` -snp-stats.
 
 Note that `impute.list` and `impute.id` as in [bolt.sh](bolt.sh) contain list of chromosome-specific imputed genotypes and list of individuals, respectively.
 
