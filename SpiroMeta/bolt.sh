@@ -1,10 +1,10 @@
-# 27-4-2017 MRC-Epid JHZ
+# 28-4-2017 MRC-Epid JHZ
 
 parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/bolt \
     --fam=/genetics/data/gwas/27-2-17/Axiom_UKB_EPICN_release_04Dec2014.fam\
     --bim=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bim \
     --bed=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bed \
-    --phenoFile=results/ \
+    --phenoFile=/genetics/data/gwas/27-2-17/{2}.dat \
     --phenoCol={1}_{2} \
     --lmm \
     --impute2FileList=/genetics/data/gwas/27-2-17/impute.list \
@@ -13,9 +13,9 @@ parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/b
     --LDscoresUseChip \
     --noMapCheck \
     --numLeaveOutChunks 2 \
-    --statsFile=/scratch/tempjhz22/27-2-17/{1}_{2}.stats \
+    --statsFile=/scratch/tempjhz22/27-2-17/results/{1}_{2}.stats \
     --numThreads=12 \
-    2>&1 | tee /scratch/tempjhz22/27-2-17/{1}_{2}.log\"" ::: fev fvc fevfvc ::: never_smoker ever_smoker men women
+    2>&1 | tee /scratch/tempjhz22/27-2-17/results/{1}_{2}.log\"" ::: fev fvc fevfvc ::: never_smoker ever_smoker men women
 
 # EPIC_omics=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014
 # awk '{$1=NR;gsub(/ /,"\t",$0);print}' $EPIC_omics.fam > $(basename $EPIC_omics).fam
