@@ -30,8 +30,6 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](../SpiroMeta) directory.
 
-The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do is shown in [bolt.sh](../SpiroMeta/bolt.sh),
-
 An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC-GIANT) directory.
 
 **Suggested reading**
