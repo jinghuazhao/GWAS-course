@@ -6,19 +6,19 @@ This module covers several areas of GWAS in more details.
 
 ### Lecture 4
 
-1. Rare variants
+* Rare variants
 
-2. Longitudinal data
+* Longitudinal data
 
-3. Polygenic modelling
+* Polygenic modelling
 
-4. Bayesian methods
+* Bayesian methods
 
-5. Marchine learning
+* Marchine learning
 
 ### Lab 4
 
-1. Linux
+* Linux
 
    BOLT/GEMMA/GCTA/JAGS/Stan
 
@@ -32,18 +32,18 @@ This module covers several areas of GWAS in more details.
 
    Embedding C/C++ into R, Stata and SAS
  
-2. R
+* R
 
    lme4, MCMCglmm, SKAT
 
 ### Exercises
 
-1. TASKS
+* TASKS
 
    rare variant analysis, logintudinal analysis, polygeneic modeling
 
-2. Suggested reading
+* Suggested reading
 
-* Papers/books
+  * Papers/books
 
    Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
