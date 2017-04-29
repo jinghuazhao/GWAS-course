@@ -32,11 +32,11 @@ An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC
 
 **Suggested reading**
 
-**Papers/books**
+* Papers/books
 
 Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-**Websites**
+* Websites
 
 [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
