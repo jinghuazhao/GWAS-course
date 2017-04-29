@@ -1,10 +1,10 @@
-## Module III. GWAS
+## Module 3 -- GWAS
 
 9:30am -- 17:30pm
 
 This module focuses on main analyses for GWAS.
 
-### Lecture
+### Lecture 3
 
 9:30am -- 12:30pm
 
@@ -24,7 +24,7 @@ Report of results and GSEA
 
 Prediction
 
-### Computer session
+### Lab 3
 
 13:30pm -- 17:30pm
 
