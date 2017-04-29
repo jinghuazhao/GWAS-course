@@ -38,11 +38,11 @@ lme4, MCMCglmm, SKAT
 
 ### Exercises
 
-**TASKS**
+1. TASKS
 
 rare variant analysis, logintudinal analysis, polygeneic modeling
 
-**Suggested reading**
+2. Suggested reading
 
 * Papers/books
 
