@@ -44,6 +44,6 @@ rare variant analysis, logintudinal analysis, polygeneic modeling
 
 **Suggested reading**
 
-**Papers/books**
+* Papers/books
 
 Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
