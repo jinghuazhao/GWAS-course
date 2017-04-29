@@ -42,11 +42,11 @@ NCBI2R, genetics, gap, HardyWeinberg, haplo.stats, kinship2, pedigreemm
  
 ### Exercises
 
-**TASKS**
+1. TASKS
 
 basic association testing, haplotype analysis and pedigree operations.
 
-**Suggested reading**
+2. Suggested reading
 
 * Papers/books
 
