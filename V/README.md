@@ -1,10 +1,10 @@
-## Module V. Additional topics
+## Module 5 -- Additional topics
 
 9:30am -- 17:30pm
 
 The module will look further into several other areas of research in GWAS, to be followed by some case studies.
 
-### Lecture
+### Lecture 5
 
 9:30am -- 12:30pm
 
@@ -28,7 +28,7 @@ A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](..
 
 An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC-GIANT) directory.
 
-### Exercises
+### Lab 5
 
 13:30pm -- 17:30pm
 
