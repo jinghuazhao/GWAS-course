@@ -48,10 +48,10 @@ Population stratification and genomic controls
 
 * Suggested reading
 
-  * Papers/books
+   **Papers/books**
 
    Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
 
-  * Websites
+   **Websites**
 
    Wikipedia: [Linkage disequilibrium](https://en.wikipedia.org/wiki/Linkage_disequilibrium).
