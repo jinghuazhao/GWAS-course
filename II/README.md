@@ -1,4 +1,6 @@
-## Module 2 -- Elements of genetic association Classes from 9:30am to 17:30pm
+### Tuesday 24th -- Classes from 9:30am to 17:30pm
+
+## Module 2 -- Elements of genetic association
 
 The purpose of this module is to get into the basic considerations of the genetic association studies. At end of the module, you will be able to conduct the relevant analyses.
 
