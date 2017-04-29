@@ -6,19 +6,21 @@ The purpose of this module is provide a grand view of genetic dissection of comp
 
 ### Lecture 1
 
-1. Introduction - background, purpose, workshop outlines
+1. Introduction
 
-2. The roadmap to GWAS
+   Self-introductino
 
-   Background, study designs, implementations
+   Workshop outlines
+
+   The roadmap to GWAS -- Background, study designs, implementations
 
    [GWAS catalog](http://www.ebi.ac.uk/gwas/)
 
-3. Linux
+2. Linux
 
    A rich variety of open-source software is available for system administration, database management, Internet facility and development environment including system-level commands and utilities to enable powerful high-level programming languages such as C/C++/Fortran/Python are readily available. R is built on these.
 
-4. R for reproducible research
+3. R for reproducible research
 
    A combination of data management, statistical analysis, graphics, programming in a unified environment, it enjoys ever-growing user-base and facilities.
 
