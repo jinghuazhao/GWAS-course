@@ -26,7 +26,7 @@ A combination of data management, statistical analysis, graphics, programming in
 
 ### Lab 1
 
-#### Linux
+1. Linux
 
 Types of systems: Ubunto, Fedora, VirtualBox 
 
@@ -48,7 +48,7 @@ ps, kill
 
 #### C/C++/Fortran/Python
 
-#### R
+2. R
 
 Setup – apt-get/dnf, installing and loading packages, devtools
 
