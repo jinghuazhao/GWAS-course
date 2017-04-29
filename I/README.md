@@ -56,9 +56,9 @@ Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 ### Exercises
 
-**TASKS**
+1. TASKS
 
-**Suggested reading**
+2. Suggested reading
 
 * Papers/books
 
