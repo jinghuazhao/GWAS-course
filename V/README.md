@@ -28,9 +28,11 @@ An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC
 
 ### Lab 5
 
-**TASKS**
+### Exercises
 
-**Suggested reading**
+1. TASKS
+
+2. Suggested reading
 
 * Papers/books
 
