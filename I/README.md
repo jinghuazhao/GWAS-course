@@ -76,4 +76,4 @@ The purpose of this module is provide a grand view of genetic dissection of comp
 
    [RStudio](https://www.rstudio.com/). The RStudio website.
 
-      [Bioconductor](https://www.bioconductor.org/). The BioConductor project.
+   [Bioconductor](https://www.bioconductor.org/). The BioConductor project.
