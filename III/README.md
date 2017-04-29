@@ -1,12 +1,8 @@
-## Module 3 -- GWAS
-
-9:30am -- 17:30pm
+## Module 3 -- GWAS Classes from 9:30am to 17:30pm
 
 This module focuses on main analyses for GWAS.
 
 ### Lecture 3
-
-9:30am -- 12:30pm
 
 gene chips, HapMap, 1000 genomes project
 
@@ -25,8 +21,6 @@ Report of results and GSEA
 Prediction
 
 ### Lab 3
-
-13:30pm -- 17:30pm
 
 #### Linux
 
