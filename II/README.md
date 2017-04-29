@@ -24,34 +24,34 @@ Population stratification and genomic controls
 
 1. Linux
 
-HaploView
+   HaploView
 
-Gene annotation using UCSC: genes, strand, builds and liftover, regions
+   Gene annotation using UCSC: genes, strand, builds and liftover, regions
 
 2. R
 
-Modern data manipulation with dplyr, tidyr, tidyverse
+   Modern data manipulation with dplyr, tidyr, tidyverse
 
-Grammar of graphics with ggplot2
+   Grammar of graphics with ggplot2
 
-glm
+   glm
 
-metafor
+   metafor
 
-NCBI2R, genetics, gap, HardyWeinberg, haplo.stats, kinship2, pedigreemm
+   NCBI2R, genetics, gap, HardyWeinberg, haplo.stats, kinship2, pedigreemm
  
 ### Exercises
 
 1. TASKS
 
-basic association testing, haplotype analysis and pedigree operations.
+   basic association testing, haplotype analysis and pedigree operations.
 
 2. Suggested reading
 
 * Papers/books
 
-Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
+   Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
 
 * Websites
 
-Wikipedia: [Linkage disequilibrium](https://en.wikipedia.org/wiki/Linkage_disequilibrium).
+   Wikipedia: [Linkage disequilibrium](https://en.wikipedia.org/wiki/Linkage_disequilibrium).
