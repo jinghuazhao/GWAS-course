@@ -32,11 +32,11 @@ The module will look further into several other areas of research in GWAS, to be
 
 * Suggested reading
 
-  * Papers/books
+   **Papers/books**
 
    Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-  * Websites
+   **Websites**
 
    [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
