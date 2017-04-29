@@ -22,13 +22,13 @@ Population stratification and genomic controls
 
 ### Lab 2
 
-#### Linux
+1. Linux
 
 HaploView
 
 Gene annotation using UCSC: genes, strand, builds and liftover, regions
 
-#### R packages
+2. R
 
 Modern data manipulation with dplyr, tidyr, tidyverse
 
