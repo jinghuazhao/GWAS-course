@@ -20,30 +20,30 @@ This module covers several areas of GWAS in more details.
 
 1. Linux
 
-BOLT/GEMMA/GCTA/JAGS/Stan
+   BOLT/GEMMA/GCTA/JAGS/Stan
 
-.grm.bin formats
+   .grm.bin formats
 
-Software instalation: make/cmake/ccmake, Makefile
+   Software instalation: make/cmake/ccmake, Makefile
 
-LaTeX
+   LaTeX
 
-git, github, RStudio, markdown, knitr
+   git, github, RStudio, markdown, knitr
 
-Embedding C/C++ into R, Stata and SAS
+   Embedding C/C++ into R, Stata and SAS
  
 2. R
 
-lme4, MCMCglmm, SKAT
+   lme4, MCMCglmm, SKAT
 
 ### Exercises
 
 1. TASKS
 
-rare variant analysis, logintudinal analysis, polygeneic modeling
+   rare variant analysis, logintudinal analysis, polygeneic modeling
 
 2. Suggested reading
 
 * Papers/books
 
-Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
+   Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
