@@ -18,7 +18,7 @@ This module covers several areas of GWAS in more details.
 
 ### Lab 4
 
-#### Linux
+1. Linux
 
 BOLT/GEMMA/GCTA/JAGS/Stan
 
@@ -32,7 +32,7 @@ git, github, RStudio, markdown, knitr
 
 Embedding C/C++ into R, Stata and SAS
  
-#### R package development and related software systems
+2. R
 
 lme4, MCMCglmm, SKAT
 
