@@ -1,12 +1,10 @@
 ## Module 5 -- Additional topics
 
-9:30am -- 17:30pm
+Classes from 9:30am to 17:30pm
 
 The module will look further into several other areas of research in GWAS, to be followed by some case studies.
 
 ### Lecture 5
-
-9:30am -- 12:30pm
 
 Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Attainment Analysis (SSGAC), Global Lipids Genetics/GIANT Consortium HRC and 1KG phase3
 
@@ -29,8 +27,6 @@ A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](..
 An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC-GIANT) directory.
 
 ### Lab 5
-
-13:30pm -- 17:30pm
 
 **TASKS**
 
