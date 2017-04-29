@@ -1,4 +1,6 @@
-## Module 3 -- GWAS Classes from 9:30am to 17:30pm
+### Wednesday 25th -- Classes from 9:30am to 17:30pm
+
+## Module 3 -- GWAS
 
 This module focuses on main analyses for GWAS.
 
