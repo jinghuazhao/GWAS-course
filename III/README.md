@@ -58,9 +58,9 @@ GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools, multtest
 
 ### Exercises
 
-**TASKS**
+1. TASKS
 
-**Suggested reading**
+2. Suggested reading
 
 * Papers/books
 
