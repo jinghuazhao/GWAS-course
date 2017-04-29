@@ -1,12 +1,8 @@
-## Module 4 -- Advanced topics
-
-9:30am -- 17:30pm
+## Module 4 -- Advanced topics Classes from 9:30am to 17:30pm
 
 This module covers several areas of GWAS in more details.
 
 ### Lecture 4
-
-9:30am -- 12:30pm
 
 1. Rare variants
 
@@ -19,8 +15,6 @@ This module covers several areas of GWAS in more details.
 5. Marchine learning
 
 ### Lab 4
-
-12:30pm -- 17:30pm
 
 #### Linux
 
