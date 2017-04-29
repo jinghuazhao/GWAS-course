@@ -64,16 +64,16 @@ The purpose of this module is provide a grand view of genetic dissection of comp
 
   * Papers/books
 
-   Khoury et al. (1993), Lange (2002), Lander & Schork (1994), Thomas (2004), Ziegler et al. (2010).
+      Khoury et al. (1993), Lange (2002), Lander & Schork (1994), Thomas (2004), Ziegler et al. (2010).
 
   * Websites
 
-   Wikipedia articles: [Mendelian inheritance](https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Segregation), [complex segregation analysis](https://en.wikipedia.org/wiki/Complex_segregation_analysis), [genetic linkage](https://en.wikipedia.org/wiki/Genetic_linkage), [genetic association](https://en.wikipedia.org/wiki/Genetic_association).
+      Wikipedia articles: [Mendelian inheritance](https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Segregation), [complex segregation analysis](https://en.wikipedia.org/wiki/Complex_segregation_analysis), [genetic linkage](https://en.wikipedia.org/wiki/Genetic_linkage), [genetic association](https://en.wikipedia.org/wiki/Genetic_association).
 
-   [TLDP](http://www.tldp.org/). The Linux Documentation Project (LDP) is working towards developing free, high quality documentation for the Linux operating system.
+      [TLDP](http://www.tldp.org/). The Linux Documentation Project (LDP) is working towards developing free, high quality documentation for the Linux operating system.
 
-   [R](http://www.r-project.org). The official R website.
+      [R](http://www.r-project.org). The official R website.
 
-   [RStudio](https://www.rstudio.com/). The RStudio website.
+      [RStudio](https://www.rstudio.com/). The RStudio website.
 
-   [Bioconductor](https://www.bioconductor.org/). The BioConductor project.
+      [Bioconductor](https://www.bioconductor.org/). The BioConductor project.
