@@ -44,6 +44,6 @@ This module covers several areas of GWAS in more details.
 
 * Suggested reading
 
-  * Papers/books
+   **Papers/books**
 
    Sorensen & Gianola (2002), Gondro et al. (2013), R/gap vignette.
