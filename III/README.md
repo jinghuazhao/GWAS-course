@@ -64,10 +64,10 @@ GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools, multtest
 
 **Suggested reading**
 
-**Papers/books**
+* Papers/books
 
 Manolio (2008), WTCCC (2007), Stram (2014).
 
-**Websites**
+* Websites
 
 [Genome-wide association study](https://en.wikipedia.org/wiki/Genome-wide_association_study) is a wikipedia entry.
