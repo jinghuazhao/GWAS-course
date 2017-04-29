@@ -1,4 +1,6 @@
-## Module 1 -- Overview Classes from 9:30am to 17:30pm
+### Monday 23rd -- Classes from 9:30am to 17:30pm
+
+## Module 1 -- Overview
 
 The purpose of this module is provide a grand view of genetic dissection of complex traits as well as the technological development which lead to GWAS. It will also set stage for later parts of the workshop.
 
