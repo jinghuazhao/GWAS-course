@@ -8,8 +8,6 @@ This module focuses on main analyses for GWAS.
 
 gene chips, HapMap, 1000 genomes project
 
-#### Practical aspects of GWAS
-
 QC-HWE, call rates, MAF
 
 Genotype imputation, imputation quality
