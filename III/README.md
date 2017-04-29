@@ -22,7 +22,7 @@ Prediction
 
 ### Lab 3
 
-1. Linux
+* Linux
 
    File formats: .gz, .tar.gz, .bz2
 
@@ -48,7 +48,7 @@ Prediction
 
    Specific software:  qctool, bcftools, vcftools, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
 
-2. R and Bioconductor packages
+* R and Bioconductor packages
 
    Rscript
 
@@ -56,14 +56,14 @@ Prediction
 
 ### Exercises
 
-1. TASKS
+* TASKS
 
-2. Suggested reading
+* Suggested reading
 
-* Papers/books
+  * Papers/books
 
    Manolio (2008), WTCCC (2007), Stram (2014).
 
-* Websites
+  * Websites
 
    [Genome-wide association study](https://en.wikipedia.org/wiki/Genome-wide_association_study) is a wikipedia entry.
