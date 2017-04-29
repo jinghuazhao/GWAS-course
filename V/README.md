@@ -1,6 +1,6 @@
-## Module 5 -- Additional topics
+### Friday 27th -- Classes from 9:30am to 17:30pm
 
-Classes from 9:30am to 17:30pm
+## Module 5 -- Additional topics
 
 The module will look further into several other areas of research in GWAS, to be followed by some case studies.
 
