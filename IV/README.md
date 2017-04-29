@@ -1,4 +1,6 @@
-## Module 4 -- Advanced topics Classes from 9:30am to 17:30pm
+### Thursday 26th -- Classes from 9:30am to 17:30pm
+
+## Module 4 -- Advanced topics
 
 This module covers several areas of GWAS in more details.
 
