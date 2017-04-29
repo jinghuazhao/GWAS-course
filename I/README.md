@@ -1,10 +1,10 @@
-## Module I. Overview
+## Module 1 -- Overview
 
 9:30am -- 17:30pm
 
 The purpose of this module is provide a grand view of genetic dissection of complex traits as well as the technological development which lead to GWAS. It will also set stage for later parts of the workshop.
 
-### Lecture
+### Lecture 1
 
 9:30am -- 12:30pm
 
@@ -26,7 +26,7 @@ A rich variety of open-source software is available for system administration, d
 
 A combination of data management, statistical analysis, graphics, programming in a unified environment, it enjoys ever-growing user-base and facilities.
 
-### Computer session
+### Lab 1
 
 13:30pm -- 17:30pm
 
