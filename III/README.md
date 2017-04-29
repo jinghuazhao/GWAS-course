@@ -24,7 +24,7 @@ Prediction
 
 ### Lab 3
 
-#### Linux
+1. Linux
 
 File formats: .gz, .tar.gz, .bz2
 
@@ -52,7 +52,7 @@ Specific software
 
 qctool, bcftools, vcftools, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
 
-#### R and Bioconductor packages
+2. R and Bioconductor packages
 
 Rscript
 
