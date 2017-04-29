@@ -22,11 +22,11 @@ Consortium collaboration: Gene-Lifestyle Interactions (CHARGE), Educational Atta
 
 **Case studies**
 
-* A SpiroMeta call for HRC imputation data contribution is shown in [SpiroMeta](../SpiroMeta) directory.
+* [A SpiroMeta call](../SpiroMeta) for HRC imputation data contribution.
 
-* An example for rare variant analysis are available from the [GLGC-GIANT](../GLGC-GIANT) directory.
+* A [GLGC/GIANT call](../GLGC-GIANT) for rare variant analysis.
 
-* CHARGE gene-lifestyle interaction
+* A CHARGE call for gene-lifestyle interaction analysis.
 
 ### Lab 5
 
