@@ -22,13 +22,13 @@ Population stratification and genomic controls
 
 ### Lab 2
 
-1. Linux
+* Linux
 
    HaploView
 
    Gene annotation using UCSC: genes, strand, builds and liftover, regions
 
-2. R
+* R
 
    Modern data manipulation with dplyr, tidyr, tidyverse
 
@@ -42,16 +42,16 @@ Population stratification and genomic controls
  
 ### Exercises
 
-1. TASKS
+* TASKS
 
    basic association testing, haplotype analysis and pedigree operations.
 
-2. Suggested reading
+* Suggested reading
 
-* Papers/books
+  * Papers/books
 
    Sasieni (1994), Risch & Merikangas (1996) and Balding (2006).
 
-* Websites
+  * Websites
 
    Wikipedia: [Linkage disequilibrium](https://en.wikipedia.org/wiki/Linkage_disequilibrium).
