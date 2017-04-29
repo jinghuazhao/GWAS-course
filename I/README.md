@@ -8,7 +8,7 @@ The purpose of this module is provide a grand view of genetic dissection of comp
 
 1. Introduction
 
-   Self-introductino
+   Self-introduction
 
    Workshop outlines
 
