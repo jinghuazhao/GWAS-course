@@ -62,11 +62,11 @@ Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 **Suggested reading**
 
-**Papers/books**
+* Papers/books
 
 Khoury et al. (1993), Lange (2002), Lander & Schork (1994), Thomas (2004), Ziegler et al. (2010).
 
-**Websites**
+* Websites
 
 Wikipedia articles: [Mendelian inheritance](https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Segregation), [complex segregation analysis](https://en.wikipedia.org/wiki/Complex_segregation_analysis), [genetic linkage](https://en.wikipedia.org/wiki/Genetic_linkage), [genetic association](https://en.wikipedia.org/wiki/Genetic_association).
 
