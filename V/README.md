@@ -6,19 +6,19 @@ The module will look further into several other areas of research in GWAS, to be
 
 ### Lecture 5
 
-1. Conditional/joint analysis
+* Conditional/joint analysis
 
-2. Mendelian randomization
+* Mendelian randomization
 
-3. Microarray, methylation, TWAS
+* Microarray, methylation, TWAS
 
-4. Case studies
+* Case studies
 
-* [A SpiroMeta call](../SpiroMeta) for HRC imputation data contribution.
+  * [A SpiroMeta call](../SpiroMeta) for HRC imputation data contribution.
 
-* [A GLGC/GIANT call](../GLGC-GIANT) for rare variant analysis.
+  * [A GLGC/GIANT call](../GLGC-GIANT) for rare variant analysis.
 
-* A CHARGE call for gene-lifestyle interaction analysis.
+  * A CHARGE call for gene-lifestyle interaction analysis.
 
    [CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
@@ -28,15 +28,15 @@ The module will look further into several other areas of research in GWAS, to be
 
 ### Exercises
 
-1. TASKS
+* TASKS
 
-2. Suggested reading
+* Suggested reading
 
-* Papers/books
+  * Papers/books
 
    Datta & Nettleton (2014), Mandoiu & Zelikovsky (2016), Wang (2016), Mancuso et al. (2017).
 
-* Websites
+  * Websites
 
    [HESS](https://github.com/huwenboshi/hess), Heritability Estimation from Summary Statistics.
 
