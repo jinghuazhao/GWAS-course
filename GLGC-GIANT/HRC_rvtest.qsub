@@ -1,10 +1,10 @@
 #!/bin/bash
 #$ -S /bin/bash
-#$ -o /scratch/tempjhz22/23-1-17/HRC_rvtest.o
-#$ -e /scratch/tempjhz22/23-1-17/HRC_rvtest.e
-#$ -N HRC_rvtest
+#$ -o /scratch/tempjhz22/23-1-17/HRC_rvtest.out
+#$ -e /scratch/tempjhz22/23-1-17/HRC_rvtest.err
+#$ -N rvtest_HRC
 #$ -q all.q
-#$ -t 1-38
+#$ -t 1-32
 #$ -l h_vmem=20G
 #$ -l mem_free=20G
 
