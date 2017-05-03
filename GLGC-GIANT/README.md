@@ -24,6 +24,8 @@ HRC_rvtest.subs | rare variant analysis
 
 The example use of the `DS.sh` files above is as follows: File `st.subs` is called by `HRC_st.sh` and also used for 1KG data (not shown here) both according to `qctool` v1.5; its variaion `HRC_st.v4.2` is appropriate for `qctool` v2 which generates VCF 4.2 format file.
 
+It turned out the `--meta score, cov` option is very computer-intensive, so should only be used for the trait with maximum sample size, or HEIGHT in this case.
+
 A few remarks are worthwhile.
 
 First, our study already has the HRC imputed data before the call for contribution but in bgen formats. A consequence of this work was that the VCF files as generated from `qctool` does not contain the dosage field (DS) as required by `rvtests --dosage DS`. We therefore hard-edited the VCF files by an `awk` script after the developers did not provide an answer for us. Besides, within `HRC_kin.sh` the command `bcftools view` has flag `-O v` rather than `-O u` which cannot generate appropriate input the `vcf2kinship`.

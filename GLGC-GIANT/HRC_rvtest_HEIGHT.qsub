@@ -1,0 +1,12 @@
+#!/bin/bash
+#$ -S /bin/bash
+#$ -o /scratch/tempjhz22/23-1-17/HRC_rvtest_HEIGHT.out
+#$ -e /scratch/tempjhz22/23-1-17/HRC_rvtest_HEIGHT.err
+#$ -N rvtest_HRC_HEIGHT
+#$ -q all.q
+#$ -t 1-22
+#$ -l h_vmem=20G
+#$ -l mem_free=20G
+
+/genetics/data/gwas/23-1-17/HRC_rvtest_HEIGHT.subs $SGE_TASK_ID 
+
