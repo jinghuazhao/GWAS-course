@@ -14,6 +14,6 @@ where -r indicates reference: and -h indicates HRC:
 
 `st.sh` shows how to install GD::Graph module.
 
-Summary statistics are additionally generated via `qctool` -snp-stats.
+Summary statistics are additionally generated via `qctool` -snp-stats as in [snpstats.sh](snpstats.sh).
 
 The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do is shown in [bolt.sh](bolt.sh), where `impute.list` and `impute.id` contain list of chromosome-specific imputed genotypes and list of individuals, respectively.
