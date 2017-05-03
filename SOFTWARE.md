@@ -4,6 +4,7 @@ Software | URL
 ---------|-------------------------------------------------------
 BEAGLE | https://faculty.washington.edu/browning/beagle/b3.html
 BOLT-LMM | https://data.broadinstitute.org/alkesgroup/BOLT-LMM/
+DEPICT | [Broad](https://data.broadinstitute.org/mpg/depict/), ([GitHub](https://github.com/perslab/depict))
 EIGENSOFT| https://data.broadinstitute.org/alkesgroup/EIGENSOFT/
 GARFIELD | http://www.ebi.ac.uk/birney-srv/GARFIELD/
 GCTA | http://cnsgenomics.com/software/gcta/
