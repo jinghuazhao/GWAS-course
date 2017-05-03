@@ -1,12 +1,15 @@
 #!/bin/bash
-#$ -S /bin/bash
-#$ -o /scratch/tempjhz22/23-1-17/HRC_rvtest_HEIGHT.out
-#$ -e /scratch/tempjhz22/23-1-17/HRC_rvtest_HEIGHT.err
-#$ -N rvtest_HRC_HEIGHT
-#$ -q all.q
-#$ -t 1-22
-#$ -l h_vmem=20G
-#$ -l mem_free=20G
+# 2-5-2017 MRC-Epid JHZ
 
-/genetics/data/gwas/23-1-17/HRC_rvtest_HEIGHT.subs $SGE_TASK_ID 
-
+awk -vv=$1 -vs=3 '(NR>=(v-1)*s+1 && NR<=v*s)' /genetics/data/gwas/23-1-17/HRC_HEIGHT.lst | awk '{
+cmd=sprintf("/genetics/data/gwas/23-1-17/bin/rvtest \
+--inVcf /scratch/tempjhz22/23-1-17/HRC/%d.vcf.gz \
+--pheno /genetics/data/gwas/23-1-17/%s.dat \
+--pheno-name %s \
+--dosage DS \
+--meta score,cov[windowSize=500000] \
+--kinship /scratch/tempjhz22/23-1-17/EPIC-Norfolk.rel \
+--out /scratch/tempjhz22/23-1-17/EPIC_EUR_HRC_imputation_%s_%s_chr%d",$2,$3,$1,$3,$1,$2)
+print $1, $2, cmd
+system(cmd)
+}'
