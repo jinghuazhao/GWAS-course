@@ -20,4 +20,8 @@
 
 [GTEx portal](https://gtexportal.org/home/).
 
+## Animal models
 
+[IMPC](http://www.mousephenotype.org) is the International Mouse Phenotyping Consortium database.
+
+[MGI](http://www.informatics.jax.org) is the Mouse Genome Informatics database.
