@@ -20,6 +20,10 @@
 
 [GTEx portal](https://gtexportal.org/home/).
 
+[Gene ontology](http://www.geneontology.org/) provides controlled vocabularies of defined terms representing gene product properties. These cover three domains: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms..
+
+[OMIM](http://www.omim.org/) is an online catalog of human genes and genetic disorders.
+
 ## Animal models
 
 [IMPC](http://www.mousephenotype.org) is the International Mouse Phenotyping Consortium database.
