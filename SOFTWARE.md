@@ -11,6 +11,8 @@ GCTA | http://cnsgenomics.com/software/gcta/
 GenABEL | http://www.genabel.org/
 GRAIL | http://software.broadinstitute.org/mpg/grail/
 IMPUTE2 | http://mathgen.stats.ox.ac.uk/impute/impute_v2.html
+LDhub | http://ldsc.broadinstitute.org/ldhub/
+LDSC | https://github.com/bulik/ldsc
 LocusZoom | http://locuszoom.sph.umich.edu/
 MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
 PLINK2 | https://www.cog-genomics.org/plink2
