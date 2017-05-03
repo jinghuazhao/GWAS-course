@@ -18,7 +18,7 @@ The module will look further into several other areas of research in GWAS, to be
 
   * [A GLGC/GIANT call](../GLGC-GIANT) for rare variant analysis.
 
-  * A CHARGE call for gene-lifestyle interaction analysis.
+  * [A CHARGE call](../CHARGE) for gene-lifestyle interaction analysis.
 
    [CHARGE consortium](http://www.chargeconsortium.com/). `The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium was formed to facilitate genome-wide association study meta-analyses and replication opportunities among multiple large and well-phenotyped longitudinal cohort studies.`
 
