@@ -25,6 +25,7 @@ SEQPower | http://www.bioinformatics.org/spower/start
 SNPTEST | https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html
 UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
 VAT | http://varianttools.sourceforge.net/Association/HomePage
+VEGAS2 | [online version](https://vegas2.qimrberghofer.edu.au), [command-line version](https://vegas2.qimrberghofer.edu.au/zVEGAS2offline.tgz)
 VIZ-GRAIL | http://software.broadinstitute.org/mpg/grail/vizgrail.html
 
 This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016). The old [Columbia/Rockefeller list](https://github.com/gaow/genetic-analysis-software) may still contain useful links.
