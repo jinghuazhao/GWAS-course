@@ -1,6 +1,6 @@
-# 28-4-2017 MRC-Epid JHZ
+# 4-5-2017 MRC-Epid JHZ
 
-parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/bolt \
+parallel "/usr/local/bin/sge \"/genetics/data/software/bin/bolt \
     --fam=/genetics/data/gwas/27-2-17/Axiom_UKB_EPICN_release_04Dec2014.fam \
     --bim=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bim \
     --bed=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.bed \
@@ -9,6 +9,7 @@ parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/b
     --lmm \
     --impute2FileList=/genetics/data/gwas/27-2-17/impute.list \
     --impute2FidIidFile=/genetics/data/gwas/27-2-17/impute.id \
+    --remove /genetics/data/gwas/27-2-17/exclude.dat \
     --statsFileImpute2Snps=/scratch/tempjhz22/27-2-17/EPIC{1}_{2}.stats \
     --LDscoresUseChip \
     --noMapCheck \
@@ -20,4 +21,4 @@ parallel --dry-run "/bin/echo /usr/local/bin/sge \"/genetics/data/software/bin/b
 # EPIC_omics=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014
 # awk '{$1=NR;gsub(/ /,"\t",$0);print}' $EPIC_omics.fam > $(basename $EPIC_omics).fam
 # touch impute.list
-# for i in $(seq 22);do echo -e $i\\t/scratch/tempjhz22/23-1-17/HRC/EPIC-Norfolk.chr$i.vcf.gz >> impute.list;done
+# for i in $(seq 22);do echo -e $i\\t/gen_omics/data/EPIC-Norfolk/HRC/chr$i.gen.gz >> impute.list;done
