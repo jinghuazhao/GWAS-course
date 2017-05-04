@@ -1,6 +1,6 @@
 ## Summary statistics
 
-[NHGRI-EBI list of studies with summary statistics](https://www.ebi.ac.uk/gwas/downloads/summary-statistics).
+[NHGRI-EBI list](https://www.ebi.ac.uk/gwas/downloads/summary-statistics) of studies with summary statistics] is a companion to the [GWAS catalog](http://www.ebi.ac.uk/gwas/).
 
 ## Individual level data
 
