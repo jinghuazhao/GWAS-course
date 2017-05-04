@@ -31,7 +31,7 @@ VIZ-GRAIL | http://software.broadinstitute.org/mpg/grail/vizgrail.html
 
 This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016). The old [Columbia/Rockefeller list](https://github.com/gaow/genetic-analysis-software) may still contain useful links.
 
-## Generic software systems
+## Generic software
 
 [JAGS](https://sourceforge.net/projects/mcmc-jags/) `is Just Another Gibbs Sampler. It is a program for the statistical analysis of Bayesian hierarchical models by Markov Chain Monte Carlo.`
 
