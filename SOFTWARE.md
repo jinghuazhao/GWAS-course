@@ -26,6 +26,7 @@ SNPTEST | https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html
 UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
 VAT | http://varianttools.sourceforge.net/Association/HomePage
 VEGAS2 | [online version](https://vegas2.qimrberghofer.edu.au), [command-line version](https://vegas2.qimrberghofer.edu.au/zVEGAS2offline.tgz)
+VEP | http://www.ensembl.org/info/docs/tools/vep/index.html
 VIZ-GRAIL | http://software.broadinstitute.org/mpg/grail/vizgrail.html
 
 This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016). The old [Columbia/Rockefeller list](https://github.com/gaow/genetic-analysis-software) may still contain useful links.
@@ -41,4 +42,3 @@ This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index
 [Stan](http://mc-stan.org/) `(Thousands of users rely on Stan) for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.`
 
 [Stata](http://www.stata.com) `is a complete, integrated statistical software package that provides everything you need for data analysis, data management, and graphics.`
-
