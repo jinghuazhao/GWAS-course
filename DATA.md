@@ -18,7 +18,7 @@
 
 [ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
 
-[GTEx portal](https://gtexportal.org/home/) provides a platform to study human gene expression and regulation and its relationship to genetic variation.
+[GTEx](https://gtexportal.org/home/) provides a platform to study human gene expression and regulation and its relationship to genetic variation.
 
 [Gene ontology](http://www.geneontology.org/) provides controlled vocabularies of defined terms representing gene product properties. These cover three domains: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms..
 
