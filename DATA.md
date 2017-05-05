@@ -30,7 +30,7 @@
 
 ## Comparative genomics and animal models
 
-[UCSC][https://genome.ucsc.edu/] includes a broad collection of vertebrate and model organism assemblies and annotations, along with a large suite of tools for viewing, analyzing and downloading data. 
+[UCSC](https://genome.ucsc.edu/) includes a broad collection of vertebrate and model organism assemblies and annotations, along with a large suite of tools for viewing, analyzing and downloading data. 
 
 [Emsembl](http://www.ensembl.org/index.html) Ensembl is a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation. Ensembl annotate genes, computes multiple alignments, predicts regulatory function and collects disease data. Ensembl tools include BLAST, BLAT, BioMart and the Variant Effect Predictor (VEP) for all supported species.
 
