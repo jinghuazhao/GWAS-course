@@ -28,33 +28,7 @@ The purpose of this module is provide a grand view of genetic dissection of comp
 
 * Linux
 
-   Types of systems: Ubunto, Fedora, VirtualBox 
-
-   shell, .bashrc, export, env, PATH, LD_LIBRARY_PATH, source
-
-   Basic operations, ls –a/-F/-l/-t/-rt, cp -d -p -r, mkdir -p/cd/pwd/echo
-
-   bc, cat, cp, grep, history, more, rm, mv, diff, sdiff, chmod, wc
-
-   Editing with pico/nano
-
-   alias
-
-   Pipe and redirection
-
-   ps, kill
-
-   *, ?
-
-   C/C++/Fortran/Python
-
 * R
-
-   Setup – apt-get/dnf, installing and loading packages, devtools
-
-   Basic operations
-
-   Modes of execution: interactive/noninteractive/script, batch, RStudio
 
 ### Exercises
 
