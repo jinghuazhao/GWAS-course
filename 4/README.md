@@ -20,21 +20,7 @@ This module covers several areas of GWAS in more details.
 
 * Linux
 
-   BOLT/GEMMA/GCTA/JAGS/Stan
-
-   .grm.bin formats
-
-   Software instalation: make/cmake/ccmake, Makefile
-
-   LaTeX
-
-   git, github, RStudio, markdown, knitr
-
-   Embedding C/C++ into R, Stata and SAS
- 
 * R
-
-   lme4, MCMCglmm, SKAT
 
 ### Exercises
 
