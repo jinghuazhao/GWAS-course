@@ -24,22 +24,8 @@ Population stratification and genomic controls
 
 * Linux
 
-   HaploView
-
-   Gene annotation using UCSC: genes, strand, builds and liftover, regions
-
 * R
 
-   Modern data manipulation with dplyr, tidyr, tidyverse
-
-   Grammar of graphics with ggplot2
-
-   glm
-
-   metafor
-
-   NCBI2R, genetics, gap, HardyWeinberg, haplo.stats, kinship2, pedigreemm
- 
 ### Exercises
 
 * TASKS
