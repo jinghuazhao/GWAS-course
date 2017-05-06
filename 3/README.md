@@ -24,35 +24,7 @@ Prediction
 
 * Linux
 
-   File formats: .gz, .tar.gz, .bz2
-
-   Data formats: .bim/.bed/.fam, .bgen, .vcf, .sumstats
-
-   tar, gzip -d -c, zcat
-
-   awk/sed
-
-   head/tail/find
-
-   cut/paste
-
-   sort
-
-   join
-
-   Bash programming, looping and seq, branching, function, Mixing programming, e.g., <<<
-
-   Multithread and parallel computing: parallel, sge
-
-   sftp/ssh, wget
-
-   Specific software:  qctool, bcftools, vcftools, PLINK2, IMPUTE/MACH, SNPTEST, QUICKTEST, METAL
-
 * R and Bioconductor packages
-
-   Rscript
-
-   GenAssoc, snpMatrix, snpStats, GenABEL, GWAStools, QCtools, multtest
 
 ### Exercises
 
