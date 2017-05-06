@@ -20,7 +20,7 @@ PLINKSEQ | https://atgu.mgh.harvard.edu/plinkseq/
 QCTOOL | http://www.well.ox.ac.uk/~gav/qctool/#overview
 QUICKTEST | https://wp.unil.ch/sgg/quicktest/
 RV-TDT | http://bioinformatics.org/rv-tdt/
-rvtests | http://genome.sph.umich.edu/wiki/Rvtests
+rvtests | http://genome.sph.umich.edu/wiki/Rvtests ([GitHub](https://github.com/zhanxw/rvtests))
 SEQPower | http://www.bioinformatics.org/spower/start
 SNPTEST | https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest.html
 UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
