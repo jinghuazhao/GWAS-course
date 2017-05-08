@@ -10,11 +10,11 @@ parallel "/usr/local/bin/sge \"/genetics/data/software/bin/bolt \
     --impute2FileList=/genetics/data/gwas/27-2-17/impute.list \
     --impute2FidIidFile=/genetics/data/gwas/27-2-17/impute.id \
     --remove /genetics/data/gwas/27-2-17/exclude.dat \
-    --statsFileImpute2Snps=/scratch/tempjhz22/27-2-17/results/IMPUTE{1}_{2}.stats \
+    --statsFileImpute2Snps=/scratch/tempjhz22/27-2-17/results/IMPUTE_{1}_{2}.stats \
     --LDscoresUseChip \
     --noMapCheck \
     --numLeaveOutChunks 2 \
-    --statsFile=/scratch/tempjhz22/27-2-17/results/PLINK{1}_{2}.stats \
+    --statsFile=/scratch/tempjhz22/27-2-17/results/CHIP_{1}_{2}.stats \
     --numThreads=12 \
     2>&1 | tee /scratch/tempjhz22/27-2-17/results/{1}_{2}.log\"" ::: fev fvc ff pef ::: nonsmk smk smkPY females males
 

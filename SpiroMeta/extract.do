@@ -1,7 +1,7 @@
 // 8-5-2017 MRC-Epid JHZ
 
 program extract
-insheet using /scratch/tempjhz22/27-2-17/EPIC`1'_`2'.stats, case clear
+insheet using /scratch/tempjhz22/27-2-17/results/IMPUTE_`1'_`2'.stats, case clear
 rename CHR chr
 rename BP pos
 sort chr pos
