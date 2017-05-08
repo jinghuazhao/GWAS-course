@@ -18,4 +18,4 @@ Summary statistics are additionally generated via `qctool` -snp-stats as in [snp
 
 The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do is shown in [bolt.sh](bolt.sh), where `impute.list` and `impute.id` contain list of chromosome-specific imputed genotypes and list of individuals, respectively. In total, there are 20 analyses.
 
-The data preparation is done via [dta.do](dta.do) and format is done via [extract.do](extract.do).
+The data preparation is done via [dta.do](dta.do) and format is done via [extract.do](extract.do). Note that the results for directly genotyped and imputed SNPs are contained in files with prefex CHIP and IMPUTE, respectively.
