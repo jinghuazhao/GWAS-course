@@ -17,11 +17,11 @@ rename A1FREQ Freq
 rename BETA Beta
 rename SE Se
 outsheet using Markername RSnum Chrom Pos Bas_all Cod_all Freq Beta Se Ntotal Imp_info /*
-*/ using EPIC_`1'_`2'_CHR{1-2}_JHZ_08052017.txt
+*/ using EPIC_`1'_`2'_CHRALL_JHZ_08052017.txt
 end
 
-foreach v in fev /*fvc fevfvc*/ {
-  foreach s in ever_smoker /*never_smoker men women*/ {
+foreach v in fev /*fvc ff*/ {
+  foreach s in smk /*nonsmk smkPY females males*/ {
     extract `v' `s'
   }
 }
