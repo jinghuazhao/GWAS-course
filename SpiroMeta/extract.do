@@ -20,7 +20,7 @@ outsheet using Markername RSnum Chrom Pos Bas_all Cod_all Freq Beta Se Ntotal Im
 */ using EPIC_`1'_`2'_CHRALL_JHZ_08052017.txt
 end
 
-foreach v in fev /*fvc ff*/ {
+foreach v in fev /*fvc pef ff*/ {
   foreach s in smk /*nonsmk smkPY females males*/ {
     extract `v' `s'
   }
