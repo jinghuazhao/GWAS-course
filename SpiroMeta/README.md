@@ -16,4 +16,6 @@ where -r indicates reference: and -h indicates HRC:
 
 Summary statistics are additionally generated via `qctool` -snp-stats as in [snpstats.sh](snpstats.sh).
 
-The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do is shown in [bolt.sh](bolt.sh), where `impute.list` and `impute.id` contain list of chromosome-specific imputed genotypes and list of individuals, respectively. In total, there are twelve analyses.
+The analysis plan requires subgroup analysis on never and ever smokers, and by sex. A succinct way to do is shown in [bolt.sh](bolt.sh), where `impute.list` and `impute.id` contain list of chromosome-specific imputed genotypes and list of individuals, respectively. In total, there are fifteen analyses.
+
+The data preparation is done via `dta.do` and format is done via `extract.do`.
