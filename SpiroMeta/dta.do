@@ -50,17 +50,17 @@ invnorm pef "age agesq height PC1-PC4" sex
 invnorm ff "age agesq height PC1-PC4" sex
 program invnormPY
   gen `1'_smkPY=.
-  regress `1' `2' packyear2010 if smk==2 & fev+fvc+packyear2010!=.
+  regress `1' sex age agesq height PC1-PC4 packyear2010 if smk==2 & fev+fvc+packyear2010!=.
   local N1=e(N)+1
   predict tt, resid
   pctile p`1'=tt, nq(`N1') genp(p_`1')
   replace `1'_smkPY=invnormal(p_`1'/100)
   drop tt p`1' p_`1'
 end
-invnormPY fev "sex age agesq height PC1-PC4"
-invnormPY fvc "sex age agesq height PC1-PC4"
-invnormPY pef "sex age agesq height PC1-PC4"
-invnormPY ff "sex age agesq height PC1-PC4"
+invnormPY fev
+invnormPY fvc
+invnormPY pef
+invnormPY ff
 rename id IID
 save tmp, replace
 use dta
