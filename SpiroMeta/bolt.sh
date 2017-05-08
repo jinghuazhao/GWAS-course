@@ -16,7 +16,7 @@ parallel "/usr/local/bin/sge \"/genetics/data/software/bin/bolt \
     --numLeaveOutChunks 2 \
     --statsFile=/scratch/tempjhz22/27-2-17/results/{1}_{2}.stats \
     --numThreads=12 \
-    2>&1 | tee /scratch/tempjhz22/27-2-17/results/{1}_{2}.log\"" ::: fev fvc ff ::: nonsmk smk smkPY females males
+    2>&1 | tee /scratch/tempjhz22/27-2-17/results/{1}_{2}.log\"" ::: fev fvc ff pef ::: nonsmk smk smkPY females males
 
 # EPIC_omics=/genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014
 # awk '{$1=NR;gsub(/ /,"\t",$0);print}' $EPIC_omics.fam > $(basename $EPIC_omics).fam
