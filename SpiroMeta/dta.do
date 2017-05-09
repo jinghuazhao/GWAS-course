@@ -20,8 +20,11 @@ merge 1:1 id using doc/MDS-PCA/EPICNorfolk, nogen
 forval i=1/10 {
   replace PC`i'=1000*PC`i'
 }
-keep FID id sex age agesq height fev fvc pef ff cigstat smk asthma inc_resp_copd packyear2010 PC1-PC10 ethnic
+gen IID=id
+keep FID IID id sex age agesq height fev fvc pef ff cigstat smk asthma inc_resp_copd packyear2010 PC1-PC10 ethnic
 sort FID
+// for BOLT-LMM
+outsheet FID IID using impute.id, noname noquote replace
 saveold dta, replace
 drop if ethnic!=1
 program invnorm
@@ -45,9 +48,17 @@ invnorm fev "age agesq height PC1-PC4" sex
 invnorm fvc "age agesq height PC1-PC4" sex
 invnorm pef "age agesq height PC1-PC4" sex
 invnorm ff "age agesq height PC1-PC4" sex
+preserve
+mvencode _all, mv(-9)
+foreach f in fev fvc pef ff {
+  foreach s in females males {
+    gen `f'_`s'=`f'_sex
+  }
+}
 outsheet FID IID fev_females fvc_females pef_females ff_females using females.dat if sex==2, noquote replace
 outsheet FID IID fev_males fvc_males pef_males ff_males using males.dat if sex==1, noquote replace
-// now it is OK to work on smoking
+restore
+// now work on smoking
 invnorm fev "sex age agesq height PC1-PC4" smk
 invnorm fvc "sex age agesq height PC1-PC4" smk
 invnorm pef "sex age agesq height PC1-PC4" smk
@@ -65,23 +76,13 @@ invnormPY fev
 invnormPY fvc
 invnormPY pef
 invnormPY ff
-rename id IID
 save tmp, replace
-use dta
-keep FID id
-rename id IID
-merge 1:1 IID using tmp
-sort FID
 mvencode _all, mv(-9)
 foreach f in fev fvc pef ff {
   foreach s in nonsmk {
     gen `f'_`s'=`f'_smk
   }
-  foreach s in females males {
-    gen `f'_`s'=`f'_sex
-  }
 }
-outsheet FID IID using impute.id, noname noquote replace
 outsheet FID IID fev_nonsmk fvc_nonsmk pef_nonsmk ff_nonsmk using nonsmk.dat if smk==1, noquote replace
 outsheet FID IID fev_smk fvc_smk pef_smk ff_smk using smk.dat if smk==2, noquote replace
 outsheet FID IID fev_smkPY fvc_smkPY pef_smkPY ff_smkPY using smkPY.dat if smk==2 & fev+fvc+packyear2010!=., noquote replace
