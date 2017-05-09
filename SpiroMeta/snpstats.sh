@@ -1,4 +1,4 @@
-# 8-5-2017 MRC-Epid JHZ
+# 9-5-2017 MRC-Epid JHZ
 
 rt=/gen_omics/data/EPIC-Norfolk/HRC/raw/EPIC-Norfolk
 rt2=/scratch/tempjhz22/23-1-17
@@ -26,5 +26,6 @@ insheet using /scratch/tempjhz22/23-1-17/HRC/SpiroMeta/EPIC-Norfolk.info, case c
 rename chromosome chr
 rename position pos
 rename information Imp_info
+sort chr pos
 saveold /scratch/tempjhz22/23-1-17/HRC/SpiroMeta/EPIC-Norfolk, replace 
 END

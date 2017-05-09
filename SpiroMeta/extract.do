@@ -1,12 +1,13 @@
-// 8-5-2017 MRC-Epid JHZ
+// 9-5-2017 MRC-Epid JHZ
 
 program extract
 insheet using /scratch/tempjhz22/27-2-17/results/IMPUTE_`1'_`2'.stats, case clear
 rename CHR chr
 rename BP pos
 sort chr pos
-merge chr pos using /scratch/tempjhz22/27-2-17/SpiroMeta/EPIC-Norfolk, gen(allSNPs)
-keep if allSNPs==3
+merge chr pos using /scratch/tempjhz22/27-2-17/SpiroMeta/EPIC-Norfolk
+keep if _merge==3
+drop _merge
 gzmerge chr pos using  /gen_omics/data/EPIC-Norfolk/HRC/SNPinfo.dta.gz
 rename SNP Markername
 rename chr Chrom
