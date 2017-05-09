@@ -5,7 +5,7 @@ rt=/gen_omics/data/EPIC-Norfolk/HRC
 rt2=/scratch/tempjhz22/23-1-17
 qctool=/genetics/data/software/bin/qctool
 cd /scratch/tempjhz22/23-1-17/HRC/SpiroMeta
-awk -vFS="\t" -vOFS="\t" '{print 0,$2}' exclude.dat > $rt2/HRC/SpiroMeta/EPIC-Norfolk.excl
+awk -vFS="\t" -vOFS="\t" '{print 0,$2}' /genetics/data/gwas/27-2-17/exclude.dat > $rt2/HRC/SpiroMeta/EPIC-Norfolk.excl
 for chr in $(seq 22); do sge "$qctool \
  -g $rt/chr${chr}.gen.gz \
  -s $rt/EPIC-Norfolk.sample \
