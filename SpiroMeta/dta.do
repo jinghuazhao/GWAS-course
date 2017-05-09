@@ -25,6 +25,7 @@ keep FID IID id sex age agesq height fev fvc pef ff cigstat smk asthma inc_resp_
 sort FID
 // for BOLT-LMM
 outsheet FID IID using impute.id, noname noquote replace
+outsheet FID IID using exclude.dat if ethnic!=1, noname noquote replace
 saveold dta, replace
 drop if ethnic!=1
 program invnorm
