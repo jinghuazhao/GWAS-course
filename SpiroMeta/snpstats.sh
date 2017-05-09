@@ -1,14 +1,15 @@
 # 9-5-2017 MRC-Epid JHZ
 
-rt=/gen_omics/data/EPIC-Norfolk/HRC/raw/EPIC-Norfolk
+# The old 0+omicsid
+rt=/gen_omics/data/EPIC-Norfolk/HRC
 rt2=/scratch/tempjhz22/23-1-17
-# 20932
 qctool=/genetics/data/software/bin/qctool
 cd /scratch/tempjhz22/23-1-17/HRC/SpiroMeta
-for chr in $(seq 22);do sge "$qctool \
- -g $rt.chr${chr}.bgen \
- -s $rt2/EPIC-Norfolk.sample \
- -incl-samples $rt2/EPIC-Norfolk.inc \
+awk -vFS="\t" -vOFS="\t" '{print 0,$2}' exclude.dat > $rt2/HRC/SpiroMeta/EPIC-Norfolk.excl
+for chr in $(seq 22); do sge "$qctool \
+ -g $rt/chr${chr}.gen.gz \
+ -s $rt/EPIC-Norfolk.sample \
+ -excl-samples $rt2/HRC/SpiroMeta/EPIC-Norfolk.excl \
  -snp-stats $rt2/HRC/SpiroMeta/EPIC-Norfolk.chr${chr}.snpstats.gz \
  -assume-chromosome ${chr} \
  -log $rt2/HRC/SpiroMeta/EPIC-Norfolk.chr${chr}.log"
