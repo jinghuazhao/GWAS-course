@@ -45,6 +45,9 @@ invnorm fev "age agesq height PC1-PC4" sex
 invnorm fvc "age agesq height PC1-PC4" sex
 invnorm pef "age agesq height PC1-PC4" sex
 invnorm ff "age agesq height PC1-PC4" sex
+outsheet FID IID fev_females fvc_females pef_females ff_females using females.dat if sex==2, noquote replace
+outsheet FID IID fev_males fvc_males pef_males ff_males using males.dat if sex==1, noquote replace
+// now it is OK to work on smoking
 invnorm fev "sex age agesq height PC1-PC4" smk
 invnorm fvc "sex age agesq height PC1-PC4" smk
 invnorm pef "sex age agesq height PC1-PC4" smk
@@ -82,5 +85,3 @@ outsheet FID IID using impute.id, noname noquote replace
 outsheet FID IID fev_nonsmk fvc_nonsmk pef_nonsmk ff_nonsmk using nonsmk.dat if smk==1, noquote replace
 outsheet FID IID fev_smk fvc_smk pef_smk ff_smk using smk.dat if smk==2, noquote replace
 outsheet FID IID fev_smkPY fvc_smkPY pef_smkPY ff_smkPY using smkPY.dat if smk==2 & fev+fvc+packyear2010!=., noquote replace
-outsheet FID IID fev_females fvc_females pef_females ff_females using females.dat if sex==2, noquote replace
-outsheet FID IID fev_males fvc_males pef_males ff_males using males.dat if sex==1, noquote replace
