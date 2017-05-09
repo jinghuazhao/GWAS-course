@@ -1,4 +1,4 @@
-// 8-5-2017 MRC-Epid JHZ
+// 9-5-2017 MRC-Epid JHZ
 
 insheet v1-v6 using /genetics/data/omics/EPICNorfolk/Axiom_UKB_EPICN_release_04Dec2014.fam, clear delim(" ")
 keep v2   
@@ -40,14 +40,15 @@ program invnorm
   use tmp1
   append using tmp2
 end
-invnorm fev "sex age agesq height PC1-PC4" smk
-invnorm fvc "sex age agesq height PC1-PC4" smk
-invnorm pef "sex age agesq height PC1-PC4" smk
-invnorm ff "sex age agesq height PC1-PC4" smk
+// do sex first as it doesn't have missing data
 invnorm fev "age agesq height PC1-PC4" sex
 invnorm fvc "age agesq height PC1-PC4" sex
 invnorm pef "age agesq height PC1-PC4" sex
 invnorm ff "age agesq height PC1-PC4" sex
+invnorm fev "sex age agesq height PC1-PC4" smk
+invnorm fvc "sex age agesq height PC1-PC4" smk
+invnorm pef "sex age agesq height PC1-PC4" smk
+invnorm ff "sex age agesq height PC1-PC4" smk
 program invnormPY
   gen `1'_smkPY=.
   regress `1' sex age agesq height PC1-PC4 packyear2010 if smk==2 & fev+fvc+packyear2010!=.
@@ -83,15 +84,3 @@ outsheet FID IID fev_smk fvc_smk pef_smk ff_smk using smk.dat if smk==2, noquote
 outsheet FID IID fev_smkPY fvc_smkPY pef_smkPY ff_smkPY using smkPY.dat if smk==2 & fev+fvc+packyear2010!=., noquote replace
 outsheet FID IID fev_females fvc_females pef_females ff_females using females.dat if sex==2, noquote replace
 outsheet FID IID fev_males fvc_males pef_males ff_males using males.dat if sex==1, noquote replace
-
-program zscore
-  save tmp, replace
-  forval s=1/2 {
-    use tmp if `3'==`s'
-    regress `1' `2'
-    predict `1'_`3', rstandard
-    save tmp`s', replace
-  }
-  use tmp1
-  append using tmp2
-end
