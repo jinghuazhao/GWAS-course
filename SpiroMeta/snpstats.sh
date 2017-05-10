@@ -1,15 +1,16 @@
-# 9-5-2017 MRC-Epid JHZ
+# 10-5-2017 MRC-Epid JHZ
 
-# The old 0+omicsid
 rt=/gen_omics/data/EPIC-Norfolk/HRC
+rt1=/genetics/data/gwas/27-2-17
 rt2=/scratch/tempjhz22/23-1-17
 qctool=/genetics/data/software/bin/qctool
 cd /scratch/tempjhz22/23-1-17/HRC/SpiroMeta
-awk -vFS="\t" -vOFS="\t" '{print 0,$2}' /genetics/data/gwas/27-2-17/exclude.dat > $rt2/HRC/SpiroMeta/EPIC-Norfolk.excl
+# The sample file has 0 + omicsid which should be integer + omicsid
+awk '{if(NR>2) $1=NR-2};1' $rt/EPIC-Norfolk.sample > $rt1/EPIC-Norfolk.sample
 for chr in $(seq 22); do sge "$qctool \
  -g $rt/chr${chr}.gen.gz \
- -s $rt/EPIC-Norfolk.sample \
- -excl-samples $rt2/HRC/SpiroMeta/EPIC-Norfolk.excl \
+ -s $rt1/EPIC-Norfolk.sample \
+ -excl-samples $rt1/exclude.dat \
  -snp-stats $rt2/HRC/SpiroMeta/EPIC-Norfolk.chr${chr}.snpstats.gz \
  -assume-chromosome ${chr} \
  -log $rt2/HRC/SpiroMeta/EPIC-Norfolk.chr${chr}.log"
