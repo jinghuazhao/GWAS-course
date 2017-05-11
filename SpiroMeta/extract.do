@@ -23,6 +23,7 @@ rename ALLELE1 Cod_all
 rename A1FREQ Freq
 rename BETA Beta
 rename SE Se
+replace Ntotal=round(Ntotal)
 outsheet Markername RSnum Chrom Pos Bas_all Cod_all Freq Beta Se Ntotal Imp_info /*
 */ using EPIC_`1'_`2'_CHRALL_JHZ_11052017.txt, noquote replace
 end
