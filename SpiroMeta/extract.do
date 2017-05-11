@@ -24,7 +24,7 @@ rename A1FREQ Freq
 rename BETA Beta
 rename SE Se
 outsheet Markername RSnum Chrom Pos Bas_all Cod_all Freq Beta Se Ntotal Imp_info /*
-*/ using EPIC_`1'_`2'_CHRALL_JHZ_11052017.txt
+*/ using EPIC_`1'_`2'_CHRALL_JHZ_11052017.txt, noquote replace
 end
 foreach v in fev fvc pef ff {
   foreach s in smk nonsmk smkPY females males {
