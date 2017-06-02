@@ -10,6 +10,8 @@
 
 [GAW](https://www.gaworkshop.org/). `The Genetic Analysis Workshops (GAWs) are a collaborative effort among genetic epidemiologists to evaluate and compare statistical genetic methods. For each GAW, topics are chosen that are relevant to current analytical problems in genetic epidemiology, and sets of real or computer-simulated data are distributed to investigators worldwide.  Results of analyses are discussed and compared at meetings held in even-numbered years.`
 
+[ExAC](http://exac.broadinstitute.org/) is the Exome Aggregation Consortium, a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a wide variety of large-scale sequencing projects, and to make summary data available.
+
 [1000 Genomes project](http://www.internationalgenome.org/) contains information on available data, software and publications.
 
 [The Haplotype Reference Consortium](http://www.haplotype-reference-consortium.org/) creates a large reference panel of human haplotypes by combining together sequencing data from multiple cohorts.
@@ -22,13 +24,15 @@
 
 [OMIM](http://www.omim.org/) is an online catalog of human genes and genetic disorders.
 
-## Integration of expression and methylation data
+## Integration of expression, methylation and protein data
 
 [Gene ontology](http://www.geneontology.org/) provides controlled vocabularies of defined terms representing gene product properties. These cover three domains: Cellular Component, the parts of a cell or its extracellular environment; Molecular Function, the elemental activities of a gene product at the molecular level, such as binding or catalysis; and Biological Process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms.
 
 [GTEx](https://gtexportal.org/home/) provides a platform to study human gene expression and regulation and its relationship to genetic variation.
 
 [ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
+
+[STRING](https://string-db.org/) is dedicated to protein-protein interaction networks.
 
 ## Comparative genomics and animal models
 
