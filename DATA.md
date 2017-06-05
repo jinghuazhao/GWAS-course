@@ -30,6 +30,8 @@
 
 [GTEx](https://gtexportal.org/home/) provides a platform to study human gene expression and regulation and its relationship to genetic variation.
 
+[Regulatorycircuits](http://regulatorycircuits.org/index.html) is a repository of human cell type- and tissue-specific gene regulatory networks.
+
 [ROADMAP and ENDCODE epigenomics data](http://egg2.wustl.edu/roadmap/web_portal/) has information for a total of 127 consolidated epigenomes.
 
 [STRING](https://string-db.org/) is dedicated to protein-protein interaction networks.
