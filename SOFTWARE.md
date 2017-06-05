@@ -9,7 +9,7 @@ EIGENSOFT| https://data.broadinstitute.org/alkesgroup/EIGENSOFT/
 GARFIELD | http://www.ebi.ac.uk/birney-srv/GARFIELD/
 GCTA | http://cnsgenomics.com/software/gcta/
 GenABEL | http://www.genabel.org/
-GRAIL | http://software.broadinstitute.org/mpg/grail/
+GRAIL | http://software.broadinstitute.org/mpg/grail/ ([VIZ-GRAIL](http://software.broadinstitute.org/mpg/grail/vizgrail.html))
 IMPUTE2 | http://mathgen.stats.ox.ac.uk/impute/impute_v2.html
 LDhub | http://ldsc.broadinstitute.org/ldhub/
 LDSC | https://github.com/bulik/ldsc
@@ -29,7 +29,6 @@ UNPHASED | https://sites.google.com/site/fdudbridge/software/unphased-3-1
 VAT | http://varianttools.sourceforge.net/Association/HomePage
 VEGAS2 | [online version](https://vegas2.qimrberghofer.edu.au), [command-line version](https://vegas2.qimrberghofer.edu.au/zVEGAS2offline.tgz)
 VEP | http://www.ensembl.org/info/docs/tools/vep/index.html
-VIZ-GRAIL | http://software.broadinstitute.org/mpg/grail/vizgrail.html
 
 This is an extension of the [Baylor list](https://statgen.research.bcm.edu/index.php/Genassoc2016). The old [Columbia/Rockefeller list](https://github.com/gaow/genetic-analysis-software) may still contain useful links.
 
