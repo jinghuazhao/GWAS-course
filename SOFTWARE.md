@@ -16,6 +16,7 @@ LDSC | https://github.com/bulik/ldsc
 LocusZoom | http://locuszoom.sph.umich.edu/
 MaCH | http://csg.sph.umich.edu/abecasis/MACH/index.html
 MAGENTA | https://software.broadinstitute.org/mpg/magenta/
+MAGMA | http://ctg.cncr.nl/software/magma
 PLINK2 | https://www.cog-genomics.org/plink2
 PLINKSEQ | https://atgu.mgh.harvard.edu/plinkseq/
 QCTOOL | http://www.well.ox.ac.uk/~gav/qctool/#overview
