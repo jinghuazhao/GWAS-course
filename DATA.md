@@ -25,6 +25,8 @@ from ~125 web sources, including genomic, transcriptomic, proteomic, genetic, cl
 
 [MSigDB](http://software.broadinstitute.org/gsea/msigdb/collections.jsp) The Molecular Signatures Database are divided into 8 major collections and several sub-collections on 17779 gene sets.
 
+[PANTHER](http://pantherdb.org/) now includes comprehensive GO annotations directly imported from the GO database.
+
 [OMIM](http://www.omim.org/) is an online catalog of human genes and genetic disorders. [MetaMap](https://mmtx.nlm.nih.gov/) is a tool for recognizing UMLS concepts in text. MetaMap is one of the foundations of NLM's 
 Medical Text Indexer ([MTI](https://ii.nlm.nih.gov/MTI/)) which is being used for both semiautomatic and fully automatic indexing of biomedical literature at NLM
 
