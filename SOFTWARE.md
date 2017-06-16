@@ -2,7 +2,7 @@
 
 Software | URL
 ---------|-------------------------------------------------------
-ANNOVAR | http://annovar.openbioinformatics.org/
+ANNOVAR | http://annovar.openbioinformatics.org/ ([wANNOVAR](http://wannovar.wglab.org/))
 BEAGLE | https://faculty.washington.edu/browning/beagle/b3.html
 BOLT-LMM | https://data.broadinstitute.org/alkesgroup/BOLT-LMM/
 DEPICT | [Broad](https://data.broadinstitute.org/mpg/depict/), ([GitHub](https://github.com/perslab/depict))
