@@ -27,6 +27,8 @@ from ~125 web sources, including genomic, transcriptomic, proteomic, genetic, cl
 
 [PANTHER](http://pantherdb.org/) now includes comprehensive GO annotations directly imported from the GO database.
 
+[REACTOME][http://www.reactome.org/] is a free, open-source, curated and peer reviewed pathway database.
+
 [OMIM](http://www.omim.org/) is an online catalog of human genes and genetic disorders. [MetaMap](https://mmtx.nlm.nih.gov/) is a tool for recognizing UMLS concepts in text. MetaMap is one of the foundations of NLM's 
 Medical Text Indexer ([MTI](https://ii.nlm.nih.gov/MTI/)) which is being used for both semiautomatic and fully automatic indexing of biomedical literature at NLM
 
