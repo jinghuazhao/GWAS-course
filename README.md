@@ -40,4 +40,4 @@ Dr Jing Hua Zhao
 
 Trained in medicine, medical statistics and statistical genetics, he had worked on statistical and computational methods for epidemiological and public health studies at several institutions until 2005, when he joined the MRC Epidemiology Unit, University of Cambridge, to work on design and analysis of GWAS such as the EPIC-Norfolk, the Fenland and the InterAct. He has also participated in numerous genetic analysis workshops which involve both simulated and real data such as those from the Framingham heart study. Besides methodological development, data analysis, and other academic activities, he has also had tutorials on genetic dissection of complex traits with focus on GWAS at UseR! 2008, 2009, and 2010 Conferences and contributed a Henry-Stewart talk on genetic association with R.
 
-[An interview](https://www.physalia-courses.org/news/n9/) contains answers to questions.
+## [An interview](https://www.physalia-courses.org/news/n9/) contains answers to questions.
