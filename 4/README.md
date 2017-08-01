@@ -8,6 +8,8 @@ This module covers several areas of GWAS in more details.
 
 * Rare variants
 
+* Pathway analysis
+
 * Longitudinal data
 
 * Polygenic modelling
@@ -26,7 +28,7 @@ This module covers several areas of GWAS in more details.
 
 * TASKS
 
-   rare variant analysis, logintudinal analysis, polygeneic modeling
+   Pathway analysis
 
 * Suggested reading
 
