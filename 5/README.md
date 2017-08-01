@@ -6,6 +6,8 @@ The module will look further into several other areas of research in GWAS, to be
 
 ### Lecture 5
 
+* Finemapping
+
 * Conditional/joint analysis
 
 * Mendelian randomization
