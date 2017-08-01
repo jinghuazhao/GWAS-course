@@ -28,7 +28,7 @@ This module covers several areas of GWAS in more details.
 
 * TASKS
 
-   Pathway analysis
+   Pathway analysis with MAGMA, DEPICT, PASCAL
 
 * Suggested reading
 
