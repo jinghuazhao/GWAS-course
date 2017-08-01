@@ -30,6 +30,8 @@ Prediction
 
 * TASKS
 
+   R exercise from useR! tutorials and contrast with PLINK
+
 * Suggested reading
 
    **Papers/books**
