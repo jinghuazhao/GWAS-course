@@ -32,6 +32,8 @@ The module will look further into several other areas of research in GWAS, to be
 
 * TASKS
 
+  Finemapping with R2BGLiMS and finemap.
+
 * Suggested reading
 
    **Papers/books**
