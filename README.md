@@ -34,7 +34,7 @@ The workshop contains both lecture and computer sessions, designed to help parti
 
 ## Module 5. [Additional topics](https://github.com/jinghuazhao/GWAS/tree/master/5/README.md)
 
-## [Answers to some questions](https://www.physalia-courses.org/news/n9/)
+## [26 July 2017 coverage](https://www.physalia-courses.org/news/n9/)
 
 # INSTRUCTOR
 
