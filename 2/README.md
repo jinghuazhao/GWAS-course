@@ -20,11 +20,7 @@ Missing data models
 
 Population stratification and genomic controls
 
-### Lab 2
-
-* Linux
-
-* R
+### Lab
 
 ### Exercises
 
