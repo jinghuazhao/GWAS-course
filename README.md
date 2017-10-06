@@ -24,15 +24,15 @@ The workshop contains both lecture and computer sessions, designed to help parti
 
 # CURRICULUM
 
-## Module 1. [Overview](https://github.com/jinghuazhao/GWAS/tree/master/1/README.md)
+## Module 1. [Overview](https://github.com/jinghuazhao/GWAS-course/tree/master/1/README.md)
 
-## Module 2. [Elements of genetic association](https://github.com/jinghuazhao/GWAS/tree/master/2/README.md)
+## Module 2. [Elements of genetic association](https://github.com/jinghuazhao/GWAS-course/tree/master/2/README.md)
 
-## Module 3. [GWAS](https://github.com/jinghuazhao/GWAS/tree/master/3/README.md)
+## Module 3. [GWAS](https://github.com/jinghuazhao/GWAS-course/tree/master/3/README.md)
 
-## Module 4. [Advanced topics](https://github.com/jinghuazhao/GWAS/tree/master/4/README.md)
+## Module 4. [Advanced topics](https://github.com/jinghuazhao/GWAS-course/tree/master/4/README.md)
 
-## Module 5. [Additional topics](https://github.com/jinghuazhao/GWAS/tree/master/5/README.md)
+## Module 5. [Additional topics](https://github.com/jinghuazhao/GWAS-course/tree/master/5/README.md)
 
 ## [26 July 2017 coverage](https://www.physalia-courses.org/news/n9/)
 
