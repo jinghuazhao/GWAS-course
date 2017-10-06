@@ -1,4 +1,4 @@
-### Friday 27th -- Classes from 9:30am to 17:30pm
+### Friday 27th -- Classes from 9:30am to 16:00pm
 
 ## Module 5 -- Additional topics
 
