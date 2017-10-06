@@ -20,11 +20,7 @@ Report of results and GSEA
 
 Prediction
 
-### Lab 3
-
-* Linux
-
-* R and Bioconductor packages
+### Lab
 
 ### Exercises
 
