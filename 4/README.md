@@ -18,11 +18,7 @@ This module covers several areas of GWAS in more details.
 
 * Marchine learning
 
-### Lab 4
-
-* Linux
-
-* R
+### Lab
 
 ### Exercises
 
