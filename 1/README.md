@@ -24,11 +24,7 @@ The purpose of this module is provide a grand view of genetic dissection of comp
 
    A combination of data management, statistical analysis, graphics, programming in a unified environment, it enjoys ever-growing user-base and facilities.
 
-### Lab 1
-
-* Linux
-
-* R
+### Lab
 
 ### Exercises
 
