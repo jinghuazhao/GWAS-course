@@ -6,9 +6,9 @@ The module will look further into several other areas of research in GWAS, to be
 
 ### Lecture 5
 
-* Finemapping
-
 * Conditional/joint analysis
+
+* Finemapping
 
 * Mendelian randomization
 
@@ -26,7 +26,7 @@ The module will look further into several other areas of research in GWAS, to be
 
    [GIANT consortium](http://portals.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium). `The Genetic Investigation of ANthropometric Traits (GIANT) consortium is an international collaboration that seeks to identify genetic loci that modulate human body size and shape, including height and measures of obesity. The GIANT consortium is a collaboration between investigators from many different groups, institutions, countries, and studies, and the results represent their combined efforts. The primary approach has been meta-analysis of genome-wide association data and other large-scale genetic data sets. Anthropometric traits that have been studied by GIANT include body mass index (BMI), height, and traits related to waist circumference (such as waist-hip ratio adjusted for BMI, or WHRadjBMI). Thus far, the GIANT consortium has identified common genetic variants at hundreds of loci that are associated with anthropometric traits.`
 
-### Lab 5
+### Lab
 
 ### Exercises
 
