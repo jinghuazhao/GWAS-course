@@ -20,7 +20,7 @@ The workshop contains both lecture and computer sessions, designed to help parti
 
 # WHERE
 
-![map](https://image.jimcdn.com/app/cms/image/transf/none/path/sc907c1c4cc8c1f1e/image/i501c0825ca0ccc93/version/1488797144/image.jpg)
+![map](https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/sc907c1c4cc8c1f1e/image/i5c7bc0332fce3a02/version/1506352579/image.jpg)
 
 # CURRICULUM
 
