@@ -80,4 +80,4 @@ Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ 
 “Heritability of Pulmonary Function Estimated from Pedigree and Whole-Genome Markers.”
 *Frontiers in Genetics*, 4, 174. doi:10.3389/fgene.2013.00174.
 
-PheWAS was approved for FHS as with clarite.
+PheWAS was approved for FHS as with clarite, https://github.com/HallLab/clarite.
