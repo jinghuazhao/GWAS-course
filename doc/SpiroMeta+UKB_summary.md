@@ -11,18 +11,20 @@
 3. to investigate the putative causal genes and biological pathways through which lung function–associated variants act, and their wider pleiotropic effects on other traits;
 4. to generate a weighted genetic risk score for lung function and test its association with COPD susceptibility in individuals of European and other ancestries.
 
-### Outcome/data (321,047 UKB+79,055 SpiroMeta)
+### Materials
 
-* FEV1
-* FVC
-* FEV1.FVC
-* PEF
+* Outcome
+  * FEV1. forced expired volume in 1 second.
+  * FVC. forced vital capacity.
+  * FEV1/FVC.
+  * PEF. Peak expiratory flow.
+* Data. 321,047 UKB (ST1) + 79,055 SpiroMeta (ST2, ST3)
 
 ### Methods
 
 * association model. LMM with BOLT-LMM
 * putative causal genes. 99\% credible set, deleterious, eQTL (lung, blood GTEx), pQTL (INTERVAL) excludibg HLA region
-* explained heritabilities (assuming h2=0.4) \& interaction with ever-smoking. 140 previously identified and 1e-5 in UKB as 5.0\%, 3.4\%, 9.2\% and 4.5\% vs 139 new signals (Figure 1) 4.3\%, 3.3\%, 3.9\% and 3.3\%. No interaction found.
+* explained heritabilities (assuming h2=0.4). Approximated by sum of the variances of regression terms.
 * Tiers of signals (19,819,130 SNPs)
 
 tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
@@ -49,6 +51,7 @@ Only rs193686 was associated with smoking behaviour.
 
 * 279 signals (ST9)
 * 107 putative causal genes identified (Table 1).
+* heritability. \& interaction with ever-smoking. 140 previously identified and 1e-5 in UKB as 5.0\%, 3.4\%, 9.2\% and 4.5\% vs 139 new signals (Figure 1) 4.3\%, 3.3\%, 3.9\% and 3.3\%. No interaction found.
 * Pathway results in ST15.
 * Functional enrichment showed heritabilities are enriched in histone marks
 * GRS.
