@@ -1,5 +1,7 @@
 ## New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries
 
+Shrine et al. (2019) Nature Genetics 51, 481–493
+
 ### Rationale for high yield of significant SNPs
 
 1. implication of multiple molecules in each pathway will be needed to build an accurate picture of the pathways underpinning development of COPD.
