@@ -1,15 +1,15 @@
-### Rationale for high yield of significant SNPs,
+### Rationale for high yield of significant SNPs
 
-(1) implication of multiple molecules in each pathway will be needed to build an accurate picture of the pathways underpinning development of COPD.
-(2) not all proteins identified will be druggable.
-(3) combining information across multiple variants can improve prediction of disease susceptibility.
+1. implication of multiple molecules in each pathway will be needed to build an accurate picture of the pathways underpinning development of COPD.
+2. not all proteins identified will be druggable.
+3. combining information across multiple variants can improve prediction of disease susceptibility.
 
 ### Aims
 
-(1) to generate a high yield of genetic markers associated with lung function; 
-(2) to confirm and fine-map previously reported lung function signals; 
-(3) to investigate the putative causal genes and biological pathways through which lung function–associated variants act, and their wider pleiotropic effects on other traits;
-(4) to generate a weighted genetic risk score for lung function and test its association with COPD susceptibility in individuals of European and other ancestries.
+1. to generate a high yield of genetic markers associated with lung function; 
+2. to confirm and fine-map previously reported lung function signals; 
+3. to investigate the putative causal genes and biological pathways through which lung function–associated variants act, and their wider pleiotropic effects on other traits;
+4. to generate a weighted genetic risk score for lung function and test its association with COPD susceptibility in individuals of European and other ancestries.
 
 ### Outcome/data (321,047 UKB+79,055 SpiroMeta)
 
