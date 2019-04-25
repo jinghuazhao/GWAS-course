@@ -1,6 +1,4 @@
-## New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries
-
-Shrine et al. (2019) Nature Genetics 51, 481–493
+Shrine et al. (2019). New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries. *Nature Genetics* 51, 481–493
 
 ### Rationale for high yield of significant SNPs
 
