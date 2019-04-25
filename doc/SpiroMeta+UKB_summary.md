@@ -65,7 +65,7 @@ Only rs193686 was associated with smoking behaviour.
 
 ### Highlights
 
-* doubled the number of SNPs.
+* doubled the number of SNPs -- excellently explained replication and joint/conditional analysis.
 * first study on PEF, 133/279 associated.
 * SNP-smoking interaction study.
 * GRS predictive of lung function and also COPD.
