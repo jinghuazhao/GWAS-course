@@ -25,7 +25,7 @@ Shrine et al. (2019). **New genetic signals for lung function highlight pathways
 ### Methods
 
 * association model. LMM with BOLT-LMM
-* putative causal genes. ANNOVAR, SIFT, PolyPhen-2|CADD/VEP, PATHMM. 99\% credible set, deleterious, eQTL (lung, blood GTEx), pQTL (INTERVAL) excluding HLA region
+* putative causal genes. ANNOVAR, SIFT, PolyPhen-2|CADD/VEP, PATHMM. 99\% credible set, deleterious, eQTL (lung, blood, GTEx), pQTL (INTERVAL) excluding HLA region
 * explained heritabilities (assuming h2=0.4). Approximated by sum of the variances of regression terms.
 * Tiers of signals (19,819,130 SNPs)
 
