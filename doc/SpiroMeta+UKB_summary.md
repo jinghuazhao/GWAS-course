@@ -62,3 +62,11 @@ Only rs193686 was associated with smoking behaviour.
   * similarity in deciles (Figure 3c).
   * 279 GRS ~ respiratory traits (Figure 5a) and celiac disease (Figure 5b).
 * PheWAS (Figure 4, ST23). 85 ~ standing height but no correlation with GIANT data.
+
+### Additional information
+
+The following paper gave SNP-based heritability estimates of FEV1, FVC and FEV/FVC as 0.50, 0.54 ans 0.66, respectively.
+
+Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ (2013).
+“Heritability of Pulmonary Function Estimated from Pedigree and Whole-Genome Markers.”
+*Frontiers in Genetics*, 4, 174. doi:10.3389/fgene.2013.00174.
