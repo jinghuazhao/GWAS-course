@@ -25,7 +25,7 @@ Shrine et al. (2019). New genetic signals for lung function highlight pathways a
 ### Methods
 
 * association model. LMM with BOLT-LMM
-* putative causal genes. 99\% credible set, deleterious, eQTL (lung, blood GTEx), pQTL (INTERVAL) excluding HLA region
+* putative causal genes. ANNOVAR, SIFT, PolyPhen-2|CADD/VEP, PATHMM. 99\% credible set, deleterious, eQTL (lung, blood GTEx), pQTL (INTERVAL) excluding HLA region
 * explained heritabilities (assuming h2=0.4). Approximated by sum of the variances of regression terms.
 * Tiers of signals (19,819,130 SNPs)
 
@@ -35,12 +35,12 @@ tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 2     |  one  | 5e-9   | <1e-3 | <1e-3      | 40     |  yes       | SF2/ST4
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
-* Pathway analysis.
+* Pathway analysis. ConsensusPathDB.
 * Functional enrichment analysis.
   * LD-score regression
   * DNase I hypersensitive site hotspots with GARFIELD.
   * DeepSEA. chromatic effect in lung-related cell lines.
-* Drug targets.
+* Drug targets. Drug-Gene Interaction Database, http://www.dgidb.org
 * GRS.
   * UKB and China Kadoorie Biobank.
   * Interaction with smoking.
