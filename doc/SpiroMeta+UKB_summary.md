@@ -25,7 +25,7 @@ Shrine et al. (2019). New genetic signals for lung function highlight pathways a
 ### Methods
 
 * association model. LMM with BOLT-LMM
-* putative causal genes. 99\% credible set, deleterious, eQTL (lung, blood GTEx), pQTL (INTERVAL) excludibg HLA region
+* putative causal genes. 99\% credible set, deleterious, eQTL (lung, blood GTEx), pQTL (INTERVAL) excluding HLA region
 * explained heritabilities (assuming h2=0.4). Approximated by sum of the variances of regression terms.
 * Tiers of signals (19,819,130 SNPs)
 
@@ -63,6 +63,15 @@ Only rs193686 was associated with smoking behaviour.
   * 279 GRS ~ respiratory traits (Figure 5a) and celiac disease (Figure 5b).
 * PheWAS (Figure 4, ST23). 85 ~ standing height but no correlation with GIANT data.
 
+### Highlights
+
+* doubled the number of SNPs.
+* first study on PEF, 133/279 associated.
+* SNP-smoking interaction study.
+* GRS predictive of lung function and also COPD.
+* eQTL/pQTL-related work.
+* PheWAS.
+
 ### Additional information
 
 The following paper gave SNP-based heritability estimates of FEV1, FVC and FEV/FVC as 0.50, 0.54 ans 0.66, respectively.
@@ -70,3 +79,5 @@ The following paper gave SNP-based heritability estimates of FEV1, FVC and FEV/F
 Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ (2013).
 “Heritability of Pulmonary Function Estimated from Pedigree and Whole-Genome Markers.”
 *Frontiers in Genetics*, 4, 174. doi:10.3389/fgene.2013.00174.
+
+PheWAS was approved for FHS as with clarite.
