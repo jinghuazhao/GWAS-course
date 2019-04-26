@@ -129,3 +129,7 @@ local N1=e(N)+1
 pctile px=x, nq(`N1') genp(p)
 replace xinv=invnormal(p/100)
 ```
+
+### summary statitics
+
+/scratch/jhz22/COPD
