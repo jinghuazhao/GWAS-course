@@ -22,6 +22,8 @@ Shrine et al. (2019). **New genetic signals for lung function highlight pathways
   * PEF. Peak expiratory flow.
 * Data. 321,047 UKB (ST1) + 79,055 SpiroMeta (ST2, ST3)
 
+Full information regarding UKB and SpiroMeta are described in Methods section.
+
 ### Methods
 
 * **association model**. LMM with BOLT-LMM
@@ -43,9 +45,9 @@ tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 * **Pathway analysis**. ConsensusPathDB.
 * **Functional enrichment analysis**.
   * LD-score regression
-  * DNase I hypersensitive site hotspots with GARFIELD.
+  * 424 DNase I hypersensitive site hotspots derived from 55 tissues on the RoadMap Epigenomic and ENCODE projects through GARFIELD.
   * DeepSEA. chromatic effect in lung-related cell lines.
-* **Drug targets**. Drug-Gene Interaction Database, http://www.dgidb.org
+* **Drug targets**. Drug-Gene Interaction Database, http://www.dgidb.org.
 * **GRS**.
   * UKB and China Kadoorie Biobank.
   * Interaction with smoking.
