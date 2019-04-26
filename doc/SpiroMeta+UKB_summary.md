@@ -31,13 +31,13 @@ Shrine et al. (2019). **New genetic signals for lung function highlight pathways
 
 tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 ------|-------|--------|-------|------------|--------|------------|---------
-1     |  two  | 5e-9   | 5e-9  | 1e-3       | 99     |  yes       | SF2/ST4
+1     |  two  | 5e-9   | <5e-9  | <1e-3       | 99     |  yes       | SF2/ST4
 2     |  one  | 5e-9   | <1e-3 | <1e-3      | 40     |  yes       | SF2/ST4
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
 * association of (LD-pruned) previously reported signals for any of three criteria: 
-  * the previously reported sentinel was associated (P < 10−5) with any lung function trait in UK Biobank;
-  * a proxy for the previously reported sentinel with r2 > 0.5 was associated (P < 10−5) with any lung function trait in UK Biobank; 
+  * the previously reported sentinel was associated (P < 1e−5) with any lung function trait in UK Biobank;
+  * a proxy for the previously reported sentinel with r2 > 0.5 was associated (P < 1e−5) with any lung function trait in UK Biobank; 
   * a proxy for the previously reported sentinel with r2 > 0.1 was associated with any lung function trait meeting tier 1 or tier 2 criteria (SF3).
 
 * Pathway analysis. ConsensusPathDB.
