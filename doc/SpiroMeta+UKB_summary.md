@@ -35,6 +35,7 @@ tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 2     |  one  | 5e-9   | <1e-3 | <1e-3      | 40     |  yes       | SF2/ST4
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
+* joint/conditional analysis. where sentinel variants for two signals for different phenotypes were in high LD (r2 > 0.5), we retained the most significant variant; where two signals were in moderate LD (0.1 > r2 > 0.5), we retained variants if, after conditional analysis, they still met the tier 1 or tier 2 threshold; for signals in low LD (r2 < 0.1) we retained both variants. We then used the same criteria to identify a subset of new signals that were distinct from previously published independent signals (see below)
 * association of (LD-pruned) previously reported signals for any of three criteria: 
   * the previously reported sentinel was associated (P < 1e−5) with any lung function trait in UK Biobank;
   * a proxy for the previously reported sentinel with r2 > 0.5 was associated (P < 1e−5) with any lung function trait in UK Biobank; 
@@ -70,7 +71,7 @@ Only rs193686 was associated with smoking behaviour.
 
 ### Highlights
 
-* doubled the number of SNPs -- excellently explained replication and joint/conditional analysis.
+* doubled the number of SNPs.
 * first study on PEF, 133/279 associated.
 * SNP-smoking interaction study.
 * GRS predictive of lung function and also COPD.
