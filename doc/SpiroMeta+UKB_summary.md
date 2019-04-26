@@ -35,6 +35,11 @@ tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 2     |  one  | 5e-9   | <1e-3 | <1e-3      | 40     |  yes       | SF2/ST4
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
+* association of (LD-pruned) previously reported signals for any of three criteria: 
+ 1. the previously reported sentinel was associated (P < 10−5) with any lung function trait in UK Biobank; 
+ 2  a proxy for the previously reported sentinel with r2 > 0.5 was associated (P < 10−5) with any lung function trait in UK Biobank; 
+ 3. a proxy for the previously reported sentinel with r2 > 0.1 was associated with any lung function trait meeting tier 1 or tier 2 criteria (SF3).
+
 * Pathway analysis. ConsensusPathDB.
 * Functional enrichment analysis.
   * LD-score regression
