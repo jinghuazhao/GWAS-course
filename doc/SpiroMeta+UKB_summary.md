@@ -117,7 +117,7 @@ run;
 ```
 Stata
 ```stata
-/*from regression*/
+/*from regression -- clumsy with groups*/
 local N1=e(N)+1
 pctile px=x, nq(`N1') genp(p)
 replace xinv=invnormal(p/100)
