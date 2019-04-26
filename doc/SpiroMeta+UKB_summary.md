@@ -81,3 +81,41 @@ Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ 
 *Frontiers in Genetics*, 4, 174. doi:10.3389/fgene.2013.00174.
 
 PheWAS was approved for FHS as with clarite, https://github.com/HallLab/clarite.
+
+### Implementations
+
+**inverse Normal transformation**
+
+from GLGC/GIANT analysis plan,
+
+>in SAS: 	proc rank data=mydata out=inv normal=blom;
+>               var x;
+>		run;
+> 
+>in R: 		#if you have missing data 
+> 		y <- qnorm((rank(x,na.last="keep”)-0.5)/sum(!is.na(x))) 
+>
+>in STATA: 	pctile pvariable = variable, nquantiles(N+1) genp(percent_variable) 
+>     		gen inv_normal_variable=invnormal(percent_variable/100)
+
+
+R
+```r
+invnormal <- function(x) qnorm((rank(x,na.last="keep")-0.5)/sum(!is.na(x)))
+```
+SAS
+```sas
+/*on x by b*/
+proc rank data=r out=check normal=blom;
+     var x;
+     ranks r;
+     by b;
+run;
+```
+Stata
+```stata
+/*from regression*/
+local N1=e(N)+1
+pctile px=x, nq(`N1') genp(p)
+replace xinv=invnormal(p/100)
+```
