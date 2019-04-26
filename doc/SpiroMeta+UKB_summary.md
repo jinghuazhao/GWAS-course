@@ -24,10 +24,10 @@ Shrine et al. (2019). **New genetic signals for lung function highlight pathways
 
 ### Methods
 
-* association model. LMM with BOLT-LMM
-* putative causal genes. ANNOVAR, SIFT, PolyPhen-2|CADD/VEP, PATHMM. 99\% credible set, deleterious, eQTL (lung, blood, GTEx), pQTL (INTERVAL) excluding HLA region
-* explained heritabilities (assuming h2=0.4). Approximated by sum of the variances of regression terms.
-* Tiers of signals (19,819,130 SNPs)
+* **association model**. LMM with BOLT-LMM
+* **putative causal genes**. ANNOVAR, SIFT, PolyPhen-2|CADD/VEP, PATHMM. 99\% credible set, deleterious, eQTL (lung, blood, GTEx), pQTL (INTERVAL) excluding HLA region
+* **explained heritabilities (assuming h2=0.4)**. Approximated by sum of the variances of regression terms.
+* **Tiers of signals** (19,819,130 SNPs).
 
 tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 ------|-------|--------|-------|------------|--------|------------|---------
@@ -35,23 +35,22 @@ tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 2     |  one  | 5e-9   | <1e-3 | <1e-3      | 40     |  yes       | SF2/ST4
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
-* joint/conditional analysis. where sentinel variants for two signals for different phenotypes were in high LD (r2 > 0.5), we retained the most significant variant; where two signals were in moderate LD (0.1 > r2 > 0.5), we retained variants if, after conditional analysis, they still met the tier 1 or tier 2 threshold; for signals in low LD (r2 < 0.1) we retained both variants. We then used the same criteria to identify a subset of new signals that were distinct from previously published independent signals (see below)
-* association of (LD-pruned) previously reported signals for any of three criteria: 
+* **joint/conditional analysis**. where sentinel variants for two signals for different phenotypes were in high LD (r2 > 0.5), we retained the most significant variant; where two signals were in moderate LD (0.1 > r2 > 0.5), we retained variants if, after conditional analysis, they still met the tier 1 or tier 2 threshold; for signals in low LD (r2 < 0.1) we retained both variants. We then used the same criteria to identify a subset of new signals that were distinct from previously published independent signals (see below)
+* **association of (LD-pruned) previously reported signals** for any of three criteria: 
   * the previously reported sentinel was associated (P < 1e−5) with any lung function trait in UK Biobank;
   * a proxy for the previously reported sentinel with r2 > 0.5 was associated (P < 1e−5) with any lung function trait in UK Biobank; 
   * a proxy for the previously reported sentinel with r2 > 0.1 was associated with any lung function trait meeting tier 1 or tier 2 criteria (SF3).
-
-* Pathway analysis. ConsensusPathDB.
-* Functional enrichment analysis.
+* **Pathway analysis**. ConsensusPathDB.
+* **Functional enrichment analysis**.
   * LD-score regression
   * DNase I hypersensitive site hotspots with GARFIELD.
   * DeepSEA. chromatic effect in lung-related cell lines.
-* Drug targets. Drug-Gene Interaction Database, http://www.dgidb.org
-* GRS.
+* **Drug targets**. Drug-Gene Interaction Database, http://www.dgidb.org
+* **GRS**.
   * UKB and China Kadoorie Biobank.
   * Interaction with smoking.
   * GRS ~ COPD in addtional five COPD case-control studies.
-* Pleiotropy and PheWAS. 279 loci on 2,411 traits.
+* **Pleiotropy and PheWAS**. 279 loci on 2,411 traits.
 
 Only rs193686 was associated with smoking behaviour.
 
