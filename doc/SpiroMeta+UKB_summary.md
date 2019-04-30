@@ -108,6 +108,19 @@ may be useful for covariate and/or interaction assessment of metabolic-related t
 EWAS, gene-environment interactions, and phenome-wide association studies, by establishing a standardized and high-throughput
 quality control pipeline.
 
+** Framingham Study**
+
+Apr 17, 2019
+
+> The long-running Framingham Heart Study has received a $38 million grant to continue for another six years, the Boston Globe reports.
+
+> "This will let us do deep phenotyping," Vasan Ramachandran, the study's principal investigator at Boston University tells the Globe. "Technology has changed. When this study began, we could measure a few proteins circulating in the blood. Now we have screening where we can measure up to 1,300 proteins."
+
+> The study began in 1948 when it recruited 5,209 men and women between ages of 30 and 62 to examine factors that influence risk of heart disease, and, as BU notes in a press release, contributed to findings that smoking and obesity contribute to cardiovascular disease risk, while physical activity may be protective. It adds that the study is now following the children and grandchildren of the original enrollees.
+
+> With these new funds, Ramachandran says the study will examine the contribution of aging to health and disease, the Globe adds, noting that it will focus not only on the heart, but also the brain and liver.
+
+
 ### Implementations
 
 **inverse Normal transformation**
