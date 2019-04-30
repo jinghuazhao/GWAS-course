@@ -142,12 +142,13 @@ in STATA:
 	pctile pvariable = variable, nquantiles(N+1) genp(percent_variable) 
 	gen inv_normal_variable=invnormal(percent_variable/100)
 ```
+as coded as follows,
 
-R
+**R**
 ```r
 invnormal <- function(x) qnorm((rank(x,na.last="keep")-0.5)/sum(!is.na(x)))
 ```
-SAS
+**SAS**
 ```sas
 /*on x by b*/
 proc rank data=r out=check normal=blom;
@@ -156,7 +157,7 @@ proc rank data=r out=check normal=blom;
      by b;
 run;
 ```
-Stata
+**Stata**
 ```stata
 /*from regression -- clumsy with groups*/
 local N1=e(N)+1
