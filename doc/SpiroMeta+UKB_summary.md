@@ -89,13 +89,17 @@ Only rs193686 was associated with smoking behaviour.
 
 ### Additional information
 
+**Heritabilities**
+
 The following paper gave SNP-based heritability estimates of FEV1, FVC and FEV/FVC as 0.50, 0.54 ans 0.66, respectively.
 
 Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ (2013).
 “Heritability of Pulmonary Function Estimated from Pedigree and Whole-Genome Markers.”
 *Frontiers in Genetics*, 4, 174. doi:10.3389/fgene.2013.00174.
 
-PheWAS was approved for FHS as with clarite, https://github.com/HallLab/clarite.
+**CLARITE**
+
+https://github.com/HallLab/clarite.
 
 Publicly available data, https://github.com/chiragjp/nhanes_scidata.
 
@@ -108,7 +112,7 @@ may be useful for covariate and/or interaction assessment of metabolic-related t
 EWAS, gene-environment interactions, and phenome-wide association studies, by establishing a standardized and high-throughput
 quality control pipeline.
 
-** Framingham Study**
+**Framingham Study**
 
 Apr 17, 2019
 
