@@ -97,6 +97,8 @@ Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ 
 
 PheWAS was approved for FHS as with clarite, https://github.com/HallLab/clarite.
 
+Publicly available data, https://github.com/chiragjp/nhanes_scidata.
+
 > Using CLARITE, we performed and sought replication of an EWAS in the National Health and Nutrition Examination Survey
 (NHANES) (N overall discovery=9063, N overall replication=9874) for body mass index (BMI) and over 300 environment variables,
 adjusting for sex, age, race, socioeconomic status, and survey year. Seventeen BMI results replicated at a Bonferroni corrected p <
