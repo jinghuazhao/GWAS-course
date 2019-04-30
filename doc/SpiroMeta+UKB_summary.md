@@ -142,7 +142,7 @@ in STATA:
 	pctile pvariable = variable, nquantiles(N+1) genp(percent_variable) 
 	gen inv_normal_variable=invnormal(percent_variable/100)
 ```
-as coded as follows,
+coded as follows,
 
 **R**
 ```r
