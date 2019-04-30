@@ -67,9 +67,10 @@ Only rs193686 was associated with smoking behaviour.
 
 * 279 signals (ST9)
 * 107 putative causal genes identified (Table 1).
-* heritability. \& interaction with ever-smoking. 140 previously identified and 1e-5 in UKB as 5.0\%, 3.4\%, 9.2\% and 4.5\% vs 139 new signals (Figure 1) 4.3\%, 3.3\%, 3.9\% and 3.3\%. No interaction found.
+* Heritability. \& interaction with ever-smoking. 140 previously identified and 1e-5 in UKB as 5.0\%, 3.4\%, 9.2\% and 4.5\% vs 139 new signals (Figure 1) 4.3\%, 3.3\%, 3.9\% and 3.3\%. No interaction found.
 * Pathway results in ST15.
 * Functional enrichment showed heritabilities are enriched in histone marks
+* Genetic correlations. Genome-wide genetic correlation between UK Biobank and SpiroMeta was calculated using LDSC and was 0.993 for FEV1, 0.979 for FVC, 0.946 for FEV1/FVC and 0.964 for PEF.
 * GRS.
   * ~ decrease in lung function and increase in COPD (Figure 3a).
   * Effect sizes were similar in COPD case-control studies (Figure 3b, ST20)
