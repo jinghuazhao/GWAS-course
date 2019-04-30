@@ -26,7 +26,7 @@ Full information regarding UKB and SpiroMeta are described in Methods section.
 
 ### Methods
 
-* **association model**. LMM with BOLT-LMM
+* **association model**. LMM with BOLT-LMM. The variants included in the mixed model were extracted from the genotyped variants by applying the following filters: missingness < 5%, minor allele frequency > 1%, HWE p > 10-6, pruning for LD r2 < 0.2.
 * **putative causal genes**. ANNOVAR, SIFT, PolyPhen-2|CADD/VEP, PATHMM. 99\% credible set, deleterious, eQTL (lung, blood, GTEx), pQTL (INTERVAL) excluding HLA region
 * **explained heritabilities (assuming h2=0.4)**. Approximated by sum of the variances of regression terms.
 * **Tiers of signals** (19,819,130 SNPs).
