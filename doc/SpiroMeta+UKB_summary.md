@@ -38,7 +38,7 @@ tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
 * **joint/conditional analysis**. 
-> All SNPs ±1Mb were extracted around each sentinel variant. GCTA7 was then used to perform stepwise conditional
+> All SNPs ±1Mb were extracted around each sentinel variant. GCTA was then used to perform stepwise conditional
 analysis in order to select independently associated SNPs within each 2Mb region using the single SNP association
 statistics combined with LD information from reference genotypes representative of the samples in the association
 testing. For UK Biobank the same genotype data as used for the initial discovery association testing was used as an
