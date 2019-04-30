@@ -106,7 +106,7 @@ adjusting for sex, age, race, socioeconomic status, and survey year. Seventeen B
 consider for metabolic trait analysis, as BMI is tightly associated with these phenotypes, and as such, exposures predictive of BMI
 may be useful for covariate and/or interaction assessment of metabolic-related traits. CLARITE allows improved data quality for
 EWAS, gene-environment interactions, and phenome-wide association studies, by establishing a standardized and high-throughput
-quality control pipeline. Thus, CLARITE is recommended for studying the environmental factors underlying metabolic disease.
+quality control pipeline.
 
 ### Implementations
 
