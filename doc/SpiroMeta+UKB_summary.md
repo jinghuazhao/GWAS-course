@@ -33,7 +33,7 @@ Full information regarding UKB and SpiroMeta are described in Methods section.
 
 tiers | stage | P      | UKB   | SpiroMeta  | counts | follow-up  | Suppl.
 ------|-------|--------|-------|------------|--------|------------|---------
-1     |  two  | 5e-9   | <5e-9  | <1e-3       | 99     |  yes       | SF2/ST4
+1     |  two  | 5e-9   | <5e-9 | <1e-3      | 99     |  yes       | SF2/ST4
 2     |  one  | 5e-9   | <1e-3 | <1e-3      | 40     |  yes       | SF2/ST4
 3     |  one  | 5e-9   | >1e-3 | >1e-3      | 323 + 5 (chromosome X)  |  no  | ST5
 
