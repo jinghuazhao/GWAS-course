@@ -97,6 +97,15 @@ Klimentidis YC, Vazquez AI, de Los CG, Allison DB, Dransfield MT, Thannickal VJ 
 
 PheWAS was approved for FHS as with clarite, https://github.com/HallLab/clarite.
 
+> Using CLARITE, we performed and sought replication of an EWAS in the National Health and Nutrition Examination Survey
+(NHANES) (N overall discovery=9063, N overall replication=9874) for body mass index (BMI) and over 300 environment variables,
+adjusting for sex, age, race, socioeconomic status, and survey year. Seventeen BMI results replicated at a Bonferroni corrected p <
+0.05. The top replicating results were g-tocopherol (vitamin E) and serum iron levels. Results of this EWAS are important to
+consider for metabolic trait analysis, as BMI is tightly associated with these phenotypes, and as such, exposures predictive of BMI
+may be useful for covariate and/or interaction assessment of metabolic-related traits. CLARITE allows improved data quality for
+EWAS, gene-environment interactions, and phenome-wide association studies, by establishing a standardized and high-throughput
+quality control pipeline. Thus, CLARITE is recommended for studying the environmental factors underlying metabolic disease.
+
 ### Implementations
 
 **inverse Normal transformation**
