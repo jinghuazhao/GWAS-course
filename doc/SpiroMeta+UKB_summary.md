@@ -112,9 +112,7 @@ may be useful for covariate and/or interaction assessment of metabolic-related t
 EWAS, gene-environment interactions, and phenome-wide association studies, by establishing a standardized and high-throughput
 quality control pipeline.
 
-**Framingham Study**
-
-Apr 17, 2019
+**Framingham Study** (Apr 17, 2019)
 
 > The long-running Framingham Heart Study has received a $38 million grant to continue for another six years, the Boston Globe reports.
 
